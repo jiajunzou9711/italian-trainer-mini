@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Italian Exam Trainer Mini</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1f2328;
+      --muted: #687076;
+      --line: #d9dee3;
+      --panel: #ffffff;
+      --soft: #f4f7f8;
+      --accent: #0b6bcb;
+      --accent-strong: #074f97;
+      --ok: #16794c;
+      --bad: #b42318;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 20px;
+      background: #eef3f5;
+      color: var(--ink);
+    }
+
+    header {
+      background: var(--panel);
+      border-bottom: 1px solid var(--line);
+      padding: 18px 20px 14px;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+    }
+
+    .topbar {
+      align-items: center;
+      display: flex;
+      gap: 14px;
+      justify-content: space-between;
+      margin: 0 auto;
+      max-width: 1040px;
+    }
+
+    h1 {
+      font-size: 30px;
+      line-height: 1.2;
+      margin: 0;
+    }
+
+    main {
+      margin: 0 auto;
+      max-width: 1040px;
+      padding: 18px 20px 28px;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 2px;
+    }
+
+    button,
+    select {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      color: var(--ink);
+      font: inherit;
+      min-height: 50px;
+      padding: 10px 16px;
+    }
+
+    button {
+      cursor: pointer;
+    }
+
+    button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      font-weight: 650;
+    }
+
+    button.primary:hover {
+      background: var(--accent-strong);
+    }
+
+    button.tab {
+      white-space: nowrap;
+    }
+
+    button.tab.active {
+      background: #dceefd;
+      border-color: #9ac7ef;
+      color: #064984;
+      font-weight: 650;
+    }
+
+    .toolbar {
+      align-items: center;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: space-between;
+      margin: 0 0 14px;
+    }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 22px;
+    }
+
+    .grid {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .word-card {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      min-height: 190px;
+      padding: 18px;
+      background: #fff;
+    }
+
+    .word-head {
+      align-items: start;
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+    }
+
+    .word {
+      font-size: 34px;
+      font-weight: 750;
+      line-height: 1.15;
+    }
+
+    .ipa {
+      color: var(--muted);
+      font-size: 19px;
+      margin-top: 4px;
+    }
+
+    .badge {
+      background: #ebf1f4;
+      border-radius: 999px;
+      color: #3d4850;
+      display: inline-block;
+      font-size: 16px;
+      font-weight: 700;
+      padding: 6px 10px;
+      white-space: nowrap;
+    }
+
+    .meaning {
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      margin-top: 12px;
+      min-height: 58px;
+      padding-top: 12px;
+    }
+
+    .mini-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .lesson {
+      display: grid;
+      gap: 12px;
+    }
+
+    .lesson h2 {
+      font-size: 28px;
+      margin: 0;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .question {
+      border-top: 1px solid var(--line);
+      margin-top: 14px;
+      padding-top: 14px;
+    }
+
+    .options {
+      display: grid;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .option {
+      text-align: left;
+    }
+
+    .option.correct {
+      border-color: #70c49a;
+      background: #e9f8ef;
+    }
+
+    .option.wrong {
+      border-color: #ef9a92;
+      background: #fff0ef;
+    }
+
+    .result {
+      font-weight: 700;
+      margin-top: 12px;
+    }
+
+    .result.ok {
+      color: var(--ok);
+    }
+
+    .result.bad {
+      color: var(--bad);
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    @media (max-width: 620px) {
+      header {
+        padding: 14px 12px 10px;
+      }
+
+      main {
+        padding: 14px 12px 24px;
+      }
+
+      .topbar {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="topbar">
+      <h1>Italian Exam Trainer Mini</h1>
+      <div class="tabs" aria-label="Sections">
+        <button class="tab active" data-tab="vocab">单词</button>
+        <button class="tab" data-tab="grammar">语法</button>
+        <button class="tab" data-tab="exam">测试</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="vocab" class="panel">
+      <div class="toolbar">
+        <div>
+          <strong>单词练习</strong>
+          <span class="muted">点击卡片查看中文释义，可朗读意大利语。</span>
+        </div>
+        <div>
+          <select id="levelSelect" aria-label="Level">
+            <option>A1</option>
+            <option>A2</option>
+            <option>B1</option>
+            <option>B2</option>
+          </select>
+          <button class="primary" id="nextWords">换一组</button>
+        </div>
+      </div>
+      <div id="wordGrid" class="grid"></div>
+    </section>
+
+    <section id="grammar" class="panel hidden">
+      <div class="toolbar">
+        <div>
+          <strong>语法精讲</strong>
+          <span class="muted">迷你版只放一个语法点和三道题。</span>
+        </div>
+      </div>
+      <div class="lesson">
+        <h2>Passato prossimo vs imperfetto</h2>
+        <p><strong>使用场景：</strong>用 <em>imperfetto</em> 表示过去背景、习惯或正在进行的状态；用 <em>passato prossimo</em> 表示完成的具体事件。</p>
+        <p><strong>结构：</strong>Mentre + imperfetto, passato prossimo. 例如：<em>Mentre studiavo, è suonato il telefono.</em></p>
+        <div id="grammarQuiz"></div>
+      </div>
+    </section>
+
+    <section id="exam" class="panel hidden">
+      <div class="toolbar">
+        <div>
+          <strong>等级测试</strong>
+          <span class="muted">快速体验版，答完立即显示分数。</span>
+        </div>
+        <button class="primary" id="resetExam">重新开始</button>
+      </div>
+      <div id="examQuiz"></div>
+      <div id="score" class="result"></div>
+    </section>
+  </main>
+
+  <script>
+    const words = [
+      { level: "A1", word: "casa", ipa: "/kaza/", zh: "家；房子", example: "La casa e piccola." },
+      { level: "A1", word: "madre", ipa: "/madre/", zh: "母亲", example: "Mia madre vive a Roma." },
+      { level: "A1", word: "stanza", ipa: "/stantsa/", zh: "房间", example: "La stanza e luminosa." },
+      { level: "A1", word: "tavolo", ipa: "/tavolo/", zh: "桌子", example: "Il libro e sul tavolo." },
+      { level: "A2", word: "viaggio", ipa: "/vjaddzo/", zh: "旅行", example: "Il viaggio e stato lungo." },
+      { level: "A2", word: "negozio", ipa: "/negotsjo/", zh: "商店", example: "Il negozio chiude alle otto." },
+      { level: "A2", word: "prenotare", ipa: "/prenotare/", zh: "预订", example: "Vorrei prenotare un tavolo." },
+      { level: "B1", word: "offerta", ipa: "/offerta/", zh: "机会；优惠", example: "Accetterei l'offerta." },
+      { level: "B1", word: "prudente", ipa: "/prudente/", zh: "谨慎的", example: "E una scelta prudente." },
+      { level: "B2", word: "commissione", ipa: "/kommissjone/", zh: "委员会", example: "La commissione corregge le prove." },
+      { level: "B2", word: "appuntamento", ipa: "/appuntamento/", zh: "预约；约会", example: "Si riceve su appuntamento." },
+      { level: "B2", word: "spiegare", ipa: "/spjegare/", zh: "解释", example: "Me lo puoi spiegare meglio?" }
+    ];
+
+    const grammarQuestions = [
+      {
+        stem: "Mentre io ___, e arrivato Marco.",
+        options: ["studiavo", "ho studiato", "studiero"],
+        answer: 0,
+        explanation: "背景动作使用 imperfetto: studiavo."
+      },
+      {
+        stem: "Ieri ___ tutto il giorno.",
+        options: ["lavoravo sempre", "ho lavorato", "lavoro"],
+        answer: 1,
+        explanation: "具体完成事件使用 passato prossimo: ho lavorato."
+      },
+      {
+        stem: "Da piccolo ___ in campagna.",
+        options: ["abitavo", "ho abitato ieri", "abito"],
+        answer: 0,
+        explanation: "过去习惯或状态使用 imperfetto: abitavo."
+      }
+    ];
+
+    const examQuestions = [
+      {
+        stem: "Il libro e ___ tavolo.",
+        options: ["sul", "nel", "alla", "dello"],
+        answer: 0,
+        explanation: "su + il = sul."
+      },
+      {
+        stem: "Vorrei ___ cappuccino.",
+        options: ["una", "un", "uno", "il"],
+        answer: 1,
+        explanation: "cappuccino 是阳性单数，常用 un."
+      },
+      {
+        stem: "Se avessi piu tempo, ___ di piu.",
+        options: ["leggevo", "leggerei", "ho letto", "leggo"],
+        answer: 1,
+        explanation: "非现实假设主句用 condizionale: leggerei."
+      }
+    ];
+
+    function speak(text) {
+      if (!("speechSynthesis" in window)) return;
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = "it-IT";
+      window.speechSynthesis.speak(utterance);
+    }
+
+    function sample(items, count) {
+      return [...items].sort(() => Math.random() - 0.5).slice(0, count);
+    }
+
+    function renderWords() {
+      const level = document.querySelector("#levelSelect").value;
+      const chosen = sample(words.filter(item => item.level === level), 4);
+      const grid = document.querySelector("#wordGrid");
+      grid.innerHTML = chosen.map((item, index) => `
+        <article class="word-card">
+          <div class="word-head">
+            <div>
+              <div class="word">${item.word}</div>
+              <div class="ipa">${item.ipa}</div>
+            </div>
+            <span class="badge">${item.level}</span>
+          </div>
+          <div class="meaning" id="meaning-${index}">中文释义已隐藏</div>
+          <div class="mini-actions">
+            <button data-reveal="${index}" data-zh="${item.zh}" data-example="${item.example}">显示释义</button>
+            <button data-speak="${item.word}">朗读</button>
+          </div>
+        </article>
+      `).join("");
+    }
+
+    function renderQuiz(targetID, questions, withScore) {
+      const target = document.querySelector(targetID);
+      target.innerHTML = questions.map((q, qIndex) => `
+        <div class="question" data-question="${qIndex}">
+          <strong>${qIndex + 1}. ${q.stem}</strong>
+          <div class="options">
+            ${q.options.map((option, index) => `
+              <button class="option" data-q="${qIndex}" data-a="${index}" data-score="${withScore ? "1" : "0"}">${option}</button>
+            `).join("")}
+          </div>
+          <div class="result" id="${targetID.slice(1)}-result-${qIndex}"></div>
+        </div>
+      `).join("");
+      if (withScore) updateScore();
+    }
+
+    function updateScore() {
+      const answered = document.querySelectorAll("#examQuiz .question[data-done='1']").length;
+      const correct = document.querySelectorAll("#examQuiz .option.correct[data-picked='1']").length;
+      document.querySelector("#score").textContent = answered
+        ? `当前分数：${correct} / ${examQuestions.length}`
+        : "";
+    }
+
+    document.addEventListener("click", event => {
+      const tab = event.target.closest("[data-tab]");
+      if (tab) {
+        document.querySelectorAll(".tab").forEach(button => button.classList.toggle("active", button === tab));
+        document.querySelectorAll("main > section").forEach(section => section.classList.add("hidden"));
+        document.querySelector(`#${tab.dataset.tab}`).classList.remove("hidden");
+      }
+
+      const reveal = event.target.closest("[data-reveal]");
+      if (reveal) {
+        const box = document.querySelector(`#meaning-${reveal.dataset.reveal}`);
+        box.innerHTML = `<strong>${reveal.dataset.zh}</strong><br><span class="muted">${reveal.dataset.example}</span>`;
+      }
+
+      const speakButton = event.target.closest("[data-speak]");
+      if (speakButton) speak(speakButton.dataset.speak);
+
+      const option = event.target.closest(".option");
+      if (option) {
+        const container = option.closest(".question");
+        if (container.dataset.done === "1") return;
+        const questionSet = option.dataset.score === "1" ? examQuestions : grammarQuestions;
+        const question = questionSet[Number(option.dataset.q)];
+        const picked = Number(option.dataset.a);
+        container.dataset.done = "1";
+        option.dataset.picked = "1";
+        container.querySelectorAll(".option").forEach((button, index) => {
+          if (index === question.answer) button.classList.add("correct");
+          if (button === option && picked !== question.answer) button.classList.add("wrong");
+        });
+        const result = container.querySelector(".result");
+        result.className = picked === question.answer ? "result ok" : "result bad";
+        result.textContent = `${picked === question.answer ? "正确" : "错误"}：${question.explanation}`;
+        updateScore();
+      }
+    });
+
+    document.querySelector("#levelSelect").addEventListener("change", renderWords);
+    document.querySelector("#nextWords").addEventListener("click", renderWords);
+    document.querySelector("#resetExam").addEventListener("click", () => renderQuiz("#examQuiz", examQuestions, true));
+
+    renderWords();
+    renderQuiz("#grammarQuiz", grammarQuestions, false);
+    renderQuiz("#examQuiz", examQuestions, true);
+  </script>
+</body>
+</html>
