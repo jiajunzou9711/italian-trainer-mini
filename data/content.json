@@ -1,0 +1,8564 @@
+{
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "words": [
+    {
+      "id": "A1_001",
+      "level": "A1",
+      "word": "figli",
+      "ipa": "/fiʎʎi/",
+      "meaningZh": "孩子（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_002",
+      "level": "A1",
+      "word": "fratello",
+      "ipa": "/fratello/",
+      "meaningZh": "兄弟",
+      "examples": []
+    },
+    {
+      "id": "A1_003",
+      "level": "A1",
+      "word": "genitori",
+      "ipa": "/dʒenitori/",
+      "meaningZh": "父母",
+      "examples": []
+    },
+    {
+      "id": "A1_004",
+      "level": "A1",
+      "word": "madre",
+      "ipa": "/madre/",
+      "meaningZh": "母亲",
+      "examples": [
+        {
+          "it": "Mia madre lavora in ospedale.",
+          "zh": "我妈妈在医院工作。"
+        }
+      ]
+    },
+    {
+      "id": "A1_005",
+      "level": "A1",
+      "word": "nonno",
+      "ipa": "/nonno/",
+      "meaningZh": "祖父",
+      "examples": []
+    },
+    {
+      "id": "A1_006",
+      "level": "A1",
+      "word": "padre",
+      "ipa": "/padre/",
+      "meaningZh": "父亲",
+      "examples": []
+    },
+    {
+      "id": "A1_007",
+      "level": "A1",
+      "word": "sorella",
+      "ipa": "/sorella/",
+      "meaningZh": "姐妹",
+      "examples": []
+    },
+    {
+      "id": "A1_008",
+      "level": "A1",
+      "word": "zia",
+      "ipa": "/tsia/",
+      "meaningZh": "姨/姑/伯母",
+      "examples": []
+    },
+    {
+      "id": "A1_009",
+      "level": "A1",
+      "word": "affitto",
+      "ipa": "/affitto/",
+      "meaningZh": "房租；租赁",
+      "examples": []
+    },
+    {
+      "id": "A1_010",
+      "level": "A1",
+      "word": "appartamento",
+      "ipa": "/appartamento/",
+      "meaningZh": "公寓",
+      "examples": []
+    },
+    {
+      "id": "A1_011",
+      "level": "A1",
+      "word": "bagno",
+      "ipa": "/baɲo/",
+      "meaningZh": "浴室；卫生间",
+      "examples": []
+    },
+    {
+      "id": "A1_012",
+      "level": "A1",
+      "word": "casa",
+      "ipa": "/kaza/",
+      "meaningZh": "家；房子",
+      "examples": [
+        {
+          "it": "Questa casa è piccola ma comoda.",
+          "zh": "这所房子很小但很舒适。"
+        }
+      ]
+    },
+    {
+      "id": "A1_013",
+      "level": "A1",
+      "word": "finestra",
+      "ipa": "/finestra/",
+      "meaningZh": "窗户",
+      "examples": []
+    },
+    {
+      "id": "A1_014",
+      "level": "A1",
+      "word": "padrone",
+      "ipa": "/padrone/",
+      "meaningZh": "房东；主人",
+      "examples": []
+    },
+    {
+      "id": "A1_015",
+      "level": "A1",
+      "word": "piano",
+      "ipa": "/piano/",
+      "meaningZh": "楼层",
+      "examples": []
+    },
+    {
+      "id": "A1_016",
+      "level": "A1",
+      "word": "porta",
+      "ipa": "/porta/",
+      "meaningZh": "门",
+      "examples": []
+    },
+    {
+      "id": "A1_017",
+      "level": "A1",
+      "word": "riscaldamento",
+      "ipa": "/riskaldamento/",
+      "meaningZh": "供暖",
+      "examples": []
+    },
+    {
+      "id": "A1_018",
+      "level": "A1",
+      "word": "stanza",
+      "ipa": "/stantsa/",
+      "meaningZh": "房间",
+      "examples": []
+    },
+    {
+      "id": "A1_019",
+      "level": "A1",
+      "word": "cucina",
+      "ipa": "/kutʃina/",
+      "meaningZh": "厨房",
+      "examples": []
+    },
+    {
+      "id": "A1_020",
+      "level": "A1",
+      "word": "letto",
+      "ipa": "/letto/",
+      "meaningZh": "床",
+      "examples": []
+    },
+    {
+      "id": "A1_021",
+      "level": "A1",
+      "word": "lume",
+      "ipa": "/lume/",
+      "meaningZh": "灯",
+      "examples": []
+    },
+    {
+      "id": "A1_022",
+      "level": "A1",
+      "word": "sedia",
+      "ipa": "/sedia/",
+      "meaningZh": "椅子",
+      "examples": []
+    },
+    {
+      "id": "A1_023",
+      "level": "A1",
+      "word": "tavolo",
+      "ipa": "/tavolo/",
+      "meaningZh": "桌子",
+      "examples": []
+    },
+    {
+      "id": "A1_024",
+      "level": "A1",
+      "word": "camicia",
+      "ipa": "/kamitʃa/",
+      "meaningZh": "衬衫",
+      "examples": []
+    },
+    {
+      "id": "A1_025",
+      "level": "A1",
+      "word": "giaccone",
+      "ipa": "/dʒakkone/",
+      "meaningZh": "夹克（厚）",
+      "examples": []
+    },
+    {
+      "id": "A1_026",
+      "level": "A1",
+      "word": "gonna",
+      "ipa": "/gonna/",
+      "meaningZh": "裙子",
+      "examples": []
+    },
+    {
+      "id": "A1_027",
+      "level": "A1",
+      "word": "maglietta",
+      "ipa": "/maʎetta/",
+      "meaningZh": "T恤",
+      "examples": []
+    },
+    {
+      "id": "A1_028",
+      "level": "A1",
+      "word": "pantaloni",
+      "ipa": "/pantaloni/",
+      "meaningZh": "裤子（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_029",
+      "level": "A1",
+      "word": "scarpe",
+      "ipa": "/skarpe/",
+      "meaningZh": "鞋（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_030",
+      "level": "A1",
+      "word": "vestito",
+      "ipa": "/vestito/",
+      "meaningZh": "衣服；连衣裙",
+      "examples": []
+    },
+    {
+      "id": "A1_031",
+      "level": "A1",
+      "word": "bicchiere",
+      "ipa": "/bikkiere/",
+      "meaningZh": "玻璃杯",
+      "examples": []
+    },
+    {
+      "id": "A1_032",
+      "level": "A1",
+      "word": "bottiglia",
+      "ipa": "/bottiʎa/",
+      "meaningZh": "瓶子",
+      "examples": []
+    },
+    {
+      "id": "A1_033",
+      "level": "A1",
+      "word": "coltello",
+      "ipa": "/koltello/",
+      "meaningZh": "刀",
+      "examples": []
+    },
+    {
+      "id": "A1_034",
+      "level": "A1",
+      "word": "cucchiaio",
+      "ipa": "/kukkiaio/",
+      "meaningZh": "勺子",
+      "examples": []
+    },
+    {
+      "id": "A1_035",
+      "level": "A1",
+      "word": "forchetta",
+      "ipa": "/forketta/",
+      "meaningZh": "叉子",
+      "examples": []
+    },
+    {
+      "id": "A1_036",
+      "level": "A1",
+      "word": "piatto",
+      "ipa": "/piatto/",
+      "meaningZh": "盘子",
+      "examples": []
+    },
+    {
+      "id": "A1_037",
+      "level": "A1",
+      "word": "tazza",
+      "ipa": "/tattsa/",
+      "meaningZh": "杯子",
+      "examples": []
+    },
+    {
+      "id": "A1_038",
+      "level": "A1",
+      "word": "tv",
+      "ipa": "/tiˈvu/",
+      "meaningZh": "电视",
+      "examples": []
+    },
+    {
+      "id": "A1_039",
+      "level": "A1",
+      "word": "asciugamano",
+      "ipa": "/aʃugamano/",
+      "meaningZh": "毛巾",
+      "examples": []
+    },
+    {
+      "id": "A1_040",
+      "level": "A1",
+      "word": "dentifricio",
+      "ipa": "/dentifritʃo/",
+      "meaningZh": "牙膏",
+      "examples": []
+    },
+    {
+      "id": "A1_041",
+      "level": "A1",
+      "word": "fazzoletto",
+      "ipa": "/fattsoletto/",
+      "meaningZh": "手帕；纸巾",
+      "examples": []
+    },
+    {
+      "id": "A1_042",
+      "level": "A1",
+      "word": "sapone",
+      "ipa": "/sapone/",
+      "meaningZh": "肥皂",
+      "examples": []
+    },
+    {
+      "id": "A1_043",
+      "level": "A1",
+      "word": "straccio",
+      "ipa": "/strattʃo/",
+      "meaningZh": "抹布",
+      "examples": []
+    },
+    {
+      "id": "A1_044",
+      "level": "A1",
+      "word": "cane",
+      "ipa": "/kane/",
+      "meaningZh": "狗",
+      "examples": []
+    },
+    {
+      "id": "A1_045",
+      "level": "A1",
+      "word": "gatto",
+      "ipa": "/gatto/",
+      "meaningZh": "猫",
+      "examples": []
+    },
+    {
+      "id": "A1_046",
+      "level": "A1",
+      "word": "maiale",
+      "ipa": "/maiale/",
+      "meaningZh": "猪",
+      "examples": []
+    },
+    {
+      "id": "A1_047",
+      "level": "A1",
+      "word": "uccello",
+      "ipa": "/uttʃello/",
+      "meaningZh": "鸟",
+      "examples": []
+    },
+    {
+      "id": "A1_048",
+      "level": "A1",
+      "word": "giorno",
+      "ipa": "/dʒorno/",
+      "meaningZh": "白天；一天",
+      "examples": []
+    },
+    {
+      "id": "A1_049",
+      "level": "A1",
+      "word": "luna",
+      "ipa": "/luna/",
+      "meaningZh": "月亮",
+      "examples": []
+    },
+    {
+      "id": "A1_050",
+      "level": "A1",
+      "word": "neve",
+      "ipa": "/neve/",
+      "meaningZh": "雪",
+      "examples": []
+    },
+    {
+      "id": "A1_051",
+      "level": "A1",
+      "word": "notte",
+      "ipa": "/notte/",
+      "meaningZh": "夜晚",
+      "examples": []
+    },
+    {
+      "id": "A1_052",
+      "level": "A1",
+      "word": "nuvola",
+      "ipa": "/nuvola/",
+      "meaningZh": "云",
+      "examples": []
+    },
+    {
+      "id": "A1_053",
+      "level": "A1",
+      "word": "pioggia",
+      "ipa": "/pioddʒa/",
+      "meaningZh": "雨",
+      "examples": []
+    },
+    {
+      "id": "A1_054",
+      "level": "A1",
+      "word": "sole",
+      "ipa": "/sole/",
+      "meaningZh": "太阳",
+      "examples": []
+    },
+    {
+      "id": "A1_055",
+      "level": "A1",
+      "word": "vento",
+      "ipa": "/vento/",
+      "meaningZh": "风",
+      "examples": []
+    },
+    {
+      "id": "A1_056",
+      "level": "A1",
+      "word": "alimentari",
+      "ipa": "/alimentari/",
+      "meaningZh": "食品杂货店",
+      "examples": []
+    },
+    {
+      "id": "A1_057",
+      "level": "A1",
+      "word": "mercato",
+      "ipa": "/merkato/",
+      "meaningZh": "市场",
+      "examples": []
+    },
+    {
+      "id": "A1_058",
+      "level": "A1",
+      "word": "supermercato",
+      "ipa": "/supermerkato/",
+      "meaningZh": "超市",
+      "examples": []
+    },
+    {
+      "id": "A1_059",
+      "level": "A1",
+      "word": "bollettino",
+      "ipa": "/bollettino/",
+      "meaningZh": "汇款单；缴费单",
+      "examples": []
+    },
+    {
+      "id": "A1_060",
+      "level": "A1",
+      "word": "conto",
+      "ipa": "/konto/",
+      "meaningZh": "账单；账户",
+      "examples": []
+    },
+    {
+      "id": "A1_061",
+      "level": "A1",
+      "word": "conto corrente",
+      "ipa": "/ˈkonto korˈrɛnte/",
+      "meaningZh": "活期账户",
+      "examples": []
+    },
+    {
+      "id": "A1_062",
+      "level": "A1",
+      "word": "domanda",
+      "ipa": "/domanda/",
+      "meaningZh": "申请；问题",
+      "examples": []
+    },
+    {
+      "id": "A1_063",
+      "level": "A1",
+      "word": "e-mail",
+      "ipa": "/iˈmɛil/",
+      "meaningZh": "电子邮件",
+      "examples": []
+    },
+    {
+      "id": "A1_064",
+      "level": "A1",
+      "word": "indirizzo",
+      "ipa": "/indirittso/",
+      "meaningZh": "地址",
+      "examples": []
+    },
+    {
+      "id": "A1_065",
+      "level": "A1",
+      "word": "modulo",
+      "ipa": "/modulo/",
+      "meaningZh": "表格",
+      "examples": []
+    },
+    {
+      "id": "A1_066",
+      "level": "A1",
+      "word": "pagamento",
+      "ipa": "/pagamento/",
+      "meaningZh": "支付",
+      "examples": []
+    },
+    {
+      "id": "A1_067",
+      "level": "A1",
+      "word": "permesso di soggiorno",
+      "ipa": "/perˈmesːo di sodˈdʒorno/",
+      "meaningZh": "居留许可",
+      "examples": []
+    },
+    {
+      "id": "A1_068",
+      "level": "A1",
+      "word": "prefettura",
+      "ipa": "/prefettura/",
+      "meaningZh": "省督府",
+      "examples": []
+    },
+    {
+      "id": "A1_069",
+      "level": "A1",
+      "word": "questura",
+      "ipa": "/kwestura/",
+      "meaningZh": "警察局出入境办公室",
+      "examples": []
+    },
+    {
+      "id": "A1_070",
+      "level": "A1",
+      "word": "ricevuta",
+      "ipa": "/ritʃevuta/",
+      "meaningZh": "收据",
+      "examples": []
+    },
+    {
+      "id": "A1_071",
+      "level": "A1",
+      "word": "soldi",
+      "ipa": "/soldi/",
+      "meaningZh": "钱（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_072",
+      "level": "A1",
+      "word": "sportello",
+      "ipa": "/sportello/",
+      "meaningZh": "窗口",
+      "examples": []
+    },
+    {
+      "id": "A1_073",
+      "level": "A1",
+      "word": "visto",
+      "ipa": "/visto/",
+      "meaningZh": "签证",
+      "examples": []
+    },
+    {
+      "id": "A1_074",
+      "level": "A1",
+      "word": "acqua",
+      "ipa": "/akkwa/",
+      "meaningZh": "水",
+      "examples": [
+        {
+          "it": "Vorrei un bicchiere d'acqua.",
+          "zh": "我想要一杯水。"
+        }
+      ]
+    },
+    {
+      "id": "A1_075",
+      "level": "A1",
+      "word": "aranciata",
+      "ipa": "/arantʃata/",
+      "meaningZh": "橙味汽水",
+      "examples": []
+    },
+    {
+      "id": "A1_076",
+      "level": "A1",
+      "word": "carne",
+      "ipa": "/karne/",
+      "meaningZh": "肉",
+      "examples": []
+    },
+    {
+      "id": "A1_077",
+      "level": "A1",
+      "word": "frutta",
+      "ipa": "/frutta/",
+      "meaningZh": "水果",
+      "examples": []
+    },
+    {
+      "id": "A1_078",
+      "level": "A1",
+      "word": "minestra",
+      "ipa": "/minestra/",
+      "meaningZh": "汤",
+      "examples": []
+    },
+    {
+      "id": "A1_079",
+      "level": "A1",
+      "word": "olio",
+      "ipa": "/olio/",
+      "meaningZh": "油",
+      "examples": []
+    },
+    {
+      "id": "A1_080",
+      "level": "A1",
+      "word": "pasta",
+      "ipa": "/pasta/",
+      "meaningZh": "意面",
+      "examples": []
+    },
+    {
+      "id": "A1_081",
+      "level": "A1",
+      "word": "pesce",
+      "ipa": "/peʃe/",
+      "meaningZh": "鱼",
+      "examples": []
+    },
+    {
+      "id": "A1_082",
+      "level": "A1",
+      "word": "pollo",
+      "ipa": "/pollo/",
+      "meaningZh": "鸡肉",
+      "examples": []
+    },
+    {
+      "id": "A1_083",
+      "level": "A1",
+      "word": "riso",
+      "ipa": "/rizo/",
+      "meaningZh": "米饭",
+      "examples": []
+    },
+    {
+      "id": "A1_084",
+      "level": "A1",
+      "word": "sale",
+      "ipa": "/sale/",
+      "meaningZh": "盐",
+      "examples": []
+    },
+    {
+      "id": "A1_085",
+      "level": "A1",
+      "word": "verdure",
+      "ipa": "/verdure/",
+      "meaningZh": "蔬菜（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_086",
+      "level": "A1",
+      "word": "baby sitter",
+      "ipa": "/ˈbɛbi ˈsitːer/",
+      "meaningZh": "保姆（看孩子）",
+      "examples": []
+    },
+    {
+      "id": "A1_087",
+      "level": "A1",
+      "word": "badante",
+      "ipa": "/badante/",
+      "meaningZh": "护工",
+      "examples": []
+    },
+    {
+      "id": "A1_088",
+      "level": "A1",
+      "word": "busta paga",
+      "ipa": "/ˈbusta ˈpaɡa/",
+      "meaningZh": "工资单",
+      "examples": []
+    },
+    {
+      "id": "A1_089",
+      "level": "A1",
+      "word": "cantiere",
+      "ipa": "/kantiere/",
+      "meaningZh": "工地",
+      "examples": []
+    },
+    {
+      "id": "A1_090",
+      "level": "A1",
+      "word": "capo",
+      "ipa": "/kapo/",
+      "meaningZh": "上司",
+      "examples": []
+    },
+    {
+      "id": "A1_091",
+      "level": "A1",
+      "word": "colf",
+      "ipa": "/kolf/",
+      "meaningZh": "家政工",
+      "examples": []
+    },
+    {
+      "id": "A1_092",
+      "level": "A1",
+      "word": "contributi",
+      "ipa": "/kontributi/",
+      "meaningZh": "社保缴费（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_093",
+      "level": "A1",
+      "word": "disoccupato",
+      "ipa": "/dizokkupato/",
+      "meaningZh": "失业者；失业的",
+      "examples": []
+    },
+    {
+      "id": "A1_094",
+      "level": "A1",
+      "word": "ferie",
+      "ipa": "/ferie/",
+      "meaningZh": "假期（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_095",
+      "level": "A1",
+      "word": "operaio",
+      "ipa": "/operaio/",
+      "meaningZh": "工人",
+      "examples": []
+    },
+    {
+      "id": "A1_096",
+      "level": "A1",
+      "word": "orario di lavoro",
+      "ipa": "/oˈrarjo di laˈvoro/",
+      "meaningZh": "工作时间",
+      "examples": []
+    },
+    {
+      "id": "A1_097",
+      "level": "A1",
+      "word": "turno",
+      "ipa": "/turno/",
+      "meaningZh": "班次",
+      "examples": []
+    },
+    {
+      "id": "A1_098",
+      "level": "A1",
+      "word": "aula",
+      "ipa": "/aula/",
+      "meaningZh": "教室",
+      "examples": []
+    },
+    {
+      "id": "A1_099",
+      "level": "A1",
+      "word": "banco",
+      "ipa": "/banko/",
+      "meaningZh": "课桌",
+      "examples": []
+    },
+    {
+      "id": "A1_100",
+      "level": "A1",
+      "word": "entrata",
+      "ipa": "/entrata/",
+      "meaningZh": "入口",
+      "examples": []
+    },
+    {
+      "id": "A1_101",
+      "level": "A1",
+      "word": "insegnante",
+      "ipa": "/inseɲante/",
+      "meaningZh": "老师",
+      "examples": [
+        {
+          "it": "L'insegnante spiega molto bene.",
+          "zh": "老师讲得很好。"
+        }
+      ]
+    },
+    {
+      "id": "A1_102",
+      "level": "A1",
+      "word": "libro",
+      "ipa": "/libro/",
+      "meaningZh": "书",
+      "examples": []
+    },
+    {
+      "id": "A1_103",
+      "level": "A1",
+      "word": "mediatore",
+      "ipa": "/mediatore/",
+      "meaningZh": "调解员；中介",
+      "examples": []
+    },
+    {
+      "id": "A1_104",
+      "level": "A1",
+      "word": "orario",
+      "ipa": "/orario/",
+      "meaningZh": "时间表",
+      "examples": []
+    },
+    {
+      "id": "A1_105",
+      "level": "A1",
+      "word": "penna",
+      "ipa": "/penna/",
+      "meaningZh": "钢笔",
+      "examples": []
+    },
+    {
+      "id": "A1_106",
+      "level": "A1",
+      "word": "quaderno",
+      "ipa": "/kwaderno/",
+      "meaningZh": "练习本",
+      "examples": []
+    },
+    {
+      "id": "A1_107",
+      "level": "A1",
+      "word": "segreteria",
+      "ipa": "/segreteria/",
+      "meaningZh": "秘书处；教务处",
+      "examples": []
+    },
+    {
+      "id": "A1_108",
+      "level": "A1",
+      "word": "barba",
+      "ipa": "/barba/",
+      "meaningZh": "胡子",
+      "examples": []
+    },
+    {
+      "id": "A1_109",
+      "level": "A1",
+      "word": "bocca",
+      "ipa": "/bokka/",
+      "meaningZh": "嘴",
+      "examples": []
+    },
+    {
+      "id": "A1_110",
+      "level": "A1",
+      "word": "braccio",
+      "ipa": "/brattʃo/",
+      "meaningZh": "胳膊",
+      "examples": []
+    },
+    {
+      "id": "A1_111",
+      "level": "A1",
+      "word": "capelli",
+      "ipa": "/kapelli/",
+      "meaningZh": "头发（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_112",
+      "level": "A1",
+      "word": "dottore",
+      "ipa": "/dottore/",
+      "meaningZh": "医生",
+      "examples": []
+    },
+    {
+      "id": "A1_113",
+      "level": "A1",
+      "word": "dolore",
+      "ipa": "/dolore/",
+      "meaningZh": "疼痛",
+      "examples": []
+    },
+    {
+      "id": "A1_114",
+      "level": "A1",
+      "word": "faccia",
+      "ipa": "/fattʃa/",
+      "meaningZh": "脸",
+      "examples": []
+    },
+    {
+      "id": "A1_115",
+      "level": "A1",
+      "word": "gamba",
+      "ipa": "/gamba/",
+      "meaningZh": "腿",
+      "examples": []
+    },
+    {
+      "id": "A1_116",
+      "level": "A1",
+      "word": "gola",
+      "ipa": "/gola/",
+      "meaningZh": "喉咙",
+      "examples": []
+    },
+    {
+      "id": "A1_117",
+      "level": "A1",
+      "word": "malattia",
+      "ipa": "/malattia/",
+      "meaningZh": "疾病",
+      "examples": []
+    },
+    {
+      "id": "A1_118",
+      "level": "A1",
+      "word": "mano",
+      "ipa": "/mano/",
+      "meaningZh": "手",
+      "examples": []
+    },
+    {
+      "id": "A1_119",
+      "level": "A1",
+      "word": "occhi",
+      "ipa": "/okki/",
+      "meaningZh": "眼睛（复数）",
+      "examples": []
+    },
+    {
+      "id": "A1_120",
+      "level": "A1",
+      "word": "ospedale",
+      "ipa": "/ospedale/",
+      "meaningZh": "医院",
+      "examples": []
+    },
+    {
+      "id": "A1_121",
+      "level": "A1",
+      "word": "pancia",
+      "ipa": "/pantʃa/",
+      "meaningZh": "肚子",
+      "examples": []
+    },
+    {
+      "id": "A1_122",
+      "level": "A1",
+      "word": "piede",
+      "ipa": "/piede/",
+      "meaningZh": "脚",
+      "examples": []
+    },
+    {
+      "id": "A1_123",
+      "level": "A1",
+      "word": "testa",
+      "ipa": "/testa/",
+      "meaningZh": "头",
+      "examples": []
+    },
+    {
+      "id": "A1_124",
+      "level": "A1",
+      "word": "albanese",
+      "ipa": "/albaneze/",
+      "meaningZh": "阿尔巴尼亚人；阿尔巴尼亚的",
+      "examples": []
+    },
+    {
+      "id": "A1_125",
+      "level": "A1",
+      "word": "algerino",
+      "ipa": "/aldʒerino/",
+      "meaningZh": "阿尔及利亚人；阿尔及利亚的",
+      "examples": []
+    },
+    {
+      "id": "A1_126",
+      "level": "A1",
+      "word": "cinese",
+      "ipa": "/tʃineze/",
+      "meaningZh": "中国人；中国的",
+      "examples": []
+    },
+    {
+      "id": "A1_127",
+      "level": "A1",
+      "word": "egiziano",
+      "ipa": "/edʒitsiano/",
+      "meaningZh": "埃及人；埃及的",
+      "examples": []
+    },
+    {
+      "id": "A1_128",
+      "level": "A1",
+      "word": "filippino",
+      "ipa": "/filippino/",
+      "meaningZh": "菲律宾人；菲律宾的",
+      "examples": []
+    },
+    {
+      "id": "A1_129",
+      "level": "A1",
+      "word": "italiano",
+      "ipa": "/italiano/",
+      "meaningZh": "意大利人；意大利的",
+      "examples": []
+    },
+    {
+      "id": "A1_130",
+      "level": "A1",
+      "word": "marocchino",
+      "ipa": "/marokkino/",
+      "meaningZh": "摩洛哥人；摩洛哥的",
+      "examples": []
+    },
+    {
+      "id": "A1_131",
+      "level": "A1",
+      "word": "russo",
+      "ipa": "/russo/",
+      "meaningZh": "俄罗斯人；俄罗斯的",
+      "examples": []
+    },
+    {
+      "id": "A1_132",
+      "level": "A1",
+      "word": "tunisino",
+      "ipa": "/tunizino/",
+      "meaningZh": "突尼斯人；突尼斯的",
+      "examples": []
+    },
+    {
+      "id": "A1_133",
+      "level": "A1",
+      "word": "ucraino",
+      "ipa": "/ukraino/",
+      "meaningZh": "乌克兰人；乌克兰的",
+      "examples": []
+    },
+    {
+      "id": "A1_134",
+      "level": "A1",
+      "word": "cristiano",
+      "ipa": "/kristiano/",
+      "meaningZh": "基督徒；基督教的",
+      "examples": []
+    },
+    {
+      "id": "A1_135",
+      "level": "A1",
+      "word": "buddista",
+      "ipa": "/buddista/",
+      "meaningZh": "佛教徒；佛教的",
+      "examples": []
+    },
+    {
+      "id": "A1_136",
+      "level": "A1",
+      "word": "musulmano",
+      "ipa": "/muzulmano/",
+      "meaningZh": "穆斯林；伊斯兰教的",
+      "examples": []
+    },
+    {
+      "id": "A2_001",
+      "level": "A2",
+      "word": "cognato",
+      "ipa": "/koɲato/",
+      "meaningZh": "姐夫；妹夫；内兄弟",
+      "examples": []
+    },
+    {
+      "id": "A2_002",
+      "level": "A2",
+      "word": "cugina",
+      "ipa": "/kudʒina/",
+      "meaningZh": "堂/表姐妹",
+      "examples": []
+    },
+    {
+      "id": "A2_003",
+      "level": "A2",
+      "word": "figli",
+      "ipa": "/fiʎʎi/",
+      "meaningZh": "孩子（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_004",
+      "level": "A2",
+      "word": "genitori",
+      "ipa": "/dʒenitori/",
+      "meaningZh": "父母",
+      "examples": []
+    },
+    {
+      "id": "A2_005",
+      "level": "A2",
+      "word": "madre",
+      "ipa": "/madre/",
+      "meaningZh": "母亲",
+      "examples": []
+    },
+    {
+      "id": "A2_006",
+      "level": "A2",
+      "word": "nonno",
+      "ipa": "/nonno/",
+      "meaningZh": "祖父",
+      "examples": []
+    },
+    {
+      "id": "A2_007",
+      "level": "A2",
+      "word": "padre",
+      "ipa": "/padre/",
+      "meaningZh": "父亲",
+      "examples": []
+    },
+    {
+      "id": "A2_008",
+      "level": "A2",
+      "word": "parente",
+      "ipa": "/parente/",
+      "meaningZh": "亲戚",
+      "examples": []
+    },
+    {
+      "id": "A2_009",
+      "level": "A2",
+      "word": "zio",
+      "ipa": "/tsio/",
+      "meaningZh": "叔/伯/舅/姨夫",
+      "examples": []
+    },
+    {
+      "id": "A2_010",
+      "level": "A2",
+      "word": "affitto",
+      "ipa": "/affitto/",
+      "meaningZh": "房租；租赁",
+      "examples": []
+    },
+    {
+      "id": "A2_011",
+      "level": "A2",
+      "word": "bagno",
+      "ipa": "/baɲo/",
+      "meaningZh": "浴室；卫生间",
+      "examples": []
+    },
+    {
+      "id": "A2_012",
+      "level": "A2",
+      "word": "balcone",
+      "ipa": "/balkone/",
+      "meaningZh": "阳台",
+      "examples": []
+    },
+    {
+      "id": "A2_013",
+      "level": "A2",
+      "word": "doccia",
+      "ipa": "/dottʃa/",
+      "meaningZh": "淋浴",
+      "examples": []
+    },
+    {
+      "id": "A2_014",
+      "level": "A2",
+      "word": "periferia",
+      "ipa": "/periferia/",
+      "meaningZh": "郊区",
+      "examples": []
+    },
+    {
+      "id": "A2_015",
+      "level": "A2",
+      "word": "piano",
+      "ipa": "/piano/",
+      "meaningZh": "楼层",
+      "examples": []
+    },
+    {
+      "id": "A2_016",
+      "level": "A2",
+      "word": "riscaldamento",
+      "ipa": "/riskaldamento/",
+      "meaningZh": "供暖",
+      "examples": []
+    },
+    {
+      "id": "A2_017",
+      "level": "A2",
+      "word": "stanza",
+      "ipa": "/stantsa/",
+      "meaningZh": "房间",
+      "examples": []
+    },
+    {
+      "id": "A2_018",
+      "level": "A2",
+      "word": "zona",
+      "ipa": "/tsona/",
+      "meaningZh": "区域",
+      "examples": []
+    },
+    {
+      "id": "A2_019",
+      "level": "A2",
+      "word": "cucina",
+      "ipa": "/kutʃina/",
+      "meaningZh": "厨房",
+      "examples": []
+    },
+    {
+      "id": "A2_020",
+      "level": "A2",
+      "word": "frigorifero",
+      "ipa": "/frigorifero/",
+      "meaningZh": "冰箱",
+      "examples": []
+    },
+    {
+      "id": "A2_021",
+      "level": "A2",
+      "word": "forno",
+      "ipa": "/forno/",
+      "meaningZh": "烤箱",
+      "examples": []
+    },
+    {
+      "id": "A2_022",
+      "level": "A2",
+      "word": "letto",
+      "ipa": "/letto/",
+      "meaningZh": "床",
+      "examples": []
+    },
+    {
+      "id": "A2_023",
+      "level": "A2",
+      "word": "mobile",
+      "ipa": "/mobile/",
+      "meaningZh": "家具",
+      "examples": []
+    },
+    {
+      "id": "A2_024",
+      "level": "A2",
+      "word": "poltrona",
+      "ipa": "/poltrona/",
+      "meaningZh": "扶手椅",
+      "examples": []
+    },
+    {
+      "id": "A2_025",
+      "level": "A2",
+      "word": "sedia",
+      "ipa": "/sedia/",
+      "meaningZh": "椅子",
+      "examples": []
+    },
+    {
+      "id": "A2_026",
+      "level": "A2",
+      "word": "calze",
+      "ipa": "/kaltse/",
+      "meaningZh": "长袜（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_027",
+      "level": "A2",
+      "word": "calzini",
+      "ipa": "/kaltsini/",
+      "meaningZh": "短袜（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_028",
+      "level": "A2",
+      "word": "camicia",
+      "ipa": "/kamitʃa/",
+      "meaningZh": "衬衫",
+      "examples": []
+    },
+    {
+      "id": "A2_029",
+      "level": "A2",
+      "word": "giaccone",
+      "ipa": "/dʒakkone/",
+      "meaningZh": "夹克（厚）",
+      "examples": []
+    },
+    {
+      "id": "A2_030",
+      "level": "A2",
+      "word": "gonna",
+      "ipa": "/gonna/",
+      "meaningZh": "裙子",
+      "examples": []
+    },
+    {
+      "id": "A2_031",
+      "level": "A2",
+      "word": "maglietta",
+      "ipa": "/maʎetta/",
+      "meaningZh": "T恤",
+      "examples": []
+    },
+    {
+      "id": "A2_032",
+      "level": "A2",
+      "word": "pantaloni",
+      "ipa": "/pantaloni/",
+      "meaningZh": "裤子（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_033",
+      "level": "A2",
+      "word": "sandali",
+      "ipa": "/sandali/",
+      "meaningZh": "凉鞋（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_034",
+      "level": "A2",
+      "word": "scarpe",
+      "ipa": "/skarpe/",
+      "meaningZh": "鞋（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_035",
+      "level": "A2",
+      "word": "asciugamani",
+      "ipa": "/aʃugamani/",
+      "meaningZh": "毛巾（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_036",
+      "level": "A2",
+      "word": "coltello",
+      "ipa": "/koltello/",
+      "meaningZh": "刀",
+      "examples": []
+    },
+    {
+      "id": "A2_037",
+      "level": "A2",
+      "word": "coperchio",
+      "ipa": "/koperkio/",
+      "meaningZh": "盖子",
+      "examples": []
+    },
+    {
+      "id": "A2_038",
+      "level": "A2",
+      "word": "cucchiaio",
+      "ipa": "/kukkiaio/",
+      "meaningZh": "勺子",
+      "examples": []
+    },
+    {
+      "id": "A2_039",
+      "level": "A2",
+      "word": "forchetta",
+      "ipa": "/forketta/",
+      "meaningZh": "叉子",
+      "examples": []
+    },
+    {
+      "id": "A2_040",
+      "level": "A2",
+      "word": "pentola",
+      "ipa": "/pentola/",
+      "meaningZh": "锅",
+      "examples": []
+    },
+    {
+      "id": "A2_041",
+      "level": "A2",
+      "word": "specchio",
+      "ipa": "/spekkio/",
+      "meaningZh": "镜子",
+      "examples": []
+    },
+    {
+      "id": "A2_042",
+      "level": "A2",
+      "word": "tv",
+      "ipa": "/tiˈvu/",
+      "meaningZh": "电视",
+      "examples": []
+    },
+    {
+      "id": "A2_043",
+      "level": "A2",
+      "word": "tovaglia",
+      "ipa": "/tovaʎa/",
+      "meaningZh": "桌布",
+      "examples": []
+    },
+    {
+      "id": "A2_044",
+      "level": "A2",
+      "word": "vaso",
+      "ipa": "/vazo/",
+      "meaningZh": "花瓶",
+      "examples": []
+    },
+    {
+      "id": "A2_045",
+      "level": "A2",
+      "word": "detersivo",
+      "ipa": "/detersivo/",
+      "meaningZh": "清洁剂",
+      "examples": []
+    },
+    {
+      "id": "A2_046",
+      "level": "A2",
+      "word": "dentifricio",
+      "ipa": "/dentifritʃo/",
+      "meaningZh": "牙膏",
+      "examples": []
+    },
+    {
+      "id": "A2_047",
+      "level": "A2",
+      "word": "deodorante",
+      "ipa": "/deodorante/",
+      "meaningZh": "除臭剂；止汗剂",
+      "examples": []
+    },
+    {
+      "id": "A2_048",
+      "level": "A2",
+      "word": "fazzoletto",
+      "ipa": "/fattsoletto/",
+      "meaningZh": "手帕；纸巾",
+      "examples": []
+    },
+    {
+      "id": "A2_049",
+      "level": "A2",
+      "word": "rasoio",
+      "ipa": "/razoio/",
+      "meaningZh": "剃须刀",
+      "examples": []
+    },
+    {
+      "id": "A2_050",
+      "level": "A2",
+      "word": "sapone",
+      "ipa": "/sapone/",
+      "meaningZh": "肥皂",
+      "examples": []
+    },
+    {
+      "id": "A2_051",
+      "level": "A2",
+      "word": "spazzolino",
+      "ipa": "/spattsolino/",
+      "meaningZh": "牙刷",
+      "examples": []
+    },
+    {
+      "id": "A2_052",
+      "level": "A2",
+      "word": "spugna",
+      "ipa": "/spuɲa/",
+      "meaningZh": "海绵",
+      "examples": []
+    },
+    {
+      "id": "A2_053",
+      "level": "A2",
+      "word": "cane",
+      "ipa": "/kane/",
+      "meaningZh": "狗",
+      "examples": []
+    },
+    {
+      "id": "A2_054",
+      "level": "A2",
+      "word": "gatto",
+      "ipa": "/gatto/",
+      "meaningZh": "猫",
+      "examples": []
+    },
+    {
+      "id": "A2_055",
+      "level": "A2",
+      "word": "maiale",
+      "ipa": "/maiale/",
+      "meaningZh": "猪",
+      "examples": []
+    },
+    {
+      "id": "A2_056",
+      "level": "A2",
+      "word": "topo",
+      "ipa": "/topo/",
+      "meaningZh": "老鼠",
+      "examples": []
+    },
+    {
+      "id": "A2_057",
+      "level": "A2",
+      "word": "uccello",
+      "ipa": "/uttʃello/",
+      "meaningZh": "鸟",
+      "examples": []
+    },
+    {
+      "id": "A2_058",
+      "level": "A2",
+      "word": "luna",
+      "ipa": "/luna/",
+      "meaningZh": "月亮",
+      "examples": []
+    },
+    {
+      "id": "A2_059",
+      "level": "A2",
+      "word": "neve",
+      "ipa": "/neve/",
+      "meaningZh": "雪",
+      "examples": []
+    },
+    {
+      "id": "A2_060",
+      "level": "A2",
+      "word": "nuvola",
+      "ipa": "/nuvola/",
+      "meaningZh": "云",
+      "examples": []
+    },
+    {
+      "id": "A2_061",
+      "level": "A2",
+      "word": "pioggia",
+      "ipa": "/pioddʒa/",
+      "meaningZh": "雨",
+      "examples": []
+    },
+    {
+      "id": "A2_062",
+      "level": "A2",
+      "word": "sole",
+      "ipa": "/sole/",
+      "meaningZh": "太阳",
+      "examples": []
+    },
+    {
+      "id": "A2_063",
+      "level": "A2",
+      "word": "temporale",
+      "ipa": "/temporale/",
+      "meaningZh": "雷雨",
+      "examples": []
+    },
+    {
+      "id": "A2_064",
+      "level": "A2",
+      "word": "vento",
+      "ipa": "/vento/",
+      "meaningZh": "风",
+      "examples": []
+    },
+    {
+      "id": "A2_065",
+      "level": "A2",
+      "word": "abbigliamento",
+      "ipa": "/abbiʎamento/",
+      "meaningZh": "服装",
+      "examples": []
+    },
+    {
+      "id": "A2_066",
+      "level": "A2",
+      "word": "alimentari",
+      "ipa": "/alimentari/",
+      "meaningZh": "食品杂货店",
+      "examples": []
+    },
+    {
+      "id": "A2_067",
+      "level": "A2",
+      "word": "mercato",
+      "ipa": "/merkato/",
+      "meaningZh": "市场",
+      "examples": []
+    },
+    {
+      "id": "A2_068",
+      "level": "A2",
+      "word": "panettiere",
+      "ipa": "/panettiere/",
+      "meaningZh": "面包师；面包店",
+      "examples": []
+    },
+    {
+      "id": "A2_069",
+      "level": "A2",
+      "word": "saldi",
+      "ipa": "/saldi/",
+      "meaningZh": "打折（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_070",
+      "level": "A2",
+      "word": "sconto",
+      "ipa": "/skonto/",
+      "meaningZh": "折扣",
+      "examples": []
+    },
+    {
+      "id": "A2_071",
+      "level": "A2",
+      "word": "bollettino",
+      "ipa": "/bollettino/",
+      "meaningZh": "汇款单；缴费单",
+      "examples": []
+    },
+    {
+      "id": "A2_072",
+      "level": "A2",
+      "word": "contante",
+      "ipa": "/kontante/",
+      "meaningZh": "现金",
+      "examples": []
+    },
+    {
+      "id": "A2_073",
+      "level": "A2",
+      "word": "conto",
+      "ipa": "/konto/",
+      "meaningZh": "账单；账户",
+      "examples": []
+    },
+    {
+      "id": "A2_074",
+      "level": "A2",
+      "word": "conto corrente",
+      "ipa": "/ˈkonto korˈrɛnte/",
+      "meaningZh": "活期账户",
+      "examples": []
+    },
+    {
+      "id": "A2_075",
+      "level": "A2",
+      "word": "francobollo",
+      "ipa": "/frankobollo/",
+      "meaningZh": "邮票",
+      "examples": [
+        {
+          "it": "Compro un francobollo all'ufficio postale.",
+          "zh": "我在邮局买一张邮票。"
+        }
+      ]
+    },
+    {
+      "id": "A2_076",
+      "level": "A2",
+      "word": "modulo",
+      "ipa": "/modulo/",
+      "meaningZh": "表格",
+      "examples": []
+    },
+    {
+      "id": "A2_077",
+      "level": "A2",
+      "word": "pacco",
+      "ipa": "/pakko/",
+      "meaningZh": "包裹",
+      "examples": []
+    },
+    {
+      "id": "A2_078",
+      "level": "A2",
+      "word": "patronato",
+      "ipa": "/patronato/",
+      "meaningZh": "社会援助服务机构",
+      "examples": []
+    },
+    {
+      "id": "A2_079",
+      "level": "A2",
+      "word": "permesso di soggiorno",
+      "ipa": "/perˈmesːo di sodˈdʒorno/",
+      "meaningZh": "居留许可",
+      "examples": []
+    },
+    {
+      "id": "A2_080",
+      "level": "A2",
+      "word": "prefettura",
+      "ipa": "/prefettura/",
+      "meaningZh": "省督府",
+      "examples": []
+    },
+    {
+      "id": "A2_081",
+      "level": "A2",
+      "word": "questura",
+      "ipa": "/kwestura/",
+      "meaningZh": "警察局出入境办公室",
+      "examples": []
+    },
+    {
+      "id": "A2_082",
+      "level": "A2",
+      "word": "ricevuta",
+      "ipa": "/ritʃevuta/",
+      "meaningZh": "收据",
+      "examples": []
+    },
+    {
+      "id": "A2_083",
+      "level": "A2",
+      "word": "sportello",
+      "ipa": "/sportello/",
+      "meaningZh": "窗口",
+      "examples": []
+    },
+    {
+      "id": "A2_084",
+      "level": "A2",
+      "word": "vaglia",
+      "ipa": "/vaʎa/",
+      "meaningZh": "汇票",
+      "examples": []
+    },
+    {
+      "id": "A2_085",
+      "level": "A2",
+      "word": "visto",
+      "ipa": "/visto/",
+      "meaningZh": "签证",
+      "examples": []
+    },
+    {
+      "id": "A2_086",
+      "level": "A2",
+      "word": "banana",
+      "ipa": "/banana/",
+      "meaningZh": "香蕉",
+      "examples": []
+    },
+    {
+      "id": "A2_087",
+      "level": "A2",
+      "word": "burro",
+      "ipa": "/burro/",
+      "meaningZh": "黄油",
+      "examples": []
+    },
+    {
+      "id": "A2_088",
+      "level": "A2",
+      "word": "carne",
+      "ipa": "/karne/",
+      "meaningZh": "肉",
+      "examples": []
+    },
+    {
+      "id": "A2_089",
+      "level": "A2",
+      "word": "formaggio",
+      "ipa": "/formaddʒo/",
+      "meaningZh": "奶酪",
+      "examples": []
+    },
+    {
+      "id": "A2_090",
+      "level": "A2",
+      "word": "frutta",
+      "ipa": "/frutta/",
+      "meaningZh": "水果",
+      "examples": []
+    },
+    {
+      "id": "A2_091",
+      "level": "A2",
+      "word": "insalata",
+      "ipa": "/insalata/",
+      "meaningZh": "沙拉",
+      "examples": []
+    },
+    {
+      "id": "A2_092",
+      "level": "A2",
+      "word": "minestra",
+      "ipa": "/minestra/",
+      "meaningZh": "汤",
+      "examples": []
+    },
+    {
+      "id": "A2_093",
+      "level": "A2",
+      "word": "olio",
+      "ipa": "/olio/",
+      "meaningZh": "油",
+      "examples": []
+    },
+    {
+      "id": "A2_094",
+      "level": "A2",
+      "word": "pasta",
+      "ipa": "/pasta/",
+      "meaningZh": "意面",
+      "examples": []
+    },
+    {
+      "id": "A2_095",
+      "level": "A2",
+      "word": "pesce",
+      "ipa": "/peʃe/",
+      "meaningZh": "鱼",
+      "examples": []
+    },
+    {
+      "id": "A2_096",
+      "level": "A2",
+      "word": "riso",
+      "ipa": "/rizo/",
+      "meaningZh": "米饭",
+      "examples": []
+    },
+    {
+      "id": "A2_097",
+      "level": "A2",
+      "word": "verdure",
+      "ipa": "/verdure/",
+      "meaningZh": "蔬菜（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_098",
+      "level": "A2",
+      "word": "casalinga",
+      "ipa": "/kazalinga/",
+      "meaningZh": "家庭主妇",
+      "examples": []
+    },
+    {
+      "id": "A2_099",
+      "level": "A2",
+      "word": "baby sitter",
+      "ipa": "/ˈbɛbi ˈsitːer/",
+      "meaningZh": "保姆（看孩子）",
+      "examples": []
+    },
+    {
+      "id": "A2_100",
+      "level": "A2",
+      "word": "badante",
+      "ipa": "/badante/",
+      "meaningZh": "护工",
+      "examples": []
+    },
+    {
+      "id": "A2_101",
+      "level": "A2",
+      "word": "busta paga",
+      "ipa": "/ˈbusta ˈpaɡa/",
+      "meaningZh": "工资单",
+      "examples": []
+    },
+    {
+      "id": "A2_102",
+      "level": "A2",
+      "word": "capo",
+      "ipa": "/kapo/",
+      "meaningZh": "上司",
+      "examples": []
+    },
+    {
+      "id": "A2_103",
+      "level": "A2",
+      "word": "colf",
+      "ipa": "/kolf/",
+      "meaningZh": "家政工",
+      "examples": []
+    },
+    {
+      "id": "A2_104",
+      "level": "A2",
+      "word": "contributi",
+      "ipa": "/kontributi/",
+      "meaningZh": "社保缴费（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_105",
+      "level": "A2",
+      "word": "disoccupato",
+      "ipa": "/dizokkupato/",
+      "meaningZh": "失业者；失业的",
+      "examples": []
+    },
+    {
+      "id": "A2_106",
+      "level": "A2",
+      "word": "ferie",
+      "ipa": "/ferie/",
+      "meaningZh": "假期（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_107",
+      "level": "A2",
+      "word": "idraulico",
+      "ipa": "/idrauliko/",
+      "meaningZh": "水管工",
+      "examples": []
+    },
+    {
+      "id": "A2_108",
+      "level": "A2",
+      "word": "imbianchino",
+      "ipa": "/imbiankino/",
+      "meaningZh": "油漆工",
+      "examples": []
+    },
+    {
+      "id": "A2_109",
+      "level": "A2",
+      "word": "infermiera",
+      "ipa": "/infermiera/",
+      "meaningZh": "护士（女）",
+      "examples": []
+    },
+    {
+      "id": "A2_110",
+      "level": "A2",
+      "word": "muratore",
+      "ipa": "/muratore/",
+      "meaningZh": "泥瓦工",
+      "examples": []
+    },
+    {
+      "id": "A2_111",
+      "level": "A2",
+      "word": "operaio",
+      "ipa": "/operaio/",
+      "meaningZh": "工人",
+      "examples": []
+    },
+    {
+      "id": "A2_112",
+      "level": "A2",
+      "word": "orario di lavoro",
+      "ipa": "/oˈrarjo di laˈvoro/",
+      "meaningZh": "工作时间",
+      "examples": []
+    },
+    {
+      "id": "A2_113",
+      "level": "A2",
+      "word": "turno",
+      "ipa": "/turno/",
+      "meaningZh": "班次",
+      "examples": []
+    },
+    {
+      "id": "A2_114",
+      "level": "A2",
+      "word": "trasportatore",
+      "ipa": "/trasportatore/",
+      "meaningZh": "运输工；承运人",
+      "examples": []
+    },
+    {
+      "id": "A2_115",
+      "level": "A2",
+      "word": "aula",
+      "ipa": "/aula/",
+      "meaningZh": "教室",
+      "examples": []
+    },
+    {
+      "id": "A2_116",
+      "level": "A2",
+      "word": "banco",
+      "ipa": "/banko/",
+      "meaningZh": "课桌",
+      "examples": []
+    },
+    {
+      "id": "A2_117",
+      "level": "A2",
+      "word": "bidella",
+      "ipa": "/bidella/",
+      "meaningZh": "女校工",
+      "examples": []
+    },
+    {
+      "id": "A2_118",
+      "level": "A2",
+      "word": "cattedra",
+      "ipa": "/kattedra/",
+      "meaningZh": "讲台",
+      "examples": []
+    },
+    {
+      "id": "A2_119",
+      "level": "A2",
+      "word": "entrata",
+      "ipa": "/entrata/",
+      "meaningZh": "入口",
+      "examples": []
+    },
+    {
+      "id": "A2_120",
+      "level": "A2",
+      "word": "insegnante",
+      "ipa": "/inseɲante/",
+      "meaningZh": "老师",
+      "examples": []
+    },
+    {
+      "id": "A2_121",
+      "level": "A2",
+      "word": "libro",
+      "ipa": "/libro/",
+      "meaningZh": "书",
+      "examples": []
+    },
+    {
+      "id": "A2_122",
+      "level": "A2",
+      "word": "orario",
+      "ipa": "/orario/",
+      "meaningZh": "时间表",
+      "examples": []
+    },
+    {
+      "id": "A2_123",
+      "level": "A2",
+      "word": "penna",
+      "ipa": "/penna/",
+      "meaningZh": "钢笔",
+      "examples": []
+    },
+    {
+      "id": "A2_124",
+      "level": "A2",
+      "word": "pennarello",
+      "ipa": "/pennarello/",
+      "meaningZh": "记号笔",
+      "examples": []
+    },
+    {
+      "id": "A2_125",
+      "level": "A2",
+      "word": "professore",
+      "ipa": "/professore/",
+      "meaningZh": "男教师；男教授",
+      "examples": [
+        {
+          "it": "Il professore inizia la lezione alle nove.",
+          "zh": "教授九点开始上课。"
+        }
+      ]
+    },
+    {
+      "id": "A2_126",
+      "level": "A2",
+      "word": "quaderno",
+      "ipa": "/kwaderno/",
+      "meaningZh": "练习本",
+      "examples": []
+    },
+    {
+      "id": "A2_127",
+      "level": "A2",
+      "word": "bocca",
+      "ipa": "/bokka/",
+      "meaningZh": "嘴",
+      "examples": []
+    },
+    {
+      "id": "A2_128",
+      "level": "A2",
+      "word": "braccio",
+      "ipa": "/brattʃo/",
+      "meaningZh": "胳膊",
+      "examples": []
+    },
+    {
+      "id": "A2_129",
+      "level": "A2",
+      "word": "capelli",
+      "ipa": "/kapelli/",
+      "meaningZh": "头发（复数）",
+      "examples": []
+    },
+    {
+      "id": "A2_130",
+      "level": "A2",
+      "word": "cuore",
+      "ipa": "/kuore/",
+      "meaningZh": "心脏",
+      "examples": []
+    },
+    {
+      "id": "A2_131",
+      "level": "A2",
+      "word": "dente",
+      "ipa": "/dente/",
+      "meaningZh": "牙齿",
+      "examples": []
+    },
+    {
+      "id": "A2_132",
+      "level": "A2",
+      "word": "dottore",
+      "ipa": "/dottore/",
+      "meaningZh": "医生",
+      "examples": []
+    },
+    {
+      "id": "A2_133",
+      "level": "A2",
+      "word": "dolore",
+      "ipa": "/dolore/",
+      "meaningZh": "疼痛",
+      "examples": []
+    },
+    {
+      "id": "A2_134",
+      "level": "A2",
+      "word": "gamba",
+      "ipa": "/gamba/",
+      "meaningZh": "腿",
+      "examples": []
+    },
+    {
+      "id": "A2_135",
+      "level": "A2",
+      "word": "ginocchio",
+      "ipa": "/dʒinokkio/",
+      "meaningZh": "膝盖",
+      "examples": []
+    },
+    {
+      "id": "A2_136",
+      "level": "A2",
+      "word": "gola",
+      "ipa": "/gola/",
+      "meaningZh": "喉咙",
+      "examples": []
+    },
+    {
+      "id": "A2_137",
+      "level": "A2",
+      "word": "malattia",
+      "ipa": "/malattia/",
+      "meaningZh": "疾病",
+      "examples": []
+    },
+    {
+      "id": "A2_138",
+      "level": "A2",
+      "word": "mano",
+      "ipa": "/mano/",
+      "meaningZh": "手",
+      "examples": []
+    },
+    {
+      "id": "A2_139",
+      "level": "A2",
+      "word": "ospedale",
+      "ipa": "/ospedale/",
+      "meaningZh": "医院",
+      "examples": []
+    },
+    {
+      "id": "A2_140",
+      "level": "A2",
+      "word": "pancia",
+      "ipa": "/pantʃa/",
+      "meaningZh": "肚子",
+      "examples": []
+    },
+    {
+      "id": "A2_141",
+      "level": "A2",
+      "word": "piede",
+      "ipa": "/piede/",
+      "meaningZh": "脚",
+      "examples": []
+    },
+    {
+      "id": "A2_142",
+      "level": "A2",
+      "word": "testa",
+      "ipa": "/testa/",
+      "meaningZh": "头",
+      "examples": []
+    },
+    {
+      "id": "A2_143",
+      "level": "A2",
+      "word": "albanese",
+      "ipa": "/albaneze/",
+      "meaningZh": "阿尔巴尼亚人；阿尔巴尼亚的",
+      "examples": []
+    },
+    {
+      "id": "A2_144",
+      "level": "A2",
+      "word": "arabo",
+      "ipa": "/arabo/",
+      "meaningZh": "阿拉伯人；阿拉伯的",
+      "examples": []
+    },
+    {
+      "id": "A2_145",
+      "level": "A2",
+      "word": "cinese",
+      "ipa": "/tʃineze/",
+      "meaningZh": "中国人；中国的",
+      "examples": []
+    },
+    {
+      "id": "A2_146",
+      "level": "A2",
+      "word": "filippino",
+      "ipa": "/filippino/",
+      "meaningZh": "菲律宾人；菲律宾的",
+      "examples": []
+    },
+    {
+      "id": "A2_147",
+      "level": "A2",
+      "word": "italiano",
+      "ipa": "/italiano/",
+      "meaningZh": "意大利人；意大利的",
+      "examples": []
+    },
+    {
+      "id": "A2_148",
+      "level": "A2",
+      "word": "marocchino",
+      "ipa": "/marokkino/",
+      "meaningZh": "摩洛哥人；摩洛哥的",
+      "examples": []
+    },
+    {
+      "id": "A2_149",
+      "level": "A2",
+      "word": "polacco",
+      "ipa": "/polakko/",
+      "meaningZh": "波兰人；波兰的",
+      "examples": []
+    },
+    {
+      "id": "A2_150",
+      "level": "A2",
+      "word": "rumeno",
+      "ipa": "/rumeno/",
+      "meaningZh": "罗马尼亚人；罗马尼亚的",
+      "examples": []
+    },
+    {
+      "id": "A2_151",
+      "level": "A2",
+      "word": "tunisino",
+      "ipa": "/tunizino/",
+      "meaningZh": "突尼斯人；突尼斯的",
+      "examples": []
+    },
+    {
+      "id": "A2_152",
+      "level": "A2",
+      "word": "cristiano",
+      "ipa": "/kristiano/",
+      "meaningZh": "基督徒；基督教的",
+      "examples": []
+    },
+    {
+      "id": "A2_153",
+      "level": "A2",
+      "word": "buddista",
+      "ipa": "/buddista/",
+      "meaningZh": "佛教徒；佛教的",
+      "examples": []
+    },
+    {
+      "id": "A2_154",
+      "level": "A2",
+      "word": "musulmano",
+      "ipa": "/muzulmano/",
+      "meaningZh": "穆斯林；伊斯兰教的",
+      "examples": []
+    },
+    {
+      "id": "B1_001",
+      "level": "B1",
+      "word": "abitudine",
+      "ipa": "/abitudine/",
+      "meaningZh": "习惯",
+      "examples": []
+    },
+    {
+      "id": "B1_002",
+      "level": "B1",
+      "word": "accesso",
+      "ipa": "/attʃesso/",
+      "meaningZh": "进入权；访问",
+      "examples": []
+    },
+    {
+      "id": "B1_003",
+      "level": "B1",
+      "word": "accordo",
+      "ipa": "/akkordo/",
+      "meaningZh": "协议；一致",
+      "examples": [
+        {
+          "it": "Abbiamo trovato un accordo dopo una lunga discussione.",
+          "zh": "经过长时间讨论后我们达成了一致。"
+        }
+      ]
+    },
+    {
+      "id": "B1_004",
+      "level": "B1",
+      "word": "acquisto",
+      "ipa": "/akkwisto/",
+      "meaningZh": "购买",
+      "examples": []
+    },
+    {
+      "id": "B1_005",
+      "level": "B1",
+      "word": "adattarsi",
+      "ipa": "/adattarsi/",
+      "meaningZh": "适应",
+      "examples": []
+    },
+    {
+      "id": "B1_006",
+      "level": "B1",
+      "word": "amministrazione",
+      "ipa": "/amministratsione/",
+      "meaningZh": "行政；管理",
+      "examples": []
+    },
+    {
+      "id": "B1_007",
+      "level": "B1",
+      "word": "annullare",
+      "ipa": "/annullare/",
+      "meaningZh": "取消",
+      "examples": []
+    },
+    {
+      "id": "B1_008",
+      "level": "B1",
+      "word": "appuntamento",
+      "ipa": "/appuntamento/",
+      "meaningZh": "约会；预约",
+      "examples": []
+    },
+    {
+      "id": "B1_009",
+      "level": "B1",
+      "word": "argomento",
+      "ipa": "/argomento/",
+      "meaningZh": "话题；论点",
+      "examples": []
+    },
+    {
+      "id": "B1_010",
+      "level": "B1",
+      "word": "assicurazione",
+      "ipa": "/assikuratsione/",
+      "meaningZh": "保险",
+      "examples": []
+    },
+    {
+      "id": "B1_011",
+      "level": "B1",
+      "word": "assistenza",
+      "ipa": "/assistentsa/",
+      "meaningZh": "协助；服务",
+      "examples": []
+    },
+    {
+      "id": "B1_012",
+      "level": "B1",
+      "word": "attività",
+      "ipa": "/attivita/",
+      "meaningZh": "活动",
+      "examples": []
+    },
+    {
+      "id": "B1_013",
+      "level": "B1",
+      "word": "aumentare",
+      "ipa": "/aumentare/",
+      "meaningZh": "增加",
+      "examples": []
+    },
+    {
+      "id": "B1_014",
+      "level": "B1",
+      "word": "beneficio",
+      "ipa": "/beneˈfiʧo/",
+      "meaningZh": "益处",
+      "examples": []
+    },
+    {
+      "id": "B1_015",
+      "level": "B1",
+      "word": "biglietteria",
+      "ipa": "/biʎʎetteˈria/",
+      "meaningZh": "售票处",
+      "examples": []
+    },
+    {
+      "id": "B1_016",
+      "level": "B1",
+      "word": "bilancio",
+      "ipa": "/bilantʃo/",
+      "meaningZh": "收支；预算",
+      "examples": []
+    },
+    {
+      "id": "B1_017",
+      "level": "B1",
+      "word": "burocrazia",
+      "ipa": "/burokratsia/",
+      "meaningZh": "官僚手续",
+      "examples": []
+    },
+    {
+      "id": "B1_018",
+      "level": "B1",
+      "word": "cambiamento",
+      "ipa": "/kambjaˈmento/",
+      "meaningZh": "变化",
+      "examples": []
+    },
+    {
+      "id": "B1_019",
+      "level": "B1",
+      "word": "capacità",
+      "ipa": "/kapatʃita/",
+      "meaningZh": "能力",
+      "examples": []
+    },
+    {
+      "id": "B1_020",
+      "level": "B1",
+      "word": "carriera",
+      "ipa": "/karriera/",
+      "meaningZh": "职业发展",
+      "examples": []
+    },
+    {
+      "id": "B1_021",
+      "level": "B1",
+      "word": "certificato",
+      "ipa": "/tʃertifikato/",
+      "meaningZh": "证明文件",
+      "examples": []
+    },
+    {
+      "id": "B1_022",
+      "level": "B1",
+      "word": "cittadinanza",
+      "ipa": "/tʃittadiˈnantsa/",
+      "meaningZh": "公民身份",
+      "examples": []
+    },
+    {
+      "id": "B1_023",
+      "level": "B1",
+      "word": "colloquio",
+      "ipa": "/kolˈlɔkwjo/",
+      "meaningZh": "面试；会谈",
+      "examples": []
+    },
+    {
+      "id": "B1_024",
+      "level": "B1",
+      "word": "comportamento",
+      "ipa": "/komportamento/",
+      "meaningZh": "行为",
+      "examples": []
+    },
+    {
+      "id": "B1_025",
+      "level": "B1",
+      "word": "concorso",
+      "ipa": "/konkorso/",
+      "meaningZh": "考试；竞赛",
+      "examples": []
+    },
+    {
+      "id": "B1_026",
+      "level": "B1",
+      "word": "condizione",
+      "ipa": "/konditsione/",
+      "meaningZh": "条件；状况",
+      "examples": []
+    },
+    {
+      "id": "B1_027",
+      "level": "B1",
+      "word": "confermare",
+      "ipa": "/konfermare/",
+      "meaningZh": "确认",
+      "examples": []
+    },
+    {
+      "id": "B1_028",
+      "level": "B1",
+      "word": "conoscenza",
+      "ipa": "/konoˈʃʃɛntsa/",
+      "meaningZh": "知识；了解",
+      "examples": []
+    },
+    {
+      "id": "B1_029",
+      "level": "B1",
+      "word": "consiglio",
+      "ipa": "/konsiʎo/",
+      "meaningZh": "建议",
+      "examples": []
+    },
+    {
+      "id": "B1_030",
+      "level": "B1",
+      "word": "consumare",
+      "ipa": "/konsumare/",
+      "meaningZh": "消费；食用",
+      "examples": []
+    },
+    {
+      "id": "B1_031",
+      "level": "B1",
+      "word": "contattare",
+      "ipa": "/kontattare/",
+      "meaningZh": "联系",
+      "examples": []
+    },
+    {
+      "id": "B1_032",
+      "level": "B1",
+      "word": "contratto",
+      "ipa": "/kontratto/",
+      "meaningZh": "合同",
+      "examples": [
+        {
+          "it": "Ho firmato il contratto ieri pomeriggio.",
+          "zh": "我昨天下午签了合同。"
+        }
+      ]
+    },
+    {
+      "id": "B1_033",
+      "level": "B1",
+      "word": "controllare",
+      "ipa": "/kontrollare/",
+      "meaningZh": "检查；控制",
+      "examples": []
+    },
+    {
+      "id": "B1_034",
+      "level": "B1",
+      "word": "conversazione",
+      "ipa": "/konversatsione/",
+      "meaningZh": "对话",
+      "examples": []
+    },
+    {
+      "id": "B1_035",
+      "level": "B1",
+      "word": "costume",
+      "ipa": "/kostume/",
+      "meaningZh": "习俗；泳衣",
+      "examples": []
+    },
+    {
+      "id": "B1_036",
+      "level": "B1",
+      "word": "crescere",
+      "ipa": "/kreʃere/",
+      "meaningZh": "成长；增长",
+      "examples": []
+    },
+    {
+      "id": "B1_037",
+      "level": "B1",
+      "word": "decisione",
+      "ipa": "/detʃizione/",
+      "meaningZh": "决定",
+      "examples": []
+    },
+    {
+      "id": "B1_038",
+      "level": "B1",
+      "word": "deludere",
+      "ipa": "/deludere/",
+      "meaningZh": "使失望",
+      "examples": []
+    },
+    {
+      "id": "B1_039",
+      "level": "B1",
+      "word": "dipendente",
+      "ipa": "/dipendente/",
+      "meaningZh": "雇员",
+      "examples": []
+    },
+    {
+      "id": "B1_040",
+      "level": "B1",
+      "word": "discutere",
+      "ipa": "/diskutere/",
+      "meaningZh": "讨论",
+      "examples": []
+    },
+    {
+      "id": "B1_041",
+      "level": "B1",
+      "word": "disponibilità",
+      "ipa": "/disponibilita/",
+      "meaningZh": "可用性；空闲",
+      "examples": []
+    },
+    {
+      "id": "B1_042",
+      "level": "B1",
+      "word": "distanza",
+      "ipa": "/distantsa/",
+      "meaningZh": "距离",
+      "examples": []
+    },
+    {
+      "id": "B1_043",
+      "level": "B1",
+      "word": "documentazione",
+      "ipa": "/dokumentatsione/",
+      "meaningZh": "文件资料",
+      "examples": []
+    },
+    {
+      "id": "B1_044",
+      "level": "B1",
+      "word": "dominio",
+      "ipa": "/dominio/",
+      "meaningZh": "领域",
+      "examples": []
+    },
+    {
+      "id": "B1_045",
+      "level": "B1",
+      "word": "economia",
+      "ipa": "/ekonomia/",
+      "meaningZh": "经济",
+      "examples": []
+    },
+    {
+      "id": "B1_046",
+      "level": "B1",
+      "word": "equilibrio",
+      "ipa": "/ekwilibrio/",
+      "meaningZh": "平衡",
+      "examples": []
+    },
+    {
+      "id": "B1_047",
+      "level": "B1",
+      "word": "esperienza",
+      "ipa": "/espeˈrjɛntsa/",
+      "meaningZh": "经验",
+      "examples": []
+    },
+    {
+      "id": "B1_048",
+      "level": "B1",
+      "word": "esprimere",
+      "ipa": "/esprimere/",
+      "meaningZh": "表达",
+      "examples": []
+    },
+    {
+      "id": "B1_049",
+      "level": "B1",
+      "word": "facilitare",
+      "ipa": "/fatʃilitare/",
+      "meaningZh": "促进；简化",
+      "examples": []
+    },
+    {
+      "id": "B1_050",
+      "level": "B1",
+      "word": "fiducia",
+      "ipa": "/fidutʃa/",
+      "meaningZh": "信任",
+      "examples": []
+    },
+    {
+      "id": "B1_051",
+      "level": "B1",
+      "word": "frequenza",
+      "ipa": "/frekwentsa/",
+      "meaningZh": "频率；出勤",
+      "examples": []
+    },
+    {
+      "id": "B1_052",
+      "level": "B1",
+      "word": "gestione",
+      "ipa": "/dʒestione/",
+      "meaningZh": "管理",
+      "examples": []
+    },
+    {
+      "id": "B1_053",
+      "level": "B1",
+      "word": "guadagnare",
+      "ipa": "/guadaɲare/",
+      "meaningZh": "赚取",
+      "examples": []
+    },
+    {
+      "id": "B1_054",
+      "level": "B1",
+      "word": "identità",
+      "ipa": "/identiˈta/",
+      "meaningZh": "身份；认同",
+      "examples": []
+    },
+    {
+      "id": "B1_055",
+      "level": "B1",
+      "word": "impegno",
+      "ipa": "/impeɲo/",
+      "meaningZh": "投入；承诺",
+      "examples": []
+    },
+    {
+      "id": "B1_056",
+      "level": "B1",
+      "word": "impressione",
+      "ipa": "/impressione/",
+      "meaningZh": "印象",
+      "examples": []
+    },
+    {
+      "id": "B1_057",
+      "level": "B1",
+      "word": "iniziativa",
+      "ipa": "/initsiativa/",
+      "meaningZh": "主动性；倡议",
+      "examples": []
+    },
+    {
+      "id": "B1_058",
+      "level": "B1",
+      "word": "integrazione",
+      "ipa": "/integratsione/",
+      "meaningZh": "融入；整合",
+      "examples": []
+    },
+    {
+      "id": "B1_059",
+      "level": "B1",
+      "word": "intervento",
+      "ipa": "/intervento/",
+      "meaningZh": "介入；干预",
+      "examples": []
+    },
+    {
+      "id": "B1_060",
+      "level": "B1",
+      "word": "iscrizione",
+      "ipa": "/iskritsione/",
+      "meaningZh": "注册；报名",
+      "examples": []
+    },
+    {
+      "id": "B1_061",
+      "level": "B1",
+      "word": "licenziamento",
+      "ipa": "/litʃentsiamento/",
+      "meaningZh": "解雇",
+      "examples": []
+    },
+    {
+      "id": "B1_062",
+      "level": "B1",
+      "word": "manutenzione",
+      "ipa": "/manutentsione/",
+      "meaningZh": "维护",
+      "examples": []
+    },
+    {
+      "id": "B1_063",
+      "level": "B1",
+      "word": "migliorare",
+      "ipa": "/miʎorare/",
+      "meaningZh": "改进",
+      "examples": []
+    },
+    {
+      "id": "B1_064",
+      "level": "B1",
+      "word": "notizia",
+      "ipa": "/notitsia/",
+      "meaningZh": "新闻",
+      "examples": []
+    },
+    {
+      "id": "B1_065",
+      "level": "B1",
+      "word": "obiettivo",
+      "ipa": "/obiettivo/",
+      "meaningZh": "目标",
+      "examples": []
+    },
+    {
+      "id": "B1_066",
+      "level": "B1",
+      "word": "opportunità",
+      "ipa": "/opportunita/",
+      "meaningZh": "机会",
+      "examples": []
+    },
+    {
+      "id": "B1_067",
+      "level": "B1",
+      "word": "organizzare",
+      "ipa": "/organittsare/",
+      "meaningZh": "组织",
+      "examples": []
+    },
+    {
+      "id": "B1_068",
+      "level": "B1",
+      "word": "orientamento",
+      "ipa": "/orientamento/",
+      "meaningZh": "导向；方向",
+      "examples": []
+    },
+    {
+      "id": "B1_069",
+      "level": "B1",
+      "word": "partecipazione",
+      "ipa": "/partetʃipatsione/",
+      "meaningZh": "参与",
+      "examples": []
+    },
+    {
+      "id": "B1_070",
+      "level": "B1",
+      "word": "permesso",
+      "ipa": "/permesso/",
+      "meaningZh": "许可",
+      "examples": []
+    },
+    {
+      "id": "B1_071",
+      "level": "B1",
+      "word": "pianificare",
+      "ipa": "/pianifikare/",
+      "meaningZh": "规划",
+      "examples": []
+    },
+    {
+      "id": "B1_072",
+      "level": "B1",
+      "word": "possibilità",
+      "ipa": "/possibilita/",
+      "meaningZh": "可能性",
+      "examples": []
+    },
+    {
+      "id": "B1_073",
+      "level": "B1",
+      "word": "preparazione",
+      "ipa": "/preparatsione/",
+      "meaningZh": "准备",
+      "examples": []
+    },
+    {
+      "id": "B1_074",
+      "level": "B1",
+      "word": "prestazione",
+      "ipa": "/prestatsione/",
+      "meaningZh": "表现；服务",
+      "examples": []
+    },
+    {
+      "id": "B1_075",
+      "level": "B1",
+      "word": "priorità",
+      "ipa": "/priorita/",
+      "meaningZh": "优先事项",
+      "examples": []
+    },
+    {
+      "id": "B1_076",
+      "level": "B1",
+      "word": "procedura",
+      "ipa": "/protʃedura/",
+      "meaningZh": "流程；手续",
+      "examples": []
+    },
+    {
+      "id": "B1_077",
+      "level": "B1",
+      "word": "produzione",
+      "ipa": "/produtsione/",
+      "meaningZh": "生产；产出",
+      "examples": []
+    },
+    {
+      "id": "B1_078",
+      "level": "B1",
+      "word": "progetto",
+      "ipa": "/prodʒetto/",
+      "meaningZh": "项目",
+      "examples": [
+        {
+          "it": "Il progetto prevede tre fasi principali.",
+          "zh": "该项目包含三个主要阶段。"
+        }
+      ]
+    },
+    {
+      "id": "B1_079",
+      "level": "B1",
+      "word": "promuovere",
+      "ipa": "/promuovere/",
+      "meaningZh": "推动；提拔",
+      "examples": []
+    },
+    {
+      "id": "B1_080",
+      "level": "B1",
+      "word": "qualifica",
+      "ipa": "/kwalifika/",
+      "meaningZh": "资质；资格",
+      "examples": []
+    },
+    {
+      "id": "B2_001",
+      "level": "B2",
+      "word": "accuratezza",
+      "ipa": "/akkuratettsa/",
+      "meaningZh": "准确性",
+      "examples": []
+    },
+    {
+      "id": "B2_002",
+      "level": "B2",
+      "word": "adeguato",
+      "ipa": "/adeguato/",
+      "meaningZh": "恰当的",
+      "examples": []
+    },
+    {
+      "id": "B2_003",
+      "level": "B2",
+      "word": "affermazione",
+      "ipa": "/affermatsione/",
+      "meaningZh": "陈述",
+      "examples": []
+    },
+    {
+      "id": "B2_004",
+      "level": "B2",
+      "word": "ambiguità",
+      "ipa": "/ambiguita/",
+      "meaningZh": "歧义",
+      "examples": []
+    },
+    {
+      "id": "B2_005",
+      "level": "B2",
+      "word": "analizzare",
+      "ipa": "/analittsare/",
+      "meaningZh": "分析",
+      "examples": [
+        {
+          "it": "Dobbiamo analizzare i dati prima di decidere.",
+          "zh": "我们必须先分析数据再做决定。"
+        }
+      ]
+    },
+    {
+      "id": "B2_006",
+      "level": "B2",
+      "word": "argomentare",
+      "ipa": "/argomentare/",
+      "meaningZh": "论证",
+      "examples": []
+    },
+    {
+      "id": "B2_007",
+      "level": "B2",
+      "word": "articolare",
+      "ipa": "/artikolare/",
+      "meaningZh": "清晰表达",
+      "examples": []
+    },
+    {
+      "id": "B2_008",
+      "level": "B2",
+      "word": "assumere",
+      "ipa": "/assumere/",
+      "meaningZh": "承担；假设",
+      "examples": []
+    },
+    {
+      "id": "B2_009",
+      "level": "B2",
+      "word": "attribuire",
+      "ipa": "/attribuire/",
+      "meaningZh": "归因；赋予",
+      "examples": []
+    },
+    {
+      "id": "B2_010",
+      "level": "B2",
+      "word": "autonomia",
+      "ipa": "/autonomia/",
+      "meaningZh": "自主性",
+      "examples": []
+    },
+    {
+      "id": "B2_011",
+      "level": "B2",
+      "word": "coerenza",
+      "ipa": "/koerentsa/",
+      "meaningZh": "连贯性",
+      "examples": []
+    },
+    {
+      "id": "B2_012",
+      "level": "B2",
+      "word": "collegamento",
+      "ipa": "/kollegamento/",
+      "meaningZh": "衔接；连接",
+      "examples": []
+    },
+    {
+      "id": "B2_013",
+      "level": "B2",
+      "word": "competenza",
+      "ipa": "/kompetentsa/",
+      "meaningZh": "能力；胜任力",
+      "examples": []
+    },
+    {
+      "id": "B2_014",
+      "level": "B2",
+      "word": "compromesso",
+      "ipa": "/kompromesso/",
+      "meaningZh": "折中方案",
+      "examples": []
+    },
+    {
+      "id": "B2_015",
+      "level": "B2",
+      "word": "conclusione",
+      "ipa": "/konkluzione/",
+      "meaningZh": "结论",
+      "examples": []
+    },
+    {
+      "id": "B2_016",
+      "level": "B2",
+      "word": "confrontare",
+      "ipa": "/konfrontare/",
+      "meaningZh": "比较",
+      "examples": []
+    },
+    {
+      "id": "B2_017",
+      "level": "B2",
+      "word": "considerazione",
+      "ipa": "/konsideratsione/",
+      "meaningZh": "考量",
+      "examples": []
+    },
+    {
+      "id": "B2_018",
+      "level": "B2",
+      "word": "consapevolezza",
+      "ipa": "/konsapevolettsa/",
+      "meaningZh": "意识；觉知",
+      "examples": []
+    },
+    {
+      "id": "B2_019",
+      "level": "B2",
+      "word": "contestualizzare",
+      "ipa": "/kontestualittsare/",
+      "meaningZh": "置于语境",
+      "examples": []
+    },
+    {
+      "id": "B2_020",
+      "level": "B2",
+      "word": "contraddizione",
+      "ipa": "/kontradditsione/",
+      "meaningZh": "矛盾",
+      "examples": []
+    },
+    {
+      "id": "B2_021",
+      "level": "B2",
+      "word": "contribuire",
+      "ipa": "/kontribuire/",
+      "meaningZh": "促成；贡献",
+      "examples": []
+    },
+    {
+      "id": "B2_022",
+      "level": "B2",
+      "word": "convinzione",
+      "ipa": "/konvintsione/",
+      "meaningZh": "信念",
+      "examples": []
+    },
+    {
+      "id": "B2_023",
+      "level": "B2",
+      "word": "correlazione",
+      "ipa": "/korrelatsione/",
+      "meaningZh": "相关性",
+      "examples": [
+        {
+          "it": "C'è una forte correlazione tra studio regolare e risultato.",
+          "zh": "规律学习和成绩之间有很强相关性。"
+        }
+      ]
+    },
+    {
+      "id": "B2_024",
+      "level": "B2",
+      "word": "critico",
+      "ipa": "/kritiko/",
+      "meaningZh": "批判性的",
+      "examples": []
+    },
+    {
+      "id": "B2_025",
+      "level": "B2",
+      "word": "debolezza",
+      "ipa": "/debolettsa/",
+      "meaningZh": "弱点",
+      "examples": []
+    },
+    {
+      "id": "B2_026",
+      "level": "B2",
+      "word": "delineare",
+      "ipa": "/delineare/",
+      "meaningZh": "勾勒",
+      "examples": []
+    },
+    {
+      "id": "B2_027",
+      "level": "B2",
+      "word": "dimensione",
+      "ipa": "/dimensione/",
+      "meaningZh": "维度；规模",
+      "examples": []
+    },
+    {
+      "id": "B2_028",
+      "level": "B2",
+      "word": "disaccordo",
+      "ipa": "/dizakkordo/",
+      "meaningZh": "分歧",
+      "examples": []
+    },
+    {
+      "id": "B2_029",
+      "level": "B2",
+      "word": "disciplina",
+      "ipa": "/diʃiplina/",
+      "meaningZh": "学科；规范",
+      "examples": []
+    },
+    {
+      "id": "B2_030",
+      "level": "B2",
+      "word": "disponibile",
+      "ipa": "/disponibile/",
+      "meaningZh": "可获得的",
+      "examples": []
+    },
+    {
+      "id": "B2_031",
+      "level": "B2",
+      "word": "distinguere",
+      "ipa": "/distinguere/",
+      "meaningZh": "区分",
+      "examples": []
+    },
+    {
+      "id": "B2_032",
+      "level": "B2",
+      "word": "efficacia",
+      "ipa": "/effikatʃa/",
+      "meaningZh": "有效性",
+      "examples": []
+    },
+    {
+      "id": "B2_033",
+      "level": "B2",
+      "word": "elaborare",
+      "ipa": "/elaborare/",
+      "meaningZh": "加工；阐述",
+      "examples": []
+    },
+    {
+      "id": "B2_034",
+      "level": "B2",
+      "word": "evidenziare",
+      "ipa": "/evidentsiare/",
+      "meaningZh": "突出；强调",
+      "examples": []
+    },
+    {
+      "id": "B2_035",
+      "level": "B2",
+      "word": "formulare",
+      "ipa": "/formulare/",
+      "meaningZh": "表述；制定",
+      "examples": []
+    },
+    {
+      "id": "B2_036",
+      "level": "B2",
+      "word": "funzionalità",
+      "ipa": "/funtsionalita/",
+      "meaningZh": "功能性",
+      "examples": []
+    },
+    {
+      "id": "B2_037",
+      "level": "B2",
+      "word": "generalizzare",
+      "ipa": "/dʒeneralittsare/",
+      "meaningZh": "概括",
+      "examples": []
+    },
+    {
+      "id": "B2_038",
+      "level": "B2",
+      "word": "giustificare",
+      "ipa": "/dʒustifikare/",
+      "meaningZh": "论证；证明",
+      "examples": []
+    },
+    {
+      "id": "B2_039",
+      "level": "B2",
+      "word": "graduale",
+      "ipa": "/graduale/",
+      "meaningZh": "渐进的",
+      "examples": []
+    },
+    {
+      "id": "B2_040",
+      "level": "B2",
+      "word": "impatto",
+      "ipa": "/impatto/",
+      "meaningZh": "影响",
+      "examples": []
+    },
+    {
+      "id": "B2_041",
+      "level": "B2",
+      "word": "implicazione",
+      "ipa": "/implikatsione/",
+      "meaningZh": "含义；影响",
+      "examples": []
+    },
+    {
+      "id": "B2_042",
+      "level": "B2",
+      "word": "incentivo",
+      "ipa": "/intʃentivo/",
+      "meaningZh": "激励",
+      "examples": []
+    },
+    {
+      "id": "B2_043",
+      "level": "B2",
+      "word": "inclusione",
+      "ipa": "/inkluzione/",
+      "meaningZh": "包容；纳入",
+      "examples": []
+    },
+    {
+      "id": "B2_044",
+      "level": "B2",
+      "word": "individuare",
+      "ipa": "/individuare/",
+      "meaningZh": "识别；确定",
+      "examples": []
+    },
+    {
+      "id": "B2_045",
+      "level": "B2",
+      "word": "inefficace",
+      "ipa": "/ineffikatʃe/",
+      "meaningZh": "低效的",
+      "examples": []
+    },
+    {
+      "id": "B2_046",
+      "level": "B2",
+      "word": "influenzare",
+      "ipa": "/influentsare/",
+      "meaningZh": "影响",
+      "examples": []
+    },
+    {
+      "id": "B2_047",
+      "level": "B2",
+      "word": "innovazione",
+      "ipa": "/innovatsione/",
+      "meaningZh": "创新",
+      "examples": []
+    },
+    {
+      "id": "B2_048",
+      "level": "B2",
+      "word": "integrare",
+      "ipa": "/integrare/",
+      "meaningZh": "整合",
+      "examples": []
+    },
+    {
+      "id": "B2_049",
+      "level": "B2",
+      "word": "interpretazione",
+      "ipa": "/interpretatsione/",
+      "meaningZh": "解读",
+      "examples": []
+    },
+    {
+      "id": "B2_050",
+      "level": "B2",
+      "word": "introduzione",
+      "ipa": "/introdutsione/",
+      "meaningZh": "引言；引入",
+      "examples": []
+    },
+    {
+      "id": "B2_051",
+      "level": "B2",
+      "word": "ipotesi",
+      "ipa": "/ipotezi/",
+      "meaningZh": "假设",
+      "examples": []
+    },
+    {
+      "id": "B2_052",
+      "level": "B2",
+      "word": "limite",
+      "ipa": "/limite/",
+      "meaningZh": "局限",
+      "examples": []
+    },
+    {
+      "id": "B2_053",
+      "level": "B2",
+      "word": "mediazione",
+      "ipa": "/mediatsione/",
+      "meaningZh": "调解；中介",
+      "examples": []
+    },
+    {
+      "id": "B2_054",
+      "level": "B2",
+      "word": "motivazione",
+      "ipa": "/motivatsione/",
+      "meaningZh": "动机",
+      "examples": []
+    },
+    {
+      "id": "B2_055",
+      "level": "B2",
+      "word": "obiezione",
+      "ipa": "/obietsione/",
+      "meaningZh": "异议",
+      "examples": []
+    },
+    {
+      "id": "B2_056",
+      "level": "B2",
+      "word": "orientamento",
+      "ipa": "/orientamento/",
+      "meaningZh": "取向",
+      "examples": []
+    },
+    {
+      "id": "B2_057",
+      "level": "B2",
+      "word": "parametro",
+      "ipa": "/parametro/",
+      "meaningZh": "参数",
+      "examples": []
+    },
+    {
+      "id": "B2_058",
+      "level": "B2",
+      "word": "partecipante",
+      "ipa": "/partetʃipante/",
+      "meaningZh": "参与者",
+      "examples": []
+    },
+    {
+      "id": "B2_059",
+      "level": "B2",
+      "word": "pertinente",
+      "ipa": "/pertinente/",
+      "meaningZh": "相关的；恰切的",
+      "examples": []
+    },
+    {
+      "id": "B2_060",
+      "level": "B2",
+      "word": "precisare",
+      "ipa": "/pretʃizare/",
+      "meaningZh": "明确说明",
+      "examples": []
+    },
+    {
+      "id": "B2_061",
+      "level": "B2",
+      "word": "prevedibile",
+      "ipa": "/prevedibile/",
+      "meaningZh": "可预见的",
+      "examples": []
+    },
+    {
+      "id": "B2_062",
+      "level": "B2",
+      "word": "processo",
+      "ipa": "/protʃesso/",
+      "meaningZh": "过程",
+      "examples": []
+    },
+    {
+      "id": "B2_063",
+      "level": "B2",
+      "word": "prospettiva",
+      "ipa": "/prospettiva/",
+      "meaningZh": "视角",
+      "examples": []
+    },
+    {
+      "id": "B2_064",
+      "level": "B2",
+      "word": "realistico",
+      "ipa": "/realistiko/",
+      "meaningZh": "现实的",
+      "examples": []
+    },
+    {
+      "id": "B2_065",
+      "level": "B2",
+      "word": "regolamentare",
+      "ipa": "/regolamentare/",
+      "meaningZh": "规范化",
+      "examples": []
+    },
+    {
+      "id": "B2_066",
+      "level": "B2",
+      "word": "relazione",
+      "ipa": "/relatsione/",
+      "meaningZh": "关系；报告",
+      "examples": []
+    },
+    {
+      "id": "B2_067",
+      "level": "B2",
+      "word": "rilevante",
+      "ipa": "/rilevante/",
+      "meaningZh": "重要的；相关的",
+      "examples": []
+    },
+    {
+      "id": "B2_068",
+      "level": "B2",
+      "word": "rischio",
+      "ipa": "/riskio/",
+      "meaningZh": "风险",
+      "examples": []
+    },
+    {
+      "id": "B2_069",
+      "level": "B2",
+      "word": "riflettere",
+      "ipa": "/riflettere/",
+      "meaningZh": "反思",
+      "examples": []
+    },
+    {
+      "id": "B2_070",
+      "level": "B2",
+      "word": "sequenza",
+      "ipa": "/sekwentsa/",
+      "meaningZh": "顺序",
+      "examples": []
+    },
+    {
+      "id": "B2_071",
+      "level": "B2",
+      "word": "sfida",
+      "ipa": "/sfida/",
+      "meaningZh": "挑战",
+      "examples": []
+    },
+    {
+      "id": "B2_072",
+      "level": "B2",
+      "word": "sostenibile",
+      "ipa": "/sostenibile/",
+      "meaningZh": "可持续的",
+      "examples": []
+    },
+    {
+      "id": "B2_073",
+      "level": "B2",
+      "word": "specificare",
+      "ipa": "/spetʃifikare/",
+      "meaningZh": "具体说明",
+      "examples": []
+    },
+    {
+      "id": "B2_074",
+      "level": "B2",
+      "word": "strategia",
+      "ipa": "/stratedʒa/",
+      "meaningZh": "策略",
+      "examples": []
+    },
+    {
+      "id": "B2_075",
+      "level": "B2",
+      "word": "sviluppare",
+      "ipa": "/sviluppare/",
+      "meaningZh": "发展；展开",
+      "examples": []
+    },
+    {
+      "id": "B2_076",
+      "level": "B2",
+      "word": "tendenza",
+      "ipa": "/tendentsa/",
+      "meaningZh": "趋势",
+      "examples": []
+    },
+    {
+      "id": "B2_077",
+      "level": "B2",
+      "word": "transizione",
+      "ipa": "/transitsione/",
+      "meaningZh": "过渡",
+      "examples": []
+    },
+    {
+      "id": "B2_078",
+      "level": "B2",
+      "word": "valutazione",
+      "ipa": "/valutatsione/",
+      "meaningZh": "评估",
+      "examples": [
+        {
+          "it": "La valutazione finale considera anche la coerenza del testo.",
+          "zh": "最终评估也会考虑文本连贯性。"
+        }
+      ]
+    },
+    {
+      "id": "B2_079",
+      "level": "B2",
+      "word": "variabile",
+      "ipa": "/variabile/",
+      "meaningZh": "变量",
+      "examples": []
+    },
+    {
+      "id": "B2_080",
+      "level": "B2",
+      "word": "verificare",
+      "ipa": "/verifikare/",
+      "meaningZh": "核实；验证",
+      "examples": []
+    },
+    {
+      "id": "B1_081",
+      "level": "B1",
+      "word": "adesione",
+      "ipa": "/adezione/",
+      "meaningZh": "参与；加入",
+      "examples": []
+    },
+    {
+      "id": "B1_082",
+      "level": "B1",
+      "word": "accoglienza",
+      "ipa": "/akkoʎentsa/",
+      "meaningZh": "接待；欢迎",
+      "examples": []
+    },
+    {
+      "id": "B1_083",
+      "level": "B1",
+      "word": "anagrafe",
+      "ipa": "/anagrafe/",
+      "meaningZh": "户籍登记处",
+      "examples": []
+    },
+    {
+      "id": "B1_084",
+      "level": "B1",
+      "word": "ambiente",
+      "ipa": "/ambiente/",
+      "meaningZh": "环境；场合",
+      "examples": []
+    },
+    {
+      "id": "B1_085",
+      "level": "B1",
+      "word": "appartenenza",
+      "ipa": "/appartenentsa/",
+      "meaningZh": "归属感",
+      "examples": []
+    },
+    {
+      "id": "B1_086",
+      "level": "B1",
+      "word": "apertura",
+      "ipa": "/apertura/",
+      "meaningZh": "开放；开业",
+      "examples": []
+    },
+    {
+      "id": "B1_087",
+      "level": "B1",
+      "word": "archivio",
+      "ipa": "/arkivio/",
+      "meaningZh": "档案；档案馆",
+      "examples": []
+    },
+    {
+      "id": "B1_088",
+      "level": "B1",
+      "word": "assunzione",
+      "ipa": "/assuntsione/",
+      "meaningZh": "录用；承担",
+      "examples": []
+    },
+    {
+      "id": "B1_089",
+      "level": "B1",
+      "word": "atteggiamento",
+      "ipa": "/atteddʒamento/",
+      "meaningZh": "态度",
+      "examples": []
+    },
+    {
+      "id": "B1_090",
+      "level": "B1",
+      "word": "azienda",
+      "ipa": "/atsienda/",
+      "meaningZh": "公司；企业",
+      "examples": []
+    },
+    {
+      "id": "B1_091",
+      "level": "B1",
+      "word": "bolletta",
+      "ipa": "/bolletta/",
+      "meaningZh": "账单",
+      "examples": []
+    },
+    {
+      "id": "B1_092",
+      "level": "B1",
+      "word": "candidatura",
+      "ipa": "/kandidatura/",
+      "meaningZh": "申请；候选资格",
+      "examples": []
+    },
+    {
+      "id": "B1_093",
+      "level": "B1",
+      "word": "carburante",
+      "ipa": "/karburante/",
+      "meaningZh": "燃料",
+      "examples": []
+    },
+    {
+      "id": "B1_094",
+      "level": "B1",
+      "word": "catalogo",
+      "ipa": "/katalogo/",
+      "meaningZh": "目录",
+      "examples": []
+    },
+    {
+      "id": "B1_095",
+      "level": "B1",
+      "word": "celebrazione",
+      "ipa": "/tʃelebratsione/",
+      "meaningZh": "庆祝活动",
+      "examples": []
+    },
+    {
+      "id": "B1_096",
+      "level": "B1",
+      "word": "collaborazione",
+      "ipa": "/kollaboratsione/",
+      "meaningZh": "合作",
+      "examples": []
+    },
+    {
+      "id": "B1_097",
+      "level": "B1",
+      "word": "collettivo",
+      "ipa": "/kollettivo/",
+      "meaningZh": "集体的；集体",
+      "examples": []
+    },
+    {
+      "id": "B1_098",
+      "level": "B1",
+      "word": "commissione",
+      "ipa": "/kommissione/",
+      "meaningZh": "委员会；佣金",
+      "examples": []
+    },
+    {
+      "id": "B1_099",
+      "level": "B1",
+      "word": "comunicazione",
+      "ipa": "/komunikatˈtsjone/",
+      "meaningZh": "沟通；传播",
+      "examples": []
+    },
+    {
+      "id": "B1_100",
+      "level": "B1",
+      "word": "comunità",
+      "ipa": "/komuniˈta/",
+      "meaningZh": "社区；共同体",
+      "examples": []
+    },
+    {
+      "id": "B1_101",
+      "level": "B1",
+      "word": "competizione",
+      "ipa": "/kompetitsione/",
+      "meaningZh": "竞争",
+      "examples": []
+    },
+    {
+      "id": "B1_102",
+      "level": "B1",
+      "word": "compilare",
+      "ipa": "/kompilare/",
+      "meaningZh": "填写",
+      "examples": []
+    },
+    {
+      "id": "B1_103",
+      "level": "B1",
+      "word": "comprensione",
+      "ipa": "/komprensione/",
+      "meaningZh": "理解",
+      "examples": []
+    },
+    {
+      "id": "B1_104",
+      "level": "B1",
+      "word": "connessione",
+      "ipa": "/konnessione/",
+      "meaningZh": "连接；网络",
+      "examples": []
+    },
+    {
+      "id": "B1_105",
+      "level": "B1",
+      "word": "consulenza",
+      "ipa": "/konzuˈlɛntsa/",
+      "meaningZh": "咨询",
+      "examples": []
+    },
+    {
+      "id": "B1_106",
+      "level": "B1",
+      "word": "cooperazione",
+      "ipa": "/kooperatsione/",
+      "meaningZh": "合作",
+      "examples": []
+    },
+    {
+      "id": "B1_107",
+      "level": "B1",
+      "word": "correzione",
+      "ipa": "/korretˈtsjone/",
+      "meaningZh": "更正；修改",
+      "examples": []
+    },
+    {
+      "id": "B1_108",
+      "level": "B1",
+      "word": "descrizione",
+      "ipa": "/deskritsione/",
+      "meaningZh": "描述",
+      "examples": []
+    },
+    {
+      "id": "B1_109",
+      "level": "B1",
+      "word": "destinazione",
+      "ipa": "/destinatˈtsjone/",
+      "meaningZh": "目的地",
+      "examples": []
+    },
+    {
+      "id": "B1_110",
+      "level": "B1",
+      "word": "dettaglio",
+      "ipa": "/dettaʎo/",
+      "meaningZh": "细节",
+      "examples": []
+    },
+    {
+      "id": "B1_111",
+      "level": "B1",
+      "word": "differenza",
+      "ipa": "/differentsa/",
+      "meaningZh": "差异",
+      "examples": []
+    },
+    {
+      "id": "B1_112",
+      "level": "B1",
+      "word": "direttore",
+      "ipa": "/direttore/",
+      "meaningZh": "主管；导演",
+      "examples": []
+    },
+    {
+      "id": "B1_113",
+      "level": "B1",
+      "word": "distribuzione",
+      "ipa": "/distributsione/",
+      "meaningZh": "分发；分布",
+      "examples": []
+    },
+    {
+      "id": "B1_114",
+      "level": "B1",
+      "word": "educazione",
+      "ipa": "/edukatˈtsjone/",
+      "meaningZh": "教育；礼貌",
+      "examples": []
+    },
+    {
+      "id": "B1_115",
+      "level": "B1",
+      "word": "effettivamente",
+      "ipa": "/effettivaˈmente/",
+      "meaningZh": "实际上",
+      "examples": []
+    },
+    {
+      "id": "B1_116",
+      "level": "B1",
+      "word": "emergenza",
+      "ipa": "/emerˈdʒɛntsa/",
+      "meaningZh": "紧急情况",
+      "examples": []
+    },
+    {
+      "id": "B1_117",
+      "level": "B1",
+      "word": "esigenza",
+      "ipa": "/ezidʒentsa/",
+      "meaningZh": "需求",
+      "examples": []
+    },
+    {
+      "id": "B1_118",
+      "level": "B1",
+      "word": "evento",
+      "ipa": "/evento/",
+      "meaningZh": "事件；活动",
+      "examples": []
+    },
+    {
+      "id": "B1_119",
+      "level": "B1",
+      "word": "formazione",
+      "ipa": "/formatsione/",
+      "meaningZh": "培训；教育",
+      "examples": []
+    },
+    {
+      "id": "B1_120",
+      "level": "B1",
+      "word": "fornitore",
+      "ipa": "/fornitore/",
+      "meaningZh": "供应商",
+      "examples": []
+    },
+    {
+      "id": "B1_121",
+      "level": "B1",
+      "word": "funzione",
+      "ipa": "/funˈttsjone/",
+      "meaningZh": "功能；作用",
+      "examples": []
+    },
+    {
+      "id": "B1_122",
+      "level": "B1",
+      "word": "garanzia",
+      "ipa": "/ɡaranˈtsia/",
+      "meaningZh": "保证",
+      "examples": []
+    },
+    {
+      "id": "B1_123",
+      "level": "B1",
+      "word": "giornata",
+      "ipa": "/dʒorˈnata/",
+      "meaningZh": "一天；工作日",
+      "examples": []
+    },
+    {
+      "id": "B1_124",
+      "level": "B1",
+      "word": "guida",
+      "ipa": "/ˈgwida/",
+      "meaningZh": "指南；导游",
+      "examples": []
+    },
+    {
+      "id": "B1_125",
+      "level": "B1",
+      "word": "immigrazione",
+      "ipa": "/immigraˈtsjone/",
+      "meaningZh": "移民",
+      "examples": []
+    },
+    {
+      "id": "B1_126",
+      "level": "B1",
+      "word": "incarico",
+      "ipa": "/inkariko/",
+      "meaningZh": "任务；委托",
+      "examples": []
+    },
+    {
+      "id": "B1_127",
+      "level": "B1",
+      "word": "incremento",
+      "ipa": "/iŋkreˈmento/",
+      "meaningZh": "增长",
+      "examples": []
+    },
+    {
+      "id": "B1_128",
+      "level": "B1",
+      "word": "informazione",
+      "ipa": "/informatˈtsjone/",
+      "meaningZh": "信息",
+      "examples": []
+    },
+    {
+      "id": "B1_129",
+      "level": "B1",
+      "word": "insegnamento",
+      "ipa": "/inseɲɲaˈmento/",
+      "meaningZh": "教学",
+      "examples": []
+    },
+    {
+      "id": "B1_130",
+      "level": "B1",
+      "word": "istruzione",
+      "ipa": "/istrutˈtsjone/",
+      "meaningZh": "指示；教育",
+      "examples": []
+    },
+    {
+      "id": "B1_131",
+      "level": "B1",
+      "word": "laboratorio",
+      "ipa": "/laboratorio/",
+      "meaningZh": "实验室；工作坊",
+      "examples": []
+    },
+    {
+      "id": "B1_132",
+      "level": "B1",
+      "word": "mansione",
+      "ipa": "/mansione/",
+      "meaningZh": "职责",
+      "examples": []
+    },
+    {
+      "id": "B1_133",
+      "level": "B1",
+      "word": "metodo",
+      "ipa": "/metodo/",
+      "meaningZh": "方法",
+      "examples": []
+    },
+    {
+      "id": "B1_134",
+      "level": "B1",
+      "word": "mobilità",
+      "ipa": "/mobiliˈta/",
+      "meaningZh": "流动性；出行能力",
+      "examples": []
+    },
+    {
+      "id": "B1_135",
+      "level": "B1",
+      "word": "modulo",
+      "ipa": "/modulo/",
+      "meaningZh": "表格",
+      "examples": []
+    },
+    {
+      "id": "B1_136",
+      "level": "B1",
+      "word": "motivare",
+      "ipa": "/motiˈvare/",
+      "meaningZh": "激励；说明理由",
+      "examples": []
+    },
+    {
+      "id": "B1_137",
+      "level": "B1",
+      "word": "negoziazione",
+      "ipa": "/neddotsjatˈtsjone/",
+      "meaningZh": "协商",
+      "examples": []
+    },
+    {
+      "id": "B1_138",
+      "level": "B1",
+      "word": "occupazione",
+      "ipa": "/okkupatˈtsjone/",
+      "meaningZh": "就业；职业",
+      "examples": []
+    },
+    {
+      "id": "B1_139",
+      "level": "B1",
+      "word": "operazione",
+      "ipa": "/operatˈtsjone/",
+      "meaningZh": "操作；业务",
+      "examples": []
+    },
+    {
+      "id": "B1_140",
+      "level": "B1",
+      "word": "organizzazione",
+      "ipa": "/organizˈzatsjone/",
+      "meaningZh": "组织；机构",
+      "examples": []
+    },
+    {
+      "id": "B1_141",
+      "level": "B1",
+      "word": "orientarsi",
+      "ipa": "/orjenˈtarsi/",
+      "meaningZh": "辨认方向；熟悉情况",
+      "examples": []
+    },
+    {
+      "id": "B1_142",
+      "level": "B1",
+      "word": "partecipare",
+      "ipa": "/parteʧiˈpare/",
+      "meaningZh": "参加",
+      "examples": []
+    },
+    {
+      "id": "B1_143",
+      "level": "B1",
+      "word": "preferenza",
+      "ipa": "/preferentsa/",
+      "meaningZh": "偏好",
+      "examples": []
+    },
+    {
+      "id": "B1_144",
+      "level": "B1",
+      "word": "prenotazione",
+      "ipa": "/prenotatˈtsjone/",
+      "meaningZh": "预订",
+      "examples": []
+    },
+    {
+      "id": "B1_145",
+      "level": "B1",
+      "word": "procedimento",
+      "ipa": "/proʧediˈmento/",
+      "meaningZh": "程序；步骤",
+      "examples": []
+    },
+    {
+      "id": "B1_146",
+      "level": "B1",
+      "word": "produttivo",
+      "ipa": "/produttivo/",
+      "meaningZh": "生产性的；高效的",
+      "examples": []
+    },
+    {
+      "id": "B1_147",
+      "level": "B1",
+      "word": "protezione",
+      "ipa": "/protetˈtsjone/",
+      "meaningZh": "保护",
+      "examples": []
+    },
+    {
+      "id": "B1_148",
+      "level": "B1",
+      "word": "pubblico",
+      "ipa": "/ˈpubbliko/",
+      "meaningZh": "公众的；公共的",
+      "examples": []
+    },
+    {
+      "id": "B1_149",
+      "level": "B1",
+      "word": "rapporto",
+      "ipa": "/rapˈpɔrto/",
+      "meaningZh": "关系；报告",
+      "examples": []
+    },
+    {
+      "id": "B1_150",
+      "level": "B1",
+      "word": "reclamo",
+      "ipa": "/reklamo/",
+      "meaningZh": "投诉",
+      "examples": []
+    },
+    {
+      "id": "B1_151",
+      "level": "B1",
+      "word": "registrazione",
+      "ipa": "/redʒistratˈtsjone/",
+      "meaningZh": "登记；注册",
+      "examples": []
+    },
+    {
+      "id": "B1_152",
+      "level": "B1",
+      "word": "responsabilità",
+      "ipa": "/responsabiliˈta/",
+      "meaningZh": "责任",
+      "examples": []
+    },
+    {
+      "id": "B1_153",
+      "level": "B1",
+      "word": "riunione",
+      "ipa": "/rjuˈnjone/",
+      "meaningZh": "会议",
+      "examples": []
+    },
+    {
+      "id": "B1_154",
+      "level": "B1",
+      "word": "sicurezza",
+      "ipa": "/sikuˈrettsa/",
+      "meaningZh": "安全",
+      "examples": []
+    },
+    {
+      "id": "B1_155",
+      "level": "B1",
+      "word": "soluzione",
+      "ipa": "/solutˈtsjone/",
+      "meaningZh": "解决方案",
+      "examples": []
+    },
+    {
+      "id": "B1_156",
+      "level": "B1",
+      "word": "sostegno",
+      "ipa": "/sosˈtɛɲɲo/",
+      "meaningZh": "支持",
+      "examples": []
+    },
+    {
+      "id": "B1_157",
+      "level": "B1",
+      "word": "trasferimento",
+      "ipa": "/trasferiˈmento/",
+      "meaningZh": "转移；调动",
+      "examples": []
+    },
+    {
+      "id": "B1_158",
+      "level": "B1",
+      "word": "trasporto",
+      "ipa": "/trasˈpɔrto/",
+      "meaningZh": "运输；交通",
+      "examples": []
+    },
+    {
+      "id": "B1_159",
+      "level": "B1",
+      "word": "utenza",
+      "ipa": "/utentsa/",
+      "meaningZh": "用户群；使用量",
+      "examples": []
+    },
+    {
+      "id": "B1_160",
+      "level": "B1",
+      "word": "volontariato",
+      "ipa": "/volontaˈrjato/",
+      "meaningZh": "志愿服务",
+      "examples": []
+    },
+    {
+      "id": "B2_081",
+      "level": "B2",
+      "word": "accessibile",
+      "ipa": "/atʧesˈsibile/",
+      "meaningZh": "可及的；可访问的",
+      "examples": []
+    },
+    {
+      "id": "B2_082",
+      "level": "B2",
+      "word": "aggiornamento",
+      "ipa": "/addʒornaˈmento/",
+      "meaningZh": "更新",
+      "examples": []
+    },
+    {
+      "id": "B2_083",
+      "level": "B2",
+      "word": "analitico",
+      "ipa": "/anaˈlitiko/",
+      "meaningZh": "分析性的",
+      "examples": []
+    },
+    {
+      "id": "B2_084",
+      "level": "B2",
+      "word": "applicazione",
+      "ipa": "/applikatˈtsjone/",
+      "meaningZh": "应用；实施",
+      "examples": []
+    },
+    {
+      "id": "B2_085",
+      "level": "B2",
+      "word": "argomentazione",
+      "ipa": "/argomentatˈtsjone/",
+      "meaningZh": "论证",
+      "examples": []
+    },
+    {
+      "id": "B2_086",
+      "level": "B2",
+      "word": "articolazione",
+      "ipa": "/artikolatˈtsjone/",
+      "meaningZh": "结构化表达；衔接",
+      "examples": []
+    },
+    {
+      "id": "B2_087",
+      "level": "B2",
+      "word": "attendibilità",
+      "ipa": "/attendibiliˈta/",
+      "meaningZh": "可信度",
+      "examples": []
+    },
+    {
+      "id": "B2_088",
+      "level": "B2",
+      "word": "beneficio",
+      "ipa": "/beneˈfiʧo/",
+      "meaningZh": "益处",
+      "examples": []
+    },
+    {
+      "id": "B2_089",
+      "level": "B2",
+      "word": "cambiamento",
+      "ipa": "/kambjaˈmento/",
+      "meaningZh": "变革",
+      "examples": []
+    },
+    {
+      "id": "B2_090",
+      "level": "B2",
+      "word": "caratterizzare",
+      "ipa": "/karatterittsare/",
+      "meaningZh": "使具有特征",
+      "examples": []
+    },
+    {
+      "id": "B2_091",
+      "level": "B2",
+      "word": "chiarezza",
+      "ipa": "/kjaˈrettsa/",
+      "meaningZh": "清晰性",
+      "examples": []
+    },
+    {
+      "id": "B2_092",
+      "level": "B2",
+      "word": "citazione",
+      "ipa": "/ʧitatˈtsjone/",
+      "meaningZh": "引用",
+      "examples": []
+    },
+    {
+      "id": "B2_093",
+      "level": "B2",
+      "word": "coesione",
+      "ipa": "/koeˈzjone/",
+      "meaningZh": "衔接性",
+      "examples": []
+    },
+    {
+      "id": "B2_094",
+      "level": "B2",
+      "word": "cognitivo",
+      "ipa": "/koɲɲiˈtivo/",
+      "meaningZh": "认知的",
+      "examples": []
+    },
+    {
+      "id": "B2_095",
+      "level": "B2",
+      "word": "collettività",
+      "ipa": "/kollettiviˈta/",
+      "meaningZh": "群体；社会整体",
+      "examples": []
+    },
+    {
+      "id": "B2_096",
+      "level": "B2",
+      "word": "comparazione",
+      "ipa": "/komparatˈtsjone/",
+      "meaningZh": "比较",
+      "examples": []
+    },
+    {
+      "id": "B2_097",
+      "level": "B2",
+      "word": "complessità",
+      "ipa": "/komplessiˈta/",
+      "meaningZh": "复杂性",
+      "examples": []
+    },
+    {
+      "id": "B2_098",
+      "level": "B2",
+      "word": "comprensibile",
+      "ipa": "/komprenˈsibile/",
+      "meaningZh": "可理解的",
+      "examples": []
+    },
+    {
+      "id": "B2_099",
+      "level": "B2",
+      "word": "comunicativo",
+      "ipa": "/komunikativo/",
+      "meaningZh": "交际的；传播的",
+      "examples": []
+    },
+    {
+      "id": "B2_100",
+      "level": "B2",
+      "word": "condizionare",
+      "ipa": "/konditsionare/",
+      "meaningZh": "制约；影响",
+      "examples": []
+    },
+    {
+      "id": "B2_101",
+      "level": "B2",
+      "word": "configurazione",
+      "ipa": "/konfiɡuratˈtsjone/",
+      "meaningZh": "配置；结构形态",
+      "examples": []
+    },
+    {
+      "id": "B2_102",
+      "level": "B2",
+      "word": "conflitto",
+      "ipa": "/konˈflitto/",
+      "meaningZh": "冲突",
+      "examples": []
+    },
+    {
+      "id": "B2_103",
+      "level": "B2",
+      "word": "consistere",
+      "ipa": "/konsistere/",
+      "meaningZh": "在于",
+      "examples": []
+    },
+    {
+      "id": "B2_104",
+      "level": "B2",
+      "word": "consolidare",
+      "ipa": "/konsoliˈdare/",
+      "meaningZh": "巩固",
+      "examples": []
+    },
+    {
+      "id": "B2_105",
+      "level": "B2",
+      "word": "costituire",
+      "ipa": "/kostituˈire/",
+      "meaningZh": "构成；建立",
+      "examples": []
+    },
+    {
+      "id": "B2_106",
+      "level": "B2",
+      "word": "credibile",
+      "ipa": "/kreˈdibile/",
+      "meaningZh": "可信的",
+      "examples": []
+    },
+    {
+      "id": "B2_107",
+      "level": "B2",
+      "word": "criterio",
+      "ipa": "/kriˈtɛrjo/",
+      "meaningZh": "标准；判据",
+      "examples": []
+    },
+    {
+      "id": "B2_108",
+      "level": "B2",
+      "word": "dibattito",
+      "ipa": "/diˈbattito/",
+      "meaningZh": "辩论",
+      "examples": []
+    },
+    {
+      "id": "B2_109",
+      "level": "B2",
+      "word": "dinamica",
+      "ipa": "/diˈnamika/",
+      "meaningZh": "动态；动力机制",
+      "examples": []
+    },
+    {
+      "id": "B2_110",
+      "level": "B2",
+      "word": "discrepanza",
+      "ipa": "/diskreˈpantsa/",
+      "meaningZh": "差异；不一致",
+      "examples": []
+    },
+    {
+      "id": "B2_111",
+      "level": "B2",
+      "word": "elaborazione",
+      "ipa": "/elaboratˈtsjone/",
+      "meaningZh": "加工；阐述",
+      "examples": []
+    },
+    {
+      "id": "B2_112",
+      "level": "B2",
+      "word": "emergere",
+      "ipa": "/emerdʒere/",
+      "meaningZh": "显现；浮现",
+      "examples": []
+    },
+    {
+      "id": "B2_113",
+      "level": "B2",
+      "word": "equivalente",
+      "ipa": "/ekwivaˈlɛnte/",
+      "meaningZh": "对等的；相当的",
+      "examples": []
+    },
+    {
+      "id": "B2_114",
+      "level": "B2",
+      "word": "esplicitare",
+      "ipa": "/espliʧiˈtare/",
+      "meaningZh": "明确表达",
+      "examples": []
+    },
+    {
+      "id": "B2_115",
+      "level": "B2",
+      "word": "fattore",
+      "ipa": "/fattore/",
+      "meaningZh": "因素",
+      "examples": []
+    },
+    {
+      "id": "B2_116",
+      "level": "B2",
+      "word": "fattibilità",
+      "ipa": "/fattibiliˈta/",
+      "meaningZh": "可行性",
+      "examples": []
+    },
+    {
+      "id": "B2_117",
+      "level": "B2",
+      "word": "finalità",
+      "ipa": "/finaliˈta/",
+      "meaningZh": "目的",
+      "examples": []
+    },
+    {
+      "id": "B2_118",
+      "level": "B2",
+      "word": "flessibile",
+      "ipa": "/flesˈsibile/",
+      "meaningZh": "灵活的",
+      "examples": []
+    },
+    {
+      "id": "B2_119",
+      "level": "B2",
+      "word": "fondamento",
+      "ipa": "/fondaˈmento/",
+      "meaningZh": "基础；依据",
+      "examples": []
+    },
+    {
+      "id": "B2_120",
+      "level": "B2",
+      "word": "formulazione",
+      "ipa": "/formulatˈtsjone/",
+      "meaningZh": "表述方式",
+      "examples": []
+    },
+    {
+      "id": "B2_121",
+      "level": "B2",
+      "word": "frammentazione",
+      "ipa": "/frammentatˈtsjone/",
+      "meaningZh": "碎片化",
+      "examples": []
+    },
+    {
+      "id": "B2_122",
+      "level": "B2",
+      "word": "gerarchia",
+      "ipa": "/dʒerarˈkia/",
+      "meaningZh": "层级",
+      "examples": []
+    },
+    {
+      "id": "B2_123",
+      "level": "B2",
+      "word": "implementare",
+      "ipa": "/implemenˈtare/",
+      "meaningZh": "实施",
+      "examples": []
+    },
+    {
+      "id": "B2_124",
+      "level": "B2",
+      "word": "incoerenza",
+      "ipa": "/inkoeˈrɛntsa/",
+      "meaningZh": "不连贯；不一致",
+      "examples": []
+    },
+    {
+      "id": "B2_125",
+      "level": "B2",
+      "word": "indicatore",
+      "ipa": "/indikaˈtore/",
+      "meaningZh": "指标",
+      "examples": []
+    },
+    {
+      "id": "B2_126",
+      "level": "B2",
+      "word": "inferenza",
+      "ipa": "/infeˈrɛntsa/",
+      "meaningZh": "推断",
+      "examples": []
+    },
+    {
+      "id": "B2_127",
+      "level": "B2",
+      "word": "interpretare",
+      "ipa": "/interpretare/",
+      "meaningZh": "解释",
+      "examples": []
+    },
+    {
+      "id": "B2_128",
+      "level": "B2",
+      "word": "ipotizzare",
+      "ipa": "/ipotitˈtsare/",
+      "meaningZh": "假设",
+      "examples": []
+    },
+    {
+      "id": "B2_129",
+      "level": "B2",
+      "word": "legittimo",
+      "ipa": "/ledʒˈdʒittimo/",
+      "meaningZh": "合理合法的",
+      "examples": []
+    },
+    {
+      "id": "B2_130",
+      "level": "B2",
+      "word": "monitoraggio",
+      "ipa": "/monitoˈraddʒo/",
+      "meaningZh": "监测",
+      "examples": []
+    },
+    {
+      "id": "B2_131",
+      "level": "B2",
+      "word": "multidimensionale",
+      "ipa": "/multidimensjoˈnale/",
+      "meaningZh": "多维的",
+      "examples": []
+    },
+    {
+      "id": "B2_132",
+      "level": "B2",
+      "word": "negoziare",
+      "ipa": "/neddoˈtsjare/",
+      "meaningZh": "协商",
+      "examples": []
+    },
+    {
+      "id": "B2_133",
+      "level": "B2",
+      "word": "nucleo",
+      "ipa": "/nukleo/",
+      "meaningZh": "核心",
+      "examples": []
+    },
+    {
+      "id": "B2_134",
+      "level": "B2",
+      "word": "osservazione",
+      "ipa": "/osservatˈtsjone/",
+      "meaningZh": "观察；评论",
+      "examples": []
+    },
+    {
+      "id": "B2_135",
+      "level": "B2",
+      "word": "ottimizzare",
+      "ipa": "/ottimizˈzare/",
+      "meaningZh": "优化",
+      "examples": []
+    },
+    {
+      "id": "B2_136",
+      "level": "B2",
+      "word": "parziale",
+      "ipa": "/partsiale/",
+      "meaningZh": "部分的",
+      "examples": []
+    },
+    {
+      "id": "B2_137",
+      "level": "B2",
+      "word": "percezione",
+      "ipa": "/pertʃetˈtsjone/",
+      "meaningZh": "感知；看法",
+      "examples": []
+    },
+    {
+      "id": "B2_138",
+      "level": "B2",
+      "word": "pianificazione",
+      "ipa": "/pjanifikatˈtsjone/",
+      "meaningZh": "规划",
+      "examples": []
+    },
+    {
+      "id": "B2_139",
+      "level": "B2",
+      "word": "potenziale",
+      "ipa": "/potenˈtsjale/",
+      "meaningZh": "潜在的",
+      "examples": []
+    },
+    {
+      "id": "B2_140",
+      "level": "B2",
+      "word": "precisazione",
+      "ipa": "/pretʃizatˈtsjone/",
+      "meaningZh": "进一步说明",
+      "examples": []
+    },
+    {
+      "id": "B2_141",
+      "level": "B2",
+      "word": "previsione",
+      "ipa": "/previˈzjone/",
+      "meaningZh": "预测",
+      "examples": []
+    },
+    {
+      "id": "B2_142",
+      "level": "B2",
+      "word": "problematica",
+      "ipa": "/probleˈmatika/",
+      "meaningZh": "问题；议题",
+      "examples": []
+    },
+    {
+      "id": "B2_143",
+      "level": "B2",
+      "word": "procedere",
+      "ipa": "/proʧeˈdere/",
+      "meaningZh": "推进；继续",
+      "examples": []
+    },
+    {
+      "id": "B2_144",
+      "level": "B2",
+      "word": "quantitativo",
+      "ipa": "/kwantitativo/",
+      "meaningZh": "定量的；数量的",
+      "examples": []
+    },
+    {
+      "id": "B2_145",
+      "level": "B2",
+      "word": "qualità",
+      "ipa": "/kwaliˈta/",
+      "meaningZh": "质量",
+      "examples": []
+    },
+    {
+      "id": "B2_146",
+      "level": "B2",
+      "word": "riformulare",
+      "ipa": "/riformuˈlare/",
+      "meaningZh": "重新表述",
+      "examples": []
+    },
+    {
+      "id": "B2_147",
+      "level": "B2",
+      "word": "rilevanza",
+      "ipa": "/rileˈvantsa/",
+      "meaningZh": "相关性；重要性",
+      "examples": []
+    },
+    {
+      "id": "B2_148",
+      "level": "B2",
+      "word": "rappresentazione",
+      "ipa": "/rapprezentatˈtsjone/",
+      "meaningZh": "表征；呈现",
+      "examples": []
+    },
+    {
+      "id": "B2_149",
+      "level": "B2",
+      "word": "razionale",
+      "ipa": "/rattsjoˈnale/",
+      "meaningZh": "合理依据；理性的",
+      "examples": []
+    },
+    {
+      "id": "B2_150",
+      "level": "B2",
+      "word": "reciproco",
+      "ipa": "/retʃiproko/",
+      "meaningZh": "相互的",
+      "examples": []
+    },
+    {
+      "id": "B2_151",
+      "level": "B2",
+      "word": "riferimento",
+      "ipa": "/riferiˈmento/",
+      "meaningZh": "参照；引用",
+      "examples": []
+    },
+    {
+      "id": "B2_152",
+      "level": "B2",
+      "word": "rigoroso",
+      "ipa": "/riɡoˈroso/",
+      "meaningZh": "严谨的",
+      "examples": []
+    },
+    {
+      "id": "B2_153",
+      "level": "B2",
+      "word": "sintesi",
+      "ipa": "/ˈsintesi/",
+      "meaningZh": "综合；摘要",
+      "examples": []
+    },
+    {
+      "id": "B2_154",
+      "level": "B2",
+      "word": "soggettivo",
+      "ipa": "/soddʒetˈtivo/",
+      "meaningZh": "主观的",
+      "examples": []
+    },
+    {
+      "id": "B2_155",
+      "level": "B2",
+      "word": "solidità",
+      "ipa": "/solidiˈta/",
+      "meaningZh": "稳固性",
+      "examples": []
+    },
+    {
+      "id": "B2_156",
+      "level": "B2",
+      "word": "trasferibile",
+      "ipa": "/trasferiˈbile/",
+      "meaningZh": "可迁移的",
+      "examples": []
+    },
+    {
+      "id": "B2_157",
+      "level": "B2",
+      "word": "trasversale",
+      "ipa": "/trasverˈsale/",
+      "meaningZh": "跨领域的",
+      "examples": []
+    },
+    {
+      "id": "B2_158",
+      "level": "B2",
+      "word": "validità",
+      "ipa": "/validiˈta/",
+      "meaningZh": "有效性",
+      "examples": []
+    },
+    {
+      "id": "B2_159",
+      "level": "B2",
+      "word": "versione",
+      "ipa": "/versione/",
+      "meaningZh": "版本",
+      "examples": []
+    },
+    {
+      "id": "B2_160",
+      "level": "B2",
+      "word": "vincolo",
+      "ipa": "/ˈviŋkolo/",
+      "meaningZh": "限制条件",
+      "examples": []
+    },
+    {
+      "id": "B2_161",
+      "level": "B2",
+      "word": "accettabile",
+      "ipa": "/attʃettabile/",
+      "meaningZh": "可接受的",
+      "examples": []
+    },
+    {
+      "id": "B2_162",
+      "level": "B2",
+      "word": "accettazione",
+      "ipa": "/attʃettatsione/",
+      "meaningZh": "接受",
+      "examples": []
+    },
+    {
+      "id": "B2_163",
+      "level": "B2",
+      "word": "accorgersi",
+      "ipa": "/akkordʒersi/",
+      "meaningZh": "察觉；意识到",
+      "examples": []
+    },
+    {
+      "id": "B2_164",
+      "level": "B2",
+      "word": "accumulare",
+      "ipa": "/akkumulare/",
+      "meaningZh": "积累；储蓄",
+      "examples": []
+    },
+    {
+      "id": "B2_165",
+      "level": "B2",
+      "word": "agitato",
+      "ipa": "/adʒitato/",
+      "meaningZh": "激动的；不安的",
+      "examples": []
+    },
+    {
+      "id": "B2_166",
+      "level": "B2",
+      "word": "ambasciatore",
+      "ipa": "/ambaʃatore/",
+      "meaningZh": "大使",
+      "examples": []
+    },
+    {
+      "id": "B2_167",
+      "level": "B2",
+      "word": "ammalarsi",
+      "ipa": "/ammalarsi/",
+      "meaningZh": "生病",
+      "examples": []
+    },
+    {
+      "id": "B2_168",
+      "level": "B2",
+      "word": "ammirare",
+      "ipa": "/ammirare/",
+      "meaningZh": "欣赏；钦佩",
+      "examples": []
+    },
+    {
+      "id": "B2_169",
+      "level": "B2",
+      "word": "assurdo",
+      "ipa": "/assurdo/",
+      "meaningZh": "荒谬的",
+      "examples": []
+    },
+    {
+      "id": "B2_170",
+      "level": "B2",
+      "word": "azzurro",
+      "ipa": "/attsurro/",
+      "meaningZh": "天蓝色的",
+      "examples": []
+    },
+    {
+      "id": "B2_171",
+      "level": "B2",
+      "word": "basilica",
+      "ipa": "/bazilika/",
+      "meaningZh": "大教堂",
+      "examples": []
+    },
+    {
+      "id": "B2_172",
+      "level": "B2",
+      "word": "balzare",
+      "ipa": "/baltsare/",
+      "meaningZh": "跳起；猛增",
+      "examples": []
+    },
+    {
+      "id": "B2_173",
+      "level": "B2",
+      "word": "calendario",
+      "ipa": "/kalendario/",
+      "meaningZh": "日历",
+      "examples": []
+    },
+    {
+      "id": "B2_174",
+      "level": "B2",
+      "word": "campione",
+      "ipa": "/kampione/",
+      "meaningZh": "样品；冠军",
+      "examples": []
+    },
+    {
+      "id": "B2_175",
+      "level": "B2",
+      "word": "cancro",
+      "ipa": "/kankro/",
+      "meaningZh": "癌症",
+      "examples": []
+    },
+    {
+      "id": "B2_176",
+      "level": "B2",
+      "word": "caratteristica",
+      "ipa": "/karatteristika/",
+      "meaningZh": "特点；特征",
+      "examples": []
+    },
+    {
+      "id": "B2_177",
+      "level": "B2",
+      "word": "celebre",
+      "ipa": "/tʃelebre/",
+      "meaningZh": "著名的",
+      "examples": []
+    },
+    {
+      "id": "B2_178",
+      "level": "B2",
+      "word": "chiacchierare",
+      "ipa": "/kiakkierare/",
+      "meaningZh": "聊天",
+      "examples": []
+    },
+    {
+      "id": "B2_179",
+      "level": "B2",
+      "word": "circostante",
+      "ipa": "/tʃirkostante/",
+      "meaningZh": "周围的",
+      "examples": []
+    },
+    {
+      "id": "B2_180",
+      "level": "B2",
+      "word": "civiltà",
+      "ipa": "/tʃivilta/",
+      "meaningZh": "文明",
+      "examples": []
+    },
+    {
+      "id": "B2_181",
+      "level": "B2",
+      "word": "commesso",
+      "ipa": "/kommesso/",
+      "meaningZh": "店员",
+      "examples": []
+    },
+    {
+      "id": "B2_182",
+      "level": "B2",
+      "word": "compenso",
+      "ipa": "/kompenso/",
+      "meaningZh": "补偿；报酬",
+      "examples": []
+    },
+    {
+      "id": "B2_183",
+      "level": "B2",
+      "word": "complicato",
+      "ipa": "/komplikato/",
+      "meaningZh": "复杂的",
+      "examples": []
+    },
+    {
+      "id": "B2_184",
+      "level": "B2",
+      "word": "conseguenza",
+      "ipa": "/konseguentsa/",
+      "meaningZh": "后果",
+      "examples": []
+    },
+    {
+      "id": "B2_185",
+      "level": "B2",
+      "word": "console",
+      "ipa": "/konsole/",
+      "meaningZh": "领事",
+      "examples": []
+    },
+    {
+      "id": "B2_186",
+      "level": "B2",
+      "word": "consolare",
+      "ipa": "/konsolare/",
+      "meaningZh": "安慰",
+      "examples": []
+    },
+    {
+      "id": "B2_187",
+      "level": "B2",
+      "word": "convincere",
+      "ipa": "/konvintʃere/",
+      "meaningZh": "说服",
+      "examples": []
+    },
+    {
+      "id": "B2_188",
+      "level": "B2",
+      "word": "coraggio",
+      "ipa": "/koraddʒo/",
+      "meaningZh": "勇气",
+      "examples": []
+    },
+    {
+      "id": "B2_189",
+      "level": "B2",
+      "word": "corretto",
+      "ipa": "/korretto/",
+      "meaningZh": "正确的；得体的",
+      "examples": []
+    },
+    {
+      "id": "B2_190",
+      "level": "B2",
+      "word": "costoso",
+      "ipa": "/kostozo/",
+      "meaningZh": "昂贵的",
+      "examples": []
+    },
+    {
+      "id": "B2_191",
+      "level": "B2",
+      "word": "costringere",
+      "ipa": "/kostrindʒere/",
+      "meaningZh": "强迫",
+      "examples": []
+    },
+    {
+      "id": "B2_192",
+      "level": "B2",
+      "word": "creativo",
+      "ipa": "/kreativo/",
+      "meaningZh": "创造性的",
+      "examples": []
+    },
+    {
+      "id": "B2_193",
+      "level": "B2",
+      "word": "credito",
+      "ipa": "/kredito/",
+      "meaningZh": "信用；贷款",
+      "examples": []
+    },
+    {
+      "id": "B2_194",
+      "level": "B2",
+      "word": "crisi",
+      "ipa": "/krizi/",
+      "meaningZh": "危机",
+      "examples": []
+    },
+    {
+      "id": "B2_195",
+      "level": "B2",
+      "word": "cronaca",
+      "ipa": "/kronaka/",
+      "meaningZh": "专题新闻；纪实报道",
+      "examples": []
+    },
+    {
+      "id": "B2_196",
+      "level": "B2",
+      "word": "curiosità",
+      "ipa": "/kuriozita/",
+      "meaningZh": "好奇心",
+      "examples": []
+    },
+    {
+      "id": "B2_197",
+      "level": "B2",
+      "word": "delizioso",
+      "ipa": "/delitsiozo/",
+      "meaningZh": "美味的",
+      "examples": []
+    },
+    {
+      "id": "B2_198",
+      "level": "B2",
+      "word": "deludere",
+      "ipa": "/deludere/",
+      "meaningZh": "使失望",
+      "examples": []
+    },
+    {
+      "id": "B2_199",
+      "level": "B2",
+      "word": "deluso",
+      "ipa": "/deluzo/",
+      "meaningZh": "失望的",
+      "examples": []
+    },
+    {
+      "id": "B2_200",
+      "level": "B2",
+      "word": "descrivere",
+      "ipa": "/deskrivere/",
+      "meaningZh": "描写；描述",
+      "examples": []
+    },
+    {
+      "id": "B2_201",
+      "level": "B2",
+      "word": "desiderio",
+      "ipa": "/deziderio/",
+      "meaningZh": "愿望；渴望",
+      "examples": []
+    },
+    {
+      "id": "B2_202",
+      "level": "B2",
+      "word": "determinare",
+      "ipa": "/determinare/",
+      "meaningZh": "决定；确定",
+      "examples": []
+    },
+    {
+      "id": "B2_203",
+      "level": "B2",
+      "word": "dialetto",
+      "ipa": "/dialetto/",
+      "meaningZh": "方言",
+      "examples": []
+    },
+    {
+      "id": "B2_204",
+      "level": "B2",
+      "word": "disastro",
+      "ipa": "/dizastro/",
+      "meaningZh": "灾难",
+      "examples": []
+    },
+    {
+      "id": "B2_205",
+      "level": "B2",
+      "word": "disoccupato",
+      "ipa": "/dizokkupato/",
+      "meaningZh": "失业的；失业者",
+      "examples": []
+    },
+    {
+      "id": "B2_206",
+      "level": "B2",
+      "word": "disordine",
+      "ipa": "/dizordine/",
+      "meaningZh": "杂乱无章；骚乱",
+      "examples": []
+    },
+    {
+      "id": "B2_207",
+      "level": "B2",
+      "word": "distrarre",
+      "ipa": "/distrarre/",
+      "meaningZh": "使分心",
+      "examples": []
+    },
+    {
+      "id": "B2_208",
+      "level": "B2",
+      "word": "distruggere",
+      "ipa": "/distruddʒere/",
+      "meaningZh": "破坏",
+      "examples": []
+    },
+    {
+      "id": "B2_209",
+      "level": "B2",
+      "word": "eccellente",
+      "ipa": "/ettʃellente/",
+      "meaningZh": "卓越的",
+      "examples": []
+    },
+    {
+      "id": "B2_210",
+      "level": "B2",
+      "word": "efficace",
+      "ipa": "/effikatʃe/",
+      "meaningZh": "有效的",
+      "examples": []
+    },
+    {
+      "id": "B2_211",
+      "level": "B2",
+      "word": "eleganza",
+      "ipa": "/elegantsa/",
+      "meaningZh": "优雅",
+      "examples": []
+    },
+    {
+      "id": "B2_212",
+      "level": "B2",
+      "word": "elevato",
+      "ipa": "/elevato/",
+      "meaningZh": "升高的；高水平的",
+      "examples": []
+    },
+    {
+      "id": "B2_213",
+      "level": "B2",
+      "word": "elezione",
+      "ipa": "/eletsione/",
+      "meaningZh": "选举",
+      "examples": []
+    },
+    {
+      "id": "B2_214",
+      "level": "B2",
+      "word": "emigrazione",
+      "ipa": "/emigratsione/",
+      "meaningZh": "移民；外迁",
+      "examples": []
+    },
+    {
+      "id": "B2_215",
+      "level": "B2",
+      "word": "enorme",
+      "ipa": "/enorme/",
+      "meaningZh": "巨大的",
+      "examples": []
+    },
+    {
+      "id": "B2_216",
+      "level": "B2",
+      "word": "epoca",
+      "ipa": "/epoka/",
+      "meaningZh": "时代",
+      "examples": []
+    },
+    {
+      "id": "B2_217",
+      "level": "B2",
+      "word": "errore",
+      "ipa": "/errore/",
+      "meaningZh": "错误",
+      "examples": []
+    },
+    {
+      "id": "B2_218",
+      "level": "B2",
+      "word": "esagerare",
+      "ipa": "/ezadʒerare/",
+      "meaningZh": "夸大",
+      "examples": []
+    },
+    {
+      "id": "B2_219",
+      "level": "B2",
+      "word": "esatto",
+      "ipa": "/ezatto/",
+      "meaningZh": "确切的",
+      "examples": []
+    },
+    {
+      "id": "B2_220",
+      "level": "B2",
+      "word": "esitazione",
+      "ipa": "/ezitatsione/",
+      "meaningZh": "犹豫",
+      "examples": []
+    },
+    {
+      "id": "B2_221",
+      "level": "B2",
+      "word": "essenziale",
+      "ipa": "/essentsiale/",
+      "meaningZh": "基本的；必要的",
+      "examples": []
+    },
+    {
+      "id": "B2_222",
+      "level": "B2",
+      "word": "evidente",
+      "ipa": "/evidente/",
+      "meaningZh": "明显的",
+      "examples": []
+    },
+    {
+      "id": "B2_223",
+      "level": "B2",
+      "word": "evitare",
+      "ipa": "/evitare/",
+      "meaningZh": "避免",
+      "examples": []
+    },
+    {
+      "id": "B2_224",
+      "level": "B2",
+      "word": "facenda",
+      "ipa": "/fatʃenda/",
+      "meaningZh": "事情",
+      "examples": []
+    },
+    {
+      "id": "B2_225",
+      "level": "B2",
+      "word": "fallire",
+      "ipa": "/fallire/",
+      "meaningZh": "失败",
+      "examples": []
+    },
+    {
+      "id": "B2_226",
+      "level": "B2",
+      "word": "fenomeno",
+      "ipa": "/fenomeno/",
+      "meaningZh": "现象",
+      "examples": []
+    },
+    {
+      "id": "B2_227",
+      "level": "B2",
+      "word": "ferita",
+      "ipa": "/ferita/",
+      "meaningZh": "伤口",
+      "examples": []
+    },
+    {
+      "id": "B2_228",
+      "level": "B2",
+      "word": "finalmente",
+      "ipa": "/finalmente/",
+      "meaningZh": "最终；终于",
+      "examples": []
+    },
+    {
+      "id": "B2_229",
+      "level": "B2",
+      "word": "fissare",
+      "ipa": "/fissare/",
+      "meaningZh": "固定；确定",
+      "examples": []
+    },
+    {
+      "id": "B2_230",
+      "level": "B2",
+      "word": "fotografia",
+      "ipa": "/fotografia/",
+      "meaningZh": "照片",
+      "examples": []
+    },
+    {
+      "id": "B2_231",
+      "level": "B2",
+      "word": "francamente",
+      "ipa": "/frankamente/",
+      "meaningZh": "老实说；坦白地",
+      "examples": []
+    },
+    {
+      "id": "B2_232",
+      "level": "B2",
+      "word": "fuggire",
+      "ipa": "/fuddʒire/",
+      "meaningZh": "逃脱",
+      "examples": []
+    },
+    {
+      "id": "B2_233",
+      "level": "B2",
+      "word": "furbo",
+      "ipa": "/furbo/",
+      "meaningZh": "狡猾的；机灵的",
+      "examples": []
+    },
+    {
+      "id": "B2_234",
+      "level": "B2",
+      "word": "gelosia",
+      "ipa": "/dʒelozia/",
+      "meaningZh": "嫉妒",
+      "examples": []
+    },
+    {
+      "id": "B2_235",
+      "level": "B2",
+      "word": "geniale",
+      "ipa": "/dʒeniale/",
+      "meaningZh": "天才的",
+      "examples": []
+    },
+    {
+      "id": "B2_236",
+      "level": "B2",
+      "word": "gestire",
+      "ipa": "/dʒestire/",
+      "meaningZh": "管理；经营",
+      "examples": []
+    },
+    {
+      "id": "B2_237",
+      "level": "B2",
+      "word": "ghiaccio",
+      "ipa": "/dʒattʃo/",
+      "meaningZh": "冰",
+      "examples": []
+    },
+    {
+      "id": "B2_238",
+      "level": "B2",
+      "word": "grandioso",
+      "ipa": "/grandiozo/",
+      "meaningZh": "壮观的",
+      "examples": []
+    },
+    {
+      "id": "B2_239",
+      "level": "B2",
+      "word": "guerra",
+      "ipa": "/guerra/",
+      "meaningZh": "战争",
+      "examples": []
+    },
+    {
+      "id": "B2_240",
+      "level": "B2",
+      "word": "ignoranza",
+      "ipa": "/iɲorantsa/",
+      "meaningZh": "无知",
+      "examples": []
+    },
+    {
+      "id": "B2_241",
+      "level": "B2",
+      "word": "illegale",
+      "ipa": "/illegale/",
+      "meaningZh": "违法的",
+      "examples": []
+    },
+    {
+      "id": "B2_242",
+      "level": "B2",
+      "word": "imbarazzo",
+      "ipa": "/imbarattso/",
+      "meaningZh": "尴尬",
+      "examples": []
+    },
+    {
+      "id": "B2_243",
+      "level": "B2",
+      "word": "immaginare",
+      "ipa": "/immadʒinare/",
+      "meaningZh": "想象",
+      "examples": []
+    },
+    {
+      "id": "B2_244",
+      "level": "B2",
+      "word": "immediato",
+      "ipa": "/immediato/",
+      "meaningZh": "迅速的；立即的",
+      "examples": []
+    },
+    {
+      "id": "B2_245",
+      "level": "B2",
+      "word": "immenso",
+      "ipa": "/immenso/",
+      "meaningZh": "巨大的；广阔的",
+      "examples": []
+    },
+    {
+      "id": "B2_246",
+      "level": "B2",
+      "word": "immobile",
+      "ipa": "/immobile/",
+      "meaningZh": "不动的",
+      "examples": []
+    },
+    {
+      "id": "B2_247",
+      "level": "B2",
+      "word": "impedire",
+      "ipa": "/impedire/",
+      "meaningZh": "阻止",
+      "examples": []
+    },
+    {
+      "id": "B2_248",
+      "level": "B2",
+      "word": "impero",
+      "ipa": "/impero/",
+      "meaningZh": "帝国",
+      "examples": []
+    },
+    {
+      "id": "B2_249",
+      "level": "B2",
+      "word": "impossibile",
+      "ipa": "/impossibile/",
+      "meaningZh": "不可能的",
+      "examples": []
+    },
+    {
+      "id": "B2_250",
+      "level": "B2",
+      "word": "incaricare",
+      "ipa": "/inkarikare/",
+      "meaningZh": "委派；委托",
+      "examples": []
+    },
+    {
+      "id": "B2_251",
+      "level": "B2",
+      "word": "incredibile",
+      "ipa": "/inkredibile/",
+      "meaningZh": "令人难以置信的",
+      "examples": []
+    },
+    {
+      "id": "B2_252",
+      "level": "B2",
+      "word": "indagine",
+      "ipa": "/indadʒine/",
+      "meaningZh": "调查",
+      "examples": []
+    },
+    {
+      "id": "B2_253",
+      "level": "B2",
+      "word": "indipendente",
+      "ipa": "/indipendente/",
+      "meaningZh": "独立的",
+      "examples": []
+    },
+    {
+      "id": "B2_254",
+      "level": "B2",
+      "word": "industria",
+      "ipa": "/industria/",
+      "meaningZh": "工业；产业",
+      "examples": []
+    },
+    {
+      "id": "B2_255",
+      "level": "B2",
+      "word": "industriale",
+      "ipa": "/industriale/",
+      "meaningZh": "工业的",
+      "examples": []
+    },
+    {
+      "id": "B2_256",
+      "level": "B2",
+      "word": "infanzia",
+      "ipa": "/infantsia/",
+      "meaningZh": "童年",
+      "examples": []
+    },
+    {
+      "id": "B2_257",
+      "level": "B2",
+      "word": "influenza",
+      "ipa": "/influentsa/",
+      "meaningZh": "影响；流感",
+      "examples": []
+    },
+    {
+      "id": "B2_258",
+      "level": "B2",
+      "word": "ingegnere",
+      "ipa": "/indʒeɲere/",
+      "meaningZh": "工程师",
+      "examples": []
+    },
+    {
+      "id": "B2_259",
+      "level": "B2",
+      "word": "inquinamento",
+      "ipa": "/inkwinamento/",
+      "meaningZh": "污染",
+      "examples": []
+    },
+    {
+      "id": "B2_260",
+      "level": "B2",
+      "word": "insoddisfatto",
+      "ipa": "/insoddisfatto/",
+      "meaningZh": "不满意的",
+      "examples": []
+    },
+    {
+      "id": "B2_261",
+      "level": "B2",
+      "word": "insomma",
+      "ipa": "/insomma/",
+      "meaningZh": "总而言之",
+      "examples": []
+    },
+    {
+      "id": "B2_262",
+      "level": "B2",
+      "word": "instabile",
+      "ipa": "/instabile/",
+      "meaningZh": "不稳定的",
+      "examples": []
+    },
+    {
+      "id": "B2_263",
+      "level": "B2",
+      "word": "insufficienza",
+      "ipa": "/insuffitʃientsa/",
+      "meaningZh": "不足；不够",
+      "examples": []
+    },
+    {
+      "id": "B2_264",
+      "level": "B2",
+      "word": "intelligenza",
+      "ipa": "/intellidʒentsa/",
+      "meaningZh": "智力；聪明",
+      "examples": []
+    },
+    {
+      "id": "B2_265",
+      "level": "B2",
+      "word": "intensivo",
+      "ipa": "/intensivo/",
+      "meaningZh": "强化的",
+      "examples": []
+    },
+    {
+      "id": "B2_266",
+      "level": "B2",
+      "word": "intenzione",
+      "ipa": "/intentsione/",
+      "meaningZh": "意图",
+      "examples": []
+    },
+    {
+      "id": "B2_267",
+      "level": "B2",
+      "word": "intero",
+      "ipa": "/intero/",
+      "meaningZh": "整个的",
+      "examples": []
+    },
+    {
+      "id": "B2_268",
+      "level": "B2",
+      "word": "interrompere",
+      "ipa": "/interrompere/",
+      "meaningZh": "使停顿；打断",
+      "examples": []
+    },
+    {
+      "id": "B2_269",
+      "level": "B2",
+      "word": "intervenire",
+      "ipa": "/intervenire/",
+      "meaningZh": "干预",
+      "examples": []
+    },
+    {
+      "id": "B2_270",
+      "level": "B2",
+      "word": "intervista",
+      "ipa": "/intervista/",
+      "meaningZh": "采访",
+      "examples": []
+    },
+    {
+      "id": "B2_271",
+      "level": "B2",
+      "word": "inutile",
+      "ipa": "/inutile/",
+      "meaningZh": "无用的",
+      "examples": []
+    },
+    {
+      "id": "B2_272",
+      "level": "B2",
+      "word": "investire",
+      "ipa": "/investire/",
+      "meaningZh": "投资",
+      "examples": []
+    },
+    {
+      "id": "B2_273",
+      "level": "B2",
+      "word": "irreale",
+      "ipa": "/irreale/",
+      "meaningZh": "不真实的",
+      "examples": []
+    },
+    {
+      "id": "B2_274",
+      "level": "B2",
+      "word": "lamentarsi",
+      "ipa": "/lamentarsi/",
+      "meaningZh": "抱怨",
+      "examples": []
+    },
+    {
+      "id": "B2_275",
+      "level": "B2",
+      "word": "laterale",
+      "ipa": "/laterale/",
+      "meaningZh": "旁边的；侧面的",
+      "examples": []
+    },
+    {
+      "id": "B2_276",
+      "level": "B2",
+      "word": "laureato",
+      "ipa": "/laureato/",
+      "meaningZh": "大学毕业生",
+      "examples": []
+    },
+    {
+      "id": "B2_277",
+      "level": "B2",
+      "word": "legale",
+      "ipa": "/legale/",
+      "meaningZh": "合法的",
+      "examples": []
+    },
+    {
+      "id": "B2_278",
+      "level": "B2",
+      "word": "letterario",
+      "ipa": "/letterario/",
+      "meaningZh": "文学的",
+      "examples": []
+    },
+    {
+      "id": "B2_279",
+      "level": "B2",
+      "word": "letteratura",
+      "ipa": "/letteratura/",
+      "meaningZh": "文学",
+      "examples": []
+    },
+    {
+      "id": "B2_280",
+      "level": "B2",
+      "word": "liscio",
+      "ipa": "/liʃo/",
+      "meaningZh": "光滑的",
+      "examples": []
+    },
+    {
+      "id": "B2_281",
+      "level": "B2",
+      "word": "quadrato",
+      "ipa": "/kwaˈdrato/",
+      "meaningZh": "平方的；方格的",
+      "examples": []
+    },
+    {
+      "id": "B2_282",
+      "level": "B2",
+      "word": "quantità",
+      "ipa": "/kwantiˈta/",
+      "meaningZh": "数量",
+      "examples": []
+    },
+    {
+      "id": "B2_283",
+      "level": "B2",
+      "word": "rabbia",
+      "ipa": "/ˈrabbja/",
+      "meaningZh": "恼火；生气",
+      "examples": []
+    },
+    {
+      "id": "B2_284",
+      "level": "B2",
+      "word": "radiazione",
+      "ipa": "/radjatˈtsjone/",
+      "meaningZh": "辐射",
+      "examples": []
+    },
+    {
+      "id": "B2_285",
+      "level": "B2",
+      "word": "ragione",
+      "ipa": "/raˈdʒone/",
+      "meaningZh": "道理；理由",
+      "examples": []
+    },
+    {
+      "id": "B2_286",
+      "level": "B2",
+      "word": "rapidamente",
+      "ipa": "/rapidaˈmente/",
+      "meaningZh": "快速地",
+      "examples": []
+    },
+    {
+      "id": "B2_287",
+      "level": "B2",
+      "word": "rapido",
+      "ipa": "/ˈrapido/",
+      "meaningZh": "快速的",
+      "examples": []
+    },
+    {
+      "id": "B2_288",
+      "level": "B2",
+      "word": "rappresentare",
+      "ipa": "/rapprezenˈtare/",
+      "meaningZh": "代表",
+      "examples": []
+    },
+    {
+      "id": "B2_289",
+      "level": "B2",
+      "word": "raro",
+      "ipa": "/raro/",
+      "meaningZh": "稀有的；罕见的",
+      "examples": []
+    },
+    {
+      "id": "B2_290",
+      "level": "B2",
+      "word": "recente",
+      "ipa": "/reˈtʃɛnte/",
+      "meaningZh": "当前的；目前的",
+      "examples": []
+    },
+    {
+      "id": "B2_291",
+      "level": "B2",
+      "word": "recuperare",
+      "ipa": "/rekupeˈrare/",
+      "meaningZh": "挽救；弥补",
+      "examples": []
+    },
+    {
+      "id": "B2_292",
+      "level": "B2",
+      "word": "reddito",
+      "ipa": "/reddito/",
+      "meaningZh": "收入；所得",
+      "examples": []
+    },
+    {
+      "id": "B2_293",
+      "level": "B2",
+      "word": "regime",
+      "ipa": "/reˈdʒime/",
+      "meaningZh": "制度",
+      "examples": []
+    },
+    {
+      "id": "B2_294",
+      "level": "B2",
+      "word": "regionale",
+      "ipa": "/redʒjoˈnale/",
+      "meaningZh": "区域的",
+      "examples": []
+    },
+    {
+      "id": "B2_295",
+      "level": "B2",
+      "word": "regione",
+      "ipa": "/reˈdʒone/",
+      "meaningZh": "地区；大区",
+      "examples": []
+    },
+    {
+      "id": "B2_296",
+      "level": "B2",
+      "word": "regolare",
+      "ipa": "/regolare/",
+      "meaningZh": "正常的；规律的",
+      "examples": []
+    },
+    {
+      "id": "B2_297",
+      "level": "B2",
+      "word": "religione",
+      "ipa": "/reliˈdʒone/",
+      "meaningZh": "宗教",
+      "examples": []
+    },
+    {
+      "id": "B2_298",
+      "level": "B2",
+      "word": "responsabile",
+      "ipa": "/responsabile/",
+      "meaningZh": "负责的",
+      "examples": []
+    },
+    {
+      "id": "B2_299",
+      "level": "B2",
+      "word": "responsabilità",
+      "ipa": "/responsabiliˈta/",
+      "meaningZh": "责任；责任心",
+      "examples": []
+    },
+    {
+      "id": "B2_300",
+      "level": "B2",
+      "word": "ritorno",
+      "ipa": "/ritorno/",
+      "meaningZh": "返回；归来",
+      "examples": []
+    },
+    {
+      "id": "B2_301",
+      "level": "B2",
+      "word": "rivoluzione",
+      "ipa": "/rivolutˈtsjone/",
+      "meaningZh": "革命",
+      "examples": []
+    },
+    {
+      "id": "B2_302",
+      "level": "B2",
+      "word": "robusto",
+      "ipa": "/robusto/",
+      "meaningZh": "健壮的",
+      "examples": []
+    },
+    {
+      "id": "B2_303",
+      "level": "B2",
+      "word": "romantico",
+      "ipa": "/roˈmantiko/",
+      "meaningZh": "浪漫的",
+      "examples": []
+    },
+    {
+      "id": "B2_304",
+      "level": "B2",
+      "word": "rompere",
+      "ipa": "/rompere/",
+      "meaningZh": "打碎；弄坏",
+      "examples": []
+    },
+    {
+      "id": "B2_305",
+      "level": "B2",
+      "word": "rumore",
+      "ipa": "/rumore/",
+      "meaningZh": "响声；噪音",
+      "examples": []
+    },
+    {
+      "id": "B2_306",
+      "level": "B2",
+      "word": "ruolo",
+      "ipa": "/ruolo/",
+      "meaningZh": "角色",
+      "examples": []
+    },
+    {
+      "id": "B2_307",
+      "level": "B2",
+      "word": "rurale",
+      "ipa": "/rurale/",
+      "meaningZh": "农村的；乡下的",
+      "examples": []
+    },
+    {
+      "id": "B2_308",
+      "level": "B2",
+      "word": "scientifico",
+      "ipa": "/ʃjenˈtifiko/",
+      "meaningZh": "科学的",
+      "examples": []
+    },
+    {
+      "id": "B2_309",
+      "level": "B2",
+      "word": "scomparsa",
+      "ipa": "/skomparsa/",
+      "meaningZh": "消失；逝世",
+      "examples": []
+    },
+    {
+      "id": "B2_310",
+      "level": "B2",
+      "word": "sconto",
+      "ipa": "/skonto/",
+      "meaningZh": "折扣",
+      "examples": []
+    },
+    {
+      "id": "B2_311",
+      "level": "B2",
+      "word": "scopo",
+      "ipa": "/skopo/",
+      "meaningZh": "目的",
+      "examples": []
+    },
+    {
+      "id": "B2_312",
+      "level": "B2",
+      "word": "scrivania",
+      "ipa": "/skrivania/",
+      "meaningZh": "写字台；书桌",
+      "examples": []
+    },
+    {
+      "id": "B2_313",
+      "level": "B2",
+      "word": "scultura",
+      "ipa": "/skultura/",
+      "meaningZh": "雕塑；雕刻",
+      "examples": []
+    },
+    {
+      "id": "B2_314",
+      "level": "B2",
+      "word": "selezione",
+      "ipa": "/seletˈtsjone/",
+      "meaningZh": "筛选；选择",
+      "examples": []
+    },
+    {
+      "id": "B2_315",
+      "level": "B2",
+      "word": "sensibile",
+      "ipa": "/sensibile/",
+      "meaningZh": "敏感的",
+      "examples": []
+    },
+    {
+      "id": "B2_316",
+      "level": "B2",
+      "word": "separato",
+      "ipa": "/separato/",
+      "meaningZh": "分开的；分居的",
+      "examples": []
+    },
+    {
+      "id": "B2_317",
+      "level": "B2",
+      "word": "serie",
+      "ipa": "/ˈsɛrje/",
+      "meaningZh": "系列",
+      "examples": []
+    },
+    {
+      "id": "B2_318",
+      "level": "B2",
+      "word": "serio",
+      "ipa": "/ˈsɛrjo/",
+      "meaningZh": "严肃的；认真的",
+      "examples": []
+    },
+    {
+      "id": "B2_319",
+      "level": "B2",
+      "word": "settore",
+      "ipa": "/settore/",
+      "meaningZh": "领域；部门",
+      "examples": []
+    },
+    {
+      "id": "B2_320",
+      "level": "B2",
+      "word": "significare",
+      "ipa": "/siɲɲifiˈkare/",
+      "meaningZh": "意味着",
+      "examples": []
+    },
+    {
+      "id": "B2_321",
+      "level": "B2",
+      "word": "sicurezza",
+      "ipa": "/sikuˈrettsa/",
+      "meaningZh": "安全；保险",
+      "examples": []
+    },
+    {
+      "id": "B2_322",
+      "level": "B2",
+      "word": "silenzioso",
+      "ipa": "/silenˈtsjoso/",
+      "meaningZh": "不出声的；安静的",
+      "examples": []
+    },
+    {
+      "id": "B2_323",
+      "level": "B2",
+      "word": "sindacato",
+      "ipa": "/sindakato/",
+      "meaningZh": "工会",
+      "examples": []
+    },
+    {
+      "id": "B2_324",
+      "level": "B2",
+      "word": "sintomo",
+      "ipa": "/sintomo/",
+      "meaningZh": "征兆；症状",
+      "examples": []
+    },
+    {
+      "id": "B2_325",
+      "level": "B2",
+      "word": "situazione",
+      "ipa": "/sitwatˈtsjone/",
+      "meaningZh": "形势；情况",
+      "examples": []
+    },
+    {
+      "id": "B2_326",
+      "level": "B2",
+      "word": "sociale",
+      "ipa": "/soˈtʃale/",
+      "meaningZh": "社会的",
+      "examples": []
+    },
+    {
+      "id": "B2_327",
+      "level": "B2",
+      "word": "società",
+      "ipa": "/sotʃeˈta/",
+      "meaningZh": "社会",
+      "examples": []
+    },
+    {
+      "id": "B2_328",
+      "level": "B2",
+      "word": "soddisfazione",
+      "ipa": "/soddizfatˈtsjone/",
+      "meaningZh": "满意",
+      "examples": []
+    },
+    {
+      "id": "B2_329",
+      "level": "B2",
+      "word": "sofferenza",
+      "ipa": "/soffeˈrɛntsa/",
+      "meaningZh": "苦难；痛苦",
+      "examples": []
+    },
+    {
+      "id": "B2_330",
+      "level": "B2",
+      "word": "soluzione",
+      "ipa": "/solutˈtsjone/",
+      "meaningZh": "解决办法；方案",
+      "examples": []
+    },
+    {
+      "id": "B2_331",
+      "level": "B2",
+      "word": "spazio",
+      "ipa": "/ˈspattsjo/",
+      "meaningZh": "空间",
+      "examples": []
+    },
+    {
+      "id": "B2_332",
+      "level": "B2",
+      "word": "spazioso",
+      "ipa": "/spatˈtsjoso/",
+      "meaningZh": "宽敞的",
+      "examples": []
+    },
+    {
+      "id": "B2_333",
+      "level": "B2",
+      "word": "speciale",
+      "ipa": "/speˈtʃale/",
+      "meaningZh": "特别的",
+      "examples": []
+    },
+    {
+      "id": "B2_334",
+      "level": "B2",
+      "word": "specialmente",
+      "ipa": "/spetʃalmente/",
+      "meaningZh": "特别地；尤其",
+      "examples": []
+    },
+    {
+      "id": "B2_335",
+      "level": "B2",
+      "word": "sperimentazione",
+      "ipa": "/sperimentatˈtsjone/",
+      "meaningZh": "实验；试验",
+      "examples": []
+    },
+    {
+      "id": "B2_336",
+      "level": "B2",
+      "word": "splendido",
+      "ipa": "/splendido/",
+      "meaningZh": "壮丽的；辉煌的",
+      "examples": []
+    },
+    {
+      "id": "B2_337",
+      "level": "B2",
+      "word": "sprecare",
+      "ipa": "/sprekare/",
+      "meaningZh": "浪费",
+      "examples": []
+    },
+    {
+      "id": "B2_338",
+      "level": "B2",
+      "word": "stabile",
+      "ipa": "/stabile/",
+      "meaningZh": "稳定的",
+      "examples": []
+    },
+    {
+      "id": "B2_339",
+      "level": "B2",
+      "word": "stabilire",
+      "ipa": "/stabilire/",
+      "meaningZh": "建立；制定",
+      "examples": []
+    },
+    {
+      "id": "B2_340",
+      "level": "B2",
+      "word": "stipendio",
+      "ipa": "/stiˈpɛndjo/",
+      "meaningZh": "工资",
+      "examples": []
+    },
+    {
+      "id": "B2_341",
+      "level": "B2",
+      "word": "storia",
+      "ipa": "/ˈstɔrja/",
+      "meaningZh": "历史；故事",
+      "examples": []
+    },
+    {
+      "id": "B2_342",
+      "level": "B2",
+      "word": "storico",
+      "ipa": "/storiko/",
+      "meaningZh": "历史的",
+      "examples": []
+    },
+    {
+      "id": "B2_343",
+      "level": "B2",
+      "word": "straniero",
+      "ipa": "/straˈnjɛro/",
+      "meaningZh": "外国的；外国人",
+      "examples": []
+    },
+    {
+      "id": "B2_344",
+      "level": "B2",
+      "word": "straordinario",
+      "ipa": "/straordiˈnarjo/",
+      "meaningZh": "特别的；非凡的",
+      "examples": []
+    },
+    {
+      "id": "B2_345",
+      "level": "B2",
+      "word": "struttura",
+      "ipa": "/struttura/",
+      "meaningZh": "结构",
+      "examples": []
+    },
+    {
+      "id": "B2_346",
+      "level": "B2",
+      "word": "successivo",
+      "ipa": "/suttʃessivo/",
+      "meaningZh": "后续的；连续的",
+      "examples": []
+    },
+    {
+      "id": "B2_347",
+      "level": "B2",
+      "word": "sufficiente",
+      "ipa": "/suffitʃiente/",
+      "meaningZh": "足够的",
+      "examples": []
+    },
+    {
+      "id": "B2_348",
+      "level": "B2",
+      "word": "superficiale",
+      "ipa": "/superfitʃaˈle/",
+      "meaningZh": "表面的；肤浅的",
+      "examples": []
+    },
+    {
+      "id": "B2_349",
+      "level": "B2",
+      "word": "superiore",
+      "ipa": "/superiore/",
+      "meaningZh": "较高级的；上级的",
+      "examples": []
+    },
+    {
+      "id": "B2_350",
+      "level": "B2",
+      "word": "supremo",
+      "ipa": "/supremo/",
+      "meaningZh": "最高的",
+      "examples": []
+    },
+    {
+      "id": "B2_351",
+      "level": "B2",
+      "word": "svantaggio",
+      "ipa": "/svantaddʒo/",
+      "meaningZh": "害处；不利",
+      "examples": []
+    },
+    {
+      "id": "B2_352",
+      "level": "B2",
+      "word": "tecnologia",
+      "ipa": "/teknoloˈdʒia/",
+      "meaningZh": "技术",
+      "examples": []
+    },
+    {
+      "id": "B2_353",
+      "level": "B2",
+      "word": "territorio",
+      "ipa": "/terriˈtɔrjo/",
+      "meaningZh": "领土；地区",
+      "examples": []
+    },
+    {
+      "id": "B2_354",
+      "level": "B2",
+      "word": "testimone",
+      "ipa": "/testimone/",
+      "meaningZh": "证人；证据",
+      "examples": []
+    },
+    {
+      "id": "B2_355",
+      "level": "B2",
+      "word": "testo",
+      "ipa": "/testo/",
+      "meaningZh": "课文；文本",
+      "examples": []
+    },
+    {
+      "id": "B2_356",
+      "level": "B2",
+      "word": "tipico",
+      "ipa": "/tipiko/",
+      "meaningZh": "典型的",
+      "examples": []
+    },
+    {
+      "id": "B2_357",
+      "level": "B2",
+      "word": "titolo",
+      "ipa": "/titolo/",
+      "meaningZh": "标题；题目",
+      "examples": []
+    },
+    {
+      "id": "B2_358",
+      "level": "B2",
+      "word": "tradizione",
+      "ipa": "/traditˈtsjone/",
+      "meaningZh": "传统",
+      "examples": []
+    },
+    {
+      "id": "B2_359",
+      "level": "B2",
+      "word": "tradurre",
+      "ipa": "/tradurre/",
+      "meaningZh": "翻译",
+      "examples": []
+    },
+    {
+      "id": "B2_360",
+      "level": "B2",
+      "word": "traduzione",
+      "ipa": "/tradutˈtsjone/",
+      "meaningZh": "翻译",
+      "examples": []
+    },
+    {
+      "id": "B2_361",
+      "level": "B2",
+      "word": "tragedia",
+      "ipa": "/traˈdʒɛdja/",
+      "meaningZh": "悲剧；惨剧",
+      "examples": []
+    },
+    {
+      "id": "B2_362",
+      "level": "B2",
+      "word": "trasformare",
+      "ipa": "/trasformare/",
+      "meaningZh": "改造；使改变",
+      "examples": []
+    },
+    {
+      "id": "B2_363",
+      "level": "B2",
+      "word": "trasmissione",
+      "ipa": "/trazmisˈsjone/",
+      "meaningZh": "转播；传播",
+      "examples": []
+    },
+    {
+      "id": "B2_364",
+      "level": "B2",
+      "word": "trasportare",
+      "ipa": "/trasportare/",
+      "meaningZh": "运输",
+      "examples": []
+    },
+    {
+      "id": "B2_365",
+      "level": "B2",
+      "word": "trasporto",
+      "ipa": "/trasˈpɔrto/",
+      "meaningZh": "运输",
+      "examples": []
+    },
+    {
+      "id": "B2_366",
+      "level": "B2",
+      "word": "trattare",
+      "ipa": "/trattare/",
+      "meaningZh": "对待；处理",
+      "examples": []
+    },
+    {
+      "id": "B2_367",
+      "level": "B2",
+      "word": "trattativa",
+      "ipa": "/trattativa/",
+      "meaningZh": "洽谈；谈判",
+      "examples": []
+    },
+    {
+      "id": "B2_368",
+      "level": "B2",
+      "word": "ufficiale",
+      "ipa": "/uffitʃaˈle/",
+      "meaningZh": "官方的；正式的",
+      "examples": []
+    },
+    {
+      "id": "B2_369",
+      "level": "B2",
+      "word": "uguale",
+      "ipa": "/uˈgwale/",
+      "meaningZh": "一样的",
+      "examples": []
+    },
+    {
+      "id": "B2_370",
+      "level": "B2",
+      "word": "ultimo",
+      "ipa": "/ultimo/",
+      "meaningZh": "最后的；最近的",
+      "examples": []
+    },
+    {
+      "id": "B2_371",
+      "level": "B2",
+      "word": "umano",
+      "ipa": "/umano/",
+      "meaningZh": "人的；人类的",
+      "examples": []
+    },
+    {
+      "id": "B2_372",
+      "level": "B2",
+      "word": "universale",
+      "ipa": "/univerˈsale/",
+      "meaningZh": "普遍的；宇宙的",
+      "examples": []
+    },
+    {
+      "id": "B2_373",
+      "level": "B2",
+      "word": "universo",
+      "ipa": "/uniˈvɛrso/",
+      "meaningZh": "宇宙",
+      "examples": []
+    },
+    {
+      "id": "B2_374",
+      "level": "B2",
+      "word": "urgente",
+      "ipa": "/urdʒente/",
+      "meaningZh": "紧急的",
+      "examples": []
+    },
+    {
+      "id": "B2_375",
+      "level": "B2",
+      "word": "urgenza",
+      "ipa": "/urˈdʒɛntsa/",
+      "meaningZh": "紧急；紧迫",
+      "examples": []
+    },
+    {
+      "id": "B2_376",
+      "level": "B2",
+      "word": "utilizzare",
+      "ipa": "/utilittsare/",
+      "meaningZh": "利用；使用",
+      "examples": []
+    },
+    {
+      "id": "B2_377",
+      "level": "B2",
+      "word": "valore",
+      "ipa": "/valore/",
+      "meaningZh": "价值",
+      "examples": []
+    },
+    {
+      "id": "B2_378",
+      "level": "B2",
+      "word": "vantaggio",
+      "ipa": "/vantaddʒo/",
+      "meaningZh": "好处；利益；优势",
+      "examples": []
+    },
+    {
+      "id": "B2_379",
+      "level": "B2",
+      "word": "varietà",
+      "ipa": "/varieta/",
+      "meaningZh": "多样性；各种各样",
+      "examples": []
+    },
+    {
+      "id": "B2_380",
+      "level": "B2",
+      "word": "vasto",
+      "ipa": "/vasto/",
+      "meaningZh": "宽阔的",
+      "examples": []
+    },
+    {
+      "id": "B2_381",
+      "level": "B2",
+      "word": "velocità",
+      "ipa": "/velotʃiˈta/",
+      "meaningZh": "速度",
+      "examples": []
+    },
+    {
+      "id": "B2_382",
+      "level": "B2",
+      "word": "verità",
+      "ipa": "/veriˈta/",
+      "meaningZh": "真理；真实",
+      "examples": []
+    },
+    {
+      "id": "B2_383",
+      "level": "B2",
+      "word": "violento",
+      "ipa": "/violento/",
+      "meaningZh": "暴力的；猛烈的",
+      "examples": []
+    },
+    {
+      "id": "B2_384",
+      "level": "B2",
+      "word": "visione",
+      "ipa": "/viˈzjone/",
+      "meaningZh": "观点；看法",
+      "examples": []
+    },
+    {
+      "id": "B2_385",
+      "level": "B2",
+      "word": "vittoria",
+      "ipa": "/vitˈtɔrja/",
+      "meaningZh": "胜利",
+      "examples": []
+    },
+    {
+      "id": "B2_386",
+      "level": "B2",
+      "word": "vivace",
+      "ipa": "/viˈvatʃe/",
+      "meaningZh": "活泼的；生动的",
+      "examples": []
+    },
+    {
+      "id": "B2_387",
+      "level": "B2",
+      "word": "volume",
+      "ipa": "/volume/",
+      "meaningZh": "音量；卷；册",
+      "examples": []
+    },
+    {
+      "id": "B2_388",
+      "level": "B2",
+      "word": "volontario",
+      "ipa": "/volonˈtarjo/",
+      "meaningZh": "自愿的",
+      "examples": []
+    },
+    {
+      "id": "B2_389",
+      "level": "B2",
+      "word": "vuoto",
+      "ipa": "/ˈvwɔto/",
+      "meaningZh": "空的",
+      "examples": []
+    },
+    {
+      "id": "B2_390",
+      "level": "B2",
+      "word": "zona",
+      "ipa": "/tsona/",
+      "meaningZh": "地区；区域",
+      "examples": []
+    },
+    {
+      "id": "C1_001",
+      "level": "C1",
+      "word": "accrescere",
+      "ipa": "/akkreʃere/",
+      "meaningZh": "增强；增进",
+      "examples": []
+    },
+    {
+      "id": "C1_002",
+      "level": "C1",
+      "word": "aderire",
+      "ipa": "/aderire/",
+      "meaningZh": "赞同；加入",
+      "examples": []
+    },
+    {
+      "id": "C1_003",
+      "level": "C1",
+      "word": "agevolare",
+      "ipa": "/adʒevolare/",
+      "meaningZh": "促进；便利",
+      "examples": []
+    },
+    {
+      "id": "C1_004",
+      "level": "C1",
+      "word": "alludere",
+      "ipa": "/alludere/",
+      "meaningZh": "暗指；影射",
+      "examples": []
+    },
+    {
+      "id": "C1_005",
+      "level": "C1",
+      "word": "ambito",
+      "ipa": "/ambito/",
+      "meaningZh": "领域；范围",
+      "examples": []
+    },
+    {
+      "id": "C1_006",
+      "level": "C1",
+      "word": "ammontare",
+      "ipa": "/ammontare/",
+      "meaningZh": "总额；合计",
+      "examples": []
+    },
+    {
+      "id": "C1_007",
+      "level": "C1",
+      "word": "annoverare",
+      "ipa": "/annoverare/",
+      "meaningZh": "列入；包括",
+      "examples": []
+    },
+    {
+      "id": "C1_008",
+      "level": "C1",
+      "word": "apparente",
+      "ipa": "/apparente/",
+      "meaningZh": "表面的；貌似的",
+      "examples": []
+    },
+    {
+      "id": "C1_009",
+      "level": "C1",
+      "word": "apporto",
+      "ipa": "/apporto/",
+      "meaningZh": "贡献；助益",
+      "examples": []
+    },
+    {
+      "id": "C1_010",
+      "level": "C1",
+      "word": "approfondire",
+      "ipa": "/approfondire/",
+      "meaningZh": "深入研究；深化",
+      "examples": []
+    },
+    {
+      "id": "C1_011",
+      "level": "C1",
+      "word": "argomentare",
+      "ipa": "/argomentare/",
+      "meaningZh": "论证；陈述理由",
+      "examples": []
+    },
+    {
+      "id": "C1_012",
+      "level": "C1",
+      "word": "articolare",
+      "ipa": "/artikolare/",
+      "meaningZh": "清楚表达；使结构化",
+      "examples": []
+    },
+    {
+      "id": "C1_013",
+      "level": "C1",
+      "word": "attenersi",
+      "ipa": "/attenersi/",
+      "meaningZh": "遵守；依照",
+      "examples": []
+    },
+    {
+      "id": "C1_014",
+      "level": "C1",
+      "word": "avvalersi",
+      "ipa": "/avvalersi/",
+      "meaningZh": "利用；借助",
+      "examples": []
+    },
+    {
+      "id": "C1_015",
+      "level": "C1",
+      "word": "capillare",
+      "ipa": "/kapillare/",
+      "meaningZh": "覆盖全面的；细致到位的",
+      "examples": []
+    },
+    {
+      "id": "C1_016",
+      "level": "C1",
+      "word": "carenza",
+      "ipa": "/karentsa/",
+      "meaningZh": "缺乏；不足",
+      "examples": []
+    },
+    {
+      "id": "C1_017",
+      "level": "C1",
+      "word": "circoscrivere",
+      "ipa": "/tʃirkoskrivere/",
+      "meaningZh": "限定；缩小范围",
+      "examples": []
+    },
+    {
+      "id": "C1_018",
+      "level": "C1",
+      "word": "coesione",
+      "ipa": "/koeˈzjone/",
+      "meaningZh": "凝聚力；连贯性",
+      "examples": []
+    },
+    {
+      "id": "C1_019",
+      "level": "C1",
+      "word": "coinvolgimento",
+      "ipa": "/koinvoldʒimento/",
+      "meaningZh": "参与；投入",
+      "examples": []
+    },
+    {
+      "id": "C1_020",
+      "level": "C1",
+      "word": "collocare",
+      "ipa": "/kollokare/",
+      "meaningZh": "放置；定位",
+      "examples": []
+    },
+    {
+      "id": "C1_021",
+      "level": "C1",
+      "word": "concepire",
+      "ipa": "/kontʃepire/",
+      "meaningZh": "构想；理解",
+      "examples": []
+    },
+    {
+      "id": "C1_022",
+      "level": "C1",
+      "word": "conciliare",
+      "ipa": "/kontʃiliare/",
+      "meaningZh": "调和；兼顾",
+      "examples": []
+    },
+    {
+      "id": "C1_023",
+      "level": "C1",
+      "word": "condivisibile",
+      "ipa": "/kondivizibile/",
+      "meaningZh": "可认同的；可共享的",
+      "examples": []
+    },
+    {
+      "id": "C1_024",
+      "level": "C1",
+      "word": "configurare",
+      "ipa": "/konfigurare/",
+      "meaningZh": "构成；呈现为",
+      "examples": []
+    },
+    {
+      "id": "C1_025",
+      "level": "C1",
+      "word": "consapevolezza",
+      "ipa": "/konsapevolettsa/",
+      "meaningZh": "意识；自觉",
+      "examples": []
+    },
+    {
+      "id": "C1_026",
+      "level": "C1",
+      "word": "consolidare",
+      "ipa": "/konsoliˈdare/",
+      "meaningZh": "巩固；加强",
+      "examples": []
+    },
+    {
+      "id": "C1_027",
+      "level": "C1",
+      "word": "controverso",
+      "ipa": "/kontroverso/",
+      "meaningZh": "有争议的",
+      "examples": []
+    },
+    {
+      "id": "C1_028",
+      "level": "C1",
+      "word": "correlare",
+      "ipa": "/korrelare/",
+      "meaningZh": "关联；建立联系",
+      "examples": []
+    },
+    {
+      "id": "C1_029",
+      "level": "C1",
+      "word": "criticità",
+      "ipa": "/krititʃita/",
+      "meaningZh": "关键问题；隐患",
+      "examples": []
+    },
+    {
+      "id": "C1_030",
+      "level": "C1",
+      "word": "degrado",
+      "ipa": "/degrado/",
+      "meaningZh": "恶化；衰败",
+      "examples": []
+    },
+    {
+      "id": "C1_031",
+      "level": "C1",
+      "word": "delineare",
+      "ipa": "/delineare/",
+      "meaningZh": "勾勒；阐明",
+      "examples": []
+    },
+    {
+      "id": "C1_032",
+      "level": "C1",
+      "word": "denotare",
+      "ipa": "/denotare/",
+      "meaningZh": "表明；显示",
+      "examples": []
+    },
+    {
+      "id": "C1_033",
+      "level": "C1",
+      "word": "determinante",
+      "ipa": "/determinante/",
+      "meaningZh": "决定性的；关键的",
+      "examples": []
+    },
+    {
+      "id": "C1_034",
+      "level": "C1",
+      "word": "dibattito",
+      "ipa": "/diˈbattito/",
+      "meaningZh": "辩论；讨论",
+      "examples": []
+    },
+    {
+      "id": "C1_035",
+      "level": "C1",
+      "word": "diffondere",
+      "ipa": "/diffondere/",
+      "meaningZh": "传播；扩散",
+      "examples": []
+    },
+    {
+      "id": "C1_036",
+      "level": "C1",
+      "word": "dimensione",
+      "ipa": "/dimensione/",
+      "meaningZh": "维度；规模",
+      "examples": []
+    },
+    {
+      "id": "C1_037",
+      "level": "C1",
+      "word": "dinamica",
+      "ipa": "/diˈnamika/",
+      "meaningZh": "动态；机制",
+      "examples": []
+    },
+    {
+      "id": "C1_038",
+      "level": "C1",
+      "word": "disagio",
+      "ipa": "/dizadʒo/",
+      "meaningZh": "不适；困境",
+      "examples": []
+    },
+    {
+      "id": "C1_039",
+      "level": "C1",
+      "word": "divario",
+      "ipa": "/divario/",
+      "meaningZh": "差距；鸿沟",
+      "examples": []
+    },
+    {
+      "id": "C1_040",
+      "level": "C1",
+      "word": "efficacia",
+      "ipa": "/effikatʃa/",
+      "meaningZh": "成效；有效性",
+      "examples": []
+    },
+    {
+      "id": "C1_041",
+      "level": "C1",
+      "word": "elaborare",
+      "ipa": "/elaborare/",
+      "meaningZh": "阐述；加工",
+      "examples": []
+    },
+    {
+      "id": "C1_042",
+      "level": "C1",
+      "word": "emergere",
+      "ipa": "/emerdʒere/",
+      "meaningZh": "显现；浮现",
+      "examples": []
+    },
+    {
+      "id": "C1_043",
+      "level": "C1",
+      "word": "esigenza",
+      "ipa": "/ezidʒentsa/",
+      "meaningZh": "需求；必要性",
+      "examples": []
+    },
+    {
+      "id": "C1_044",
+      "level": "C1",
+      "word": "esplicito",
+      "ipa": "/esplitʃito/",
+      "meaningZh": "明确的；直白的",
+      "examples": []
+    },
+    {
+      "id": "C1_045",
+      "level": "C1",
+      "word": "evidenziare",
+      "ipa": "/evidentsiare/",
+      "meaningZh": "强调；凸显",
+      "examples": []
+    },
+    {
+      "id": "C1_046",
+      "level": "C1",
+      "word": "fruizione",
+      "ipa": "/fruitsione/",
+      "meaningZh": "使用；享用",
+      "examples": []
+    },
+    {
+      "id": "C1_047",
+      "level": "C1",
+      "word": "graduale",
+      "ipa": "/graduale/",
+      "meaningZh": "逐步的；渐进的",
+      "examples": []
+    },
+    {
+      "id": "C1_048",
+      "level": "C1",
+      "word": "idoneo",
+      "ipa": "/idoneo/",
+      "meaningZh": "适合的；合适的",
+      "examples": []
+    },
+    {
+      "id": "C1_049",
+      "level": "C1",
+      "word": "impatto",
+      "ipa": "/impatto/",
+      "meaningZh": "影响；冲击",
+      "examples": []
+    },
+    {
+      "id": "C1_050",
+      "level": "C1",
+      "word": "implementare",
+      "ipa": "/implemenˈtare/",
+      "meaningZh": "实施；落实",
+      "examples": []
+    },
+    {
+      "id": "C1_051",
+      "level": "C1",
+      "word": "incentivare",
+      "ipa": "/intʃentivare/",
+      "meaningZh": "激励；促进",
+      "examples": []
+    },
+    {
+      "id": "C1_052",
+      "level": "C1",
+      "word": "incidere",
+      "ipa": "/intʃidere/",
+      "meaningZh": "产生影响；切入",
+      "examples": []
+    },
+    {
+      "id": "C1_053",
+      "level": "C1",
+      "word": "individuare",
+      "ipa": "/individuare/",
+      "meaningZh": "识别；确定",
+      "examples": []
+    },
+    {
+      "id": "C1_054",
+      "level": "C1",
+      "word": "integrare",
+      "ipa": "/integrare/",
+      "meaningZh": "整合；融入",
+      "examples": []
+    },
+    {
+      "id": "C1_055",
+      "level": "C1",
+      "word": "ipotesi",
+      "ipa": "/ipotezi/",
+      "meaningZh": "假设；设想",
+      "examples": []
+    },
+    {
+      "id": "C1_056",
+      "level": "C1",
+      "word": "mediazione",
+      "ipa": "/mediatsione/",
+      "meaningZh": "调解；协调",
+      "examples": []
+    },
+    {
+      "id": "C1_057",
+      "level": "C1",
+      "word": "monitorare",
+      "ipa": "/monitorare/",
+      "meaningZh": "监测；持续跟踪",
+      "examples": []
+    },
+    {
+      "id": "C1_058",
+      "level": "C1",
+      "word": "percezione",
+      "ipa": "/pertʃetˈtsjone/",
+      "meaningZh": "认知；感受",
+      "examples": []
+    },
+    {
+      "id": "C1_059",
+      "level": "C1",
+      "word": "pertinente",
+      "ipa": "/pertinente/",
+      "meaningZh": "相关的；切题的",
+      "examples": []
+    },
+    {
+      "id": "C1_060",
+      "level": "C1",
+      "word": "prospettiva",
+      "ipa": "/prospettiva/",
+      "meaningZh": "视角；前景",
+      "examples": []
+    },
+    {
+      "id": "C1_061",
+      "level": "C1",
+      "word": "rafforzare",
+      "ipa": "/raffortsare/",
+      "meaningZh": "加强；巩固",
+      "examples": []
+    },
+    {
+      "id": "C1_062",
+      "level": "C1",
+      "word": "rilevante",
+      "ipa": "/rilevante/",
+      "meaningZh": "重要的；显著的",
+      "examples": []
+    },
+    {
+      "id": "C1_063",
+      "level": "C1",
+      "word": "riscontrare",
+      "ipa": "/riskontrare/",
+      "meaningZh": "发现；证实",
+      "examples": []
+    },
+    {
+      "id": "C1_064",
+      "level": "C1",
+      "word": "scaturire",
+      "ipa": "/skaturire/",
+      "meaningZh": "源于；引发",
+      "examples": []
+    },
+    {
+      "id": "C1_065",
+      "level": "C1",
+      "word": "scenario",
+      "ipa": "/ʃenario/",
+      "meaningZh": "情景；局面",
+      "examples": []
+    },
+    {
+      "id": "C1_066",
+      "level": "C1",
+      "word": "segnalare",
+      "ipa": "/seɲalare/",
+      "meaningZh": "指出；报告",
+      "examples": []
+    },
+    {
+      "id": "C1_067",
+      "level": "C1",
+      "word": "sostenibile",
+      "ipa": "/sostenibile/",
+      "meaningZh": "可持续的",
+      "examples": []
+    },
+    {
+      "id": "C1_068",
+      "level": "C1",
+      "word": "strutturare",
+      "ipa": "/strutturare/",
+      "meaningZh": "组织；构建",
+      "examples": []
+    },
+    {
+      "id": "C1_069",
+      "level": "C1",
+      "word": "tendenza",
+      "ipa": "/tendentsa/",
+      "meaningZh": "趋势；倾向",
+      "examples": []
+    },
+    {
+      "id": "C1_070",
+      "level": "C1",
+      "word": "valutazione",
+      "ipa": "/valutatsione/",
+      "meaningZh": "评估；评价",
+      "examples": []
+    },
+    {
+      "id": "C2_001",
+      "level": "C2",
+      "word": "abdicare",
+      "ipa": "/abdikare/",
+      "meaningZh": "放弃；退位",
+      "examples": []
+    },
+    {
+      "id": "C2_002",
+      "level": "C2",
+      "word": "accantonare",
+      "ipa": "/akkantonare/",
+      "meaningZh": "搁置；储备",
+      "examples": []
+    },
+    {
+      "id": "C2_003",
+      "level": "C2",
+      "word": "acclarare",
+      "ipa": "/akklarare/",
+      "meaningZh": "澄清；查明",
+      "examples": []
+    },
+    {
+      "id": "C2_004",
+      "level": "C2",
+      "word": "acquisito",
+      "ipa": "/akkwizito/",
+      "meaningZh": "既有成果；已获得的",
+      "examples": []
+    },
+    {
+      "id": "C2_005",
+      "level": "C2",
+      "word": "affievolirsi",
+      "ipa": "/affievolirsi/",
+      "meaningZh": "减弱；淡化",
+      "examples": []
+    },
+    {
+      "id": "C2_006",
+      "level": "C2",
+      "word": "alterco",
+      "ipa": "/alterko/",
+      "meaningZh": "争吵；口角",
+      "examples": []
+    },
+    {
+      "id": "C2_007",
+      "level": "C2",
+      "word": "annichilire",
+      "ipa": "/annikilire/",
+      "meaningZh": "摧毁；使无力",
+      "examples": []
+    },
+    {
+      "id": "C2_008",
+      "level": "C2",
+      "word": "appannaggio",
+      "ipa": "/appannaddʒo/",
+      "meaningZh": "专属；特权",
+      "examples": []
+    },
+    {
+      "id": "C2_009",
+      "level": "C2",
+      "word": "approdo",
+      "ipa": "/approdo/",
+      "meaningZh": "归宿；成果",
+      "examples": []
+    },
+    {
+      "id": "C2_010",
+      "level": "C2",
+      "word": "arduo",
+      "ipa": "/arduo/",
+      "meaningZh": "艰巨的；困难的",
+      "examples": []
+    },
+    {
+      "id": "C2_011",
+      "level": "C2",
+      "word": "ascrivere",
+      "ipa": "/askrivere/",
+      "meaningZh": "归因于；归入",
+      "examples": []
+    },
+    {
+      "id": "C2_012",
+      "level": "C2",
+      "word": "avallare",
+      "ipa": "/avallare/",
+      "meaningZh": "认可；支持",
+      "examples": []
+    },
+    {
+      "id": "C2_013",
+      "level": "C2",
+      "word": "avversione",
+      "ipa": "/avversione/",
+      "meaningZh": "反感；厌恶",
+      "examples": []
+    },
+    {
+      "id": "C2_014",
+      "level": "C2",
+      "word": "capzioso",
+      "ipa": "/kaptsiozo/",
+      "meaningZh": "诡辩的；似是而非的",
+      "examples": []
+    },
+    {
+      "id": "C2_015",
+      "level": "C2",
+      "word": "cogente",
+      "ipa": "/kodʒente/",
+      "meaningZh": "有说服力的；强制性的",
+      "examples": []
+    },
+    {
+      "id": "C2_016",
+      "level": "C2",
+      "word": "connaturato",
+      "ipa": "/konnaturato/",
+      "meaningZh": "固有的；天生的",
+      "examples": []
+    },
+    {
+      "id": "C2_017",
+      "level": "C2",
+      "word": "corollario",
+      "ipa": "/korollario/",
+      "meaningZh": "推论；必然结果",
+      "examples": []
+    },
+    {
+      "id": "C2_018",
+      "level": "C2",
+      "word": "cristallizzare",
+      "ipa": "/kristallittsare/",
+      "meaningZh": "固化；使定型",
+      "examples": []
+    },
+    {
+      "id": "C2_019",
+      "level": "C2",
+      "word": "deferenza",
+      "ipa": "/deferentsa/",
+      "meaningZh": "敬重；恭敬",
+      "examples": []
+    },
+    {
+      "id": "C2_020",
+      "level": "C2",
+      "word": "destituire",
+      "ipa": "/destituire/",
+      "meaningZh": "免职；剥夺",
+      "examples": []
+    },
+    {
+      "id": "C2_021",
+      "level": "C2",
+      "word": "detrarre",
+      "ipa": "/detrarre/",
+      "meaningZh": "扣除；贬损",
+      "examples": []
+    },
+    {
+      "id": "C2_022",
+      "level": "C2",
+      "word": "dirimere",
+      "ipa": "/dirimere/",
+      "meaningZh": "解决；裁决",
+      "examples": []
+    },
+    {
+      "id": "C2_023",
+      "level": "C2",
+      "word": "disattendere",
+      "ipa": "/dizattendere/",
+      "meaningZh": "辜负；不履行",
+      "examples": []
+    },
+    {
+      "id": "C2_024",
+      "level": "C2",
+      "word": "discernere",
+      "ipa": "/diʃernere/",
+      "meaningZh": "识别；分辨",
+      "examples": []
+    },
+    {
+      "id": "C2_025",
+      "level": "C2",
+      "word": "dissennato",
+      "ipa": "/dissennato/",
+      "meaningZh": "鲁莽的；欠考虑的",
+      "examples": []
+    },
+    {
+      "id": "C2_026",
+      "level": "C2",
+      "word": "edulcorare",
+      "ipa": "/edulkorare/",
+      "meaningZh": "淡化；粉饰",
+      "examples": []
+    },
+    {
+      "id": "C2_027",
+      "level": "C2",
+      "word": "eludere",
+      "ipa": "/eludere/",
+      "meaningZh": "规避；逃避",
+      "examples": []
+    },
+    {
+      "id": "C2_028",
+      "level": "C2",
+      "word": "encomiabile",
+      "ipa": "/enkomiabile/",
+      "meaningZh": "值得称赞的",
+      "examples": []
+    },
+    {
+      "id": "C2_029",
+      "level": "C2",
+      "word": "equanime",
+      "ipa": "/ekwanime/",
+      "meaningZh": "公正的；沉着的",
+      "examples": []
+    },
+    {
+      "id": "C2_030",
+      "level": "C2",
+      "word": "esacerbare",
+      "ipa": "/ezatʃerbare/",
+      "meaningZh": "激化；加剧",
+      "examples": []
+    },
+    {
+      "id": "C2_031",
+      "level": "C2",
+      "word": "esautorare",
+      "ipa": "/ezautorare/",
+      "meaningZh": "剥夺权力；架空",
+      "examples": []
+    },
+    {
+      "id": "C2_032",
+      "level": "C2",
+      "word": "esiguo",
+      "ipa": "/eziguo/",
+      "meaningZh": "极少的；微薄的",
+      "examples": []
+    },
+    {
+      "id": "C2_033",
+      "level": "C2",
+      "word": "esimere",
+      "ipa": "/ezimere/",
+      "meaningZh": "免除；豁免",
+      "examples": []
+    },
+    {
+      "id": "C2_034",
+      "level": "C2",
+      "word": "esorbitante",
+      "ipa": "/ezorbitante/",
+      "meaningZh": "过高的；过度的",
+      "examples": []
+    },
+    {
+      "id": "C2_035",
+      "level": "C2",
+      "word": "esulare",
+      "ipa": "/ezulare/",
+      "meaningZh": "脱离；超出",
+      "examples": []
+    },
+    {
+      "id": "C2_036",
+      "level": "C2",
+      "word": "eterogeneo",
+      "ipa": "/eterodʒeneo/",
+      "meaningZh": "异质的；多样的",
+      "examples": []
+    },
+    {
+      "id": "C2_037",
+      "level": "C2",
+      "word": "evincere",
+      "ipa": "/evintʃere/",
+      "meaningZh": "推断出；看出",
+      "examples": []
+    },
+    {
+      "id": "C2_038",
+      "level": "C2",
+      "word": "farraginoso",
+      "ipa": "/farradʒinozo/",
+      "meaningZh": "冗杂的；繁琐的",
+      "examples": []
+    },
+    {
+      "id": "C2_039",
+      "level": "C2",
+      "word": "foriero",
+      "ipa": "/foriero/",
+      "meaningZh": "预示着的",
+      "examples": []
+    },
+    {
+      "id": "C2_040",
+      "level": "C2",
+      "word": "fuorviante",
+      "ipa": "/fuorviante/",
+      "meaningZh": "误导性的",
+      "examples": []
+    },
+    {
+      "id": "C2_041",
+      "level": "C2",
+      "word": "gravare",
+      "ipa": "/gravare/",
+      "meaningZh": "加重负担；压迫",
+      "examples": []
+    },
+    {
+      "id": "C2_042",
+      "level": "C2",
+      "word": "illazione",
+      "ipa": "/illatsione/",
+      "meaningZh": "推断；臆断",
+      "examples": []
+    },
+    {
+      "id": "C2_043",
+      "level": "C2",
+      "word": "immanente",
+      "ipa": "/immanente/",
+      "meaningZh": "内在的；固有的",
+      "examples": []
+    },
+    {
+      "id": "C2_044",
+      "level": "C2",
+      "word": "impasse",
+      "ipa": "/impasse/",
+      "meaningZh": "僵局；进退两难",
+      "examples": []
+    },
+    {
+      "id": "C2_045",
+      "level": "C2",
+      "word": "impervio",
+      "ipa": "/impervio/",
+      "meaningZh": "艰难的；崎岖的",
+      "examples": []
+    },
+    {
+      "id": "C2_046",
+      "level": "C2",
+      "word": "imprescindibile",
+      "ipa": "/impreʃindibile/",
+      "meaningZh": "不可或缺的",
+      "examples": []
+    },
+    {
+      "id": "C2_047",
+      "level": "C2",
+      "word": "inappellabile",
+      "ipa": "/inappellabile/",
+      "meaningZh": "无可争辩的；不可上诉的",
+      "examples": []
+    },
+    {
+      "id": "C2_048",
+      "level": "C2",
+      "word": "incalzare",
+      "ipa": "/inkaltsare/",
+      "meaningZh": "紧逼；催促",
+      "examples": []
+    },
+    {
+      "id": "C2_049",
+      "level": "C2",
+      "word": "incombere",
+      "ipa": "/inkombere/",
+      "meaningZh": "逼近；笼罩",
+      "examples": []
+    },
+    {
+      "id": "C2_050",
+      "level": "C2",
+      "word": "inderogabile",
+      "ipa": "/inderogabile/",
+      "meaningZh": "不可违背的；强制性的",
+      "examples": []
+    },
+    {
+      "id": "C2_051",
+      "level": "C2",
+      "word": "ineludibile",
+      "ipa": "/ineludibile/",
+      "meaningZh": "不可避免的",
+      "examples": []
+    },
+    {
+      "id": "C2_052",
+      "level": "C2",
+      "word": "inficiare",
+      "ipa": "/infitʃare/",
+      "meaningZh": "损害；削弱",
+      "examples": []
+    },
+    {
+      "id": "C2_053",
+      "level": "C2",
+      "word": "iniquo",
+      "ipa": "/inikwo/",
+      "meaningZh": "不公正的",
+      "examples": []
+    },
+    {
+      "id": "C2_054",
+      "level": "C2",
+      "word": "insidioso",
+      "ipa": "/insidiozo/",
+      "meaningZh": "隐蔽危险的；棘手的",
+      "examples": []
+    },
+    {
+      "id": "C2_055",
+      "level": "C2",
+      "word": "intaccare",
+      "ipa": "/intakkare/",
+      "meaningZh": "损害；削弱",
+      "examples": []
+    },
+    {
+      "id": "C2_056",
+      "level": "C2",
+      "word": "intransigente",
+      "ipa": "/intransidʒente/",
+      "meaningZh": "不妥协的；强硬的",
+      "examples": []
+    },
+    {
+      "id": "C2_057",
+      "level": "C2",
+      "word": "intricato",
+      "ipa": "/intrikato/",
+      "meaningZh": "错综复杂的",
+      "examples": []
+    },
+    {
+      "id": "C2_058",
+      "level": "C2",
+      "word": "nocumento",
+      "ipa": "/nokumento/",
+      "meaningZh": "损害；危害",
+      "examples": []
+    },
+    {
+      "id": "C2_059",
+      "level": "C2",
+      "word": "oneroso",
+      "ipa": "/onerozo/",
+      "meaningZh": "负担沉重的",
+      "examples": []
+    },
+    {
+      "id": "C2_060",
+      "level": "C2",
+      "word": "osteggiare",
+      "ipa": "/osteddʒare/",
+      "meaningZh": "反对；阻挠",
+      "examples": []
+    },
+    {
+      "id": "C2_061",
+      "level": "C2",
+      "word": "precludere",
+      "ipa": "/prekludere/",
+      "meaningZh": "阻止；排除",
+      "examples": []
+    },
+    {
+      "id": "C2_062",
+      "level": "C2",
+      "word": "pregnante",
+      "ipa": "/preɲante/",
+      "meaningZh": "意味深长的；富有内涵的",
+      "examples": []
+    },
+    {
+      "id": "C2_063",
+      "level": "C2",
+      "word": "prerogativa",
+      "ipa": "/prerogativa/",
+      "meaningZh": "特权；专属权",
+      "examples": []
+    },
+    {
+      "id": "C2_064",
+      "level": "C2",
+      "word": "ravvisare",
+      "ipa": "/ravvizare/",
+      "meaningZh": "看出；察觉",
+      "examples": []
+    },
+    {
+      "id": "C2_065",
+      "level": "C2",
+      "word": "reticente",
+      "ipa": "/retitʃente/",
+      "meaningZh": "含糊其辞的；不愿明说的",
+      "examples": []
+    },
+    {
+      "id": "C2_066",
+      "level": "C2",
+      "word": "scalfire",
+      "ipa": "/skalfire/",
+      "meaningZh": "削弱；损伤",
+      "examples": []
+    },
+    {
+      "id": "C2_067",
+      "level": "C2",
+      "word": "scevro",
+      "ipa": "/ʃevro/",
+      "meaningZh": "无...的；摆脱...的",
+      "examples": []
+    },
+    {
+      "id": "C2_068",
+      "level": "C2",
+      "word": "scrutinare",
+      "ipa": "/skrutinare/",
+      "meaningZh": "细察；审视",
+      "examples": []
+    },
+    {
+      "id": "C2_069",
+      "level": "C2",
+      "word": "sovvertire",
+      "ipa": "/sovvertire/",
+      "meaningZh": "颠覆；彻底改变",
+      "examples": []
+    },
+    {
+      "id": "C2_070",
+      "level": "C2",
+      "word": "stringente",
+      "ipa": "/strindʒente/",
+      "meaningZh": "严格的；紧迫的",
+      "examples": []
+    },
+    {
+      "id": "C2_071",
+      "level": "C2",
+      "word": "tacitare",
+      "ipa": "/tatʃitare/",
+      "meaningZh": "压下；使沉默",
+      "examples": []
+    },
+    {
+      "id": "C2_072",
+      "level": "C2",
+      "word": "travisare",
+      "ipa": "/travizare/",
+      "meaningZh": "歪曲；曲解",
+      "examples": []
+    },
+    {
+      "id": "C2_073",
+      "level": "C2",
+      "word": "vaglio",
+      "ipa": "/vaʎo/",
+      "meaningZh": "审查；斟酌",
+      "examples": []
+    },
+    {
+      "id": "C2_074",
+      "level": "C2",
+      "word": "veicolare",
+      "ipa": "/veikolare/",
+      "meaningZh": "传达；输送",
+      "examples": []
+    },
+    {
+      "id": "C2_075",
+      "level": "C2",
+      "word": "verosimile",
+      "ipa": "/verozimile/",
+      "meaningZh": "貌似真实的；可信的",
+      "examples": []
+    },
+    {
+      "id": "C2_076",
+      "level": "C2",
+      "word": "vessatorio",
+      "ipa": "/vessatorio/",
+      "meaningZh": "苛刻压迫的",
+      "examples": []
+    },
+    {
+      "id": "C2_077",
+      "level": "C2",
+      "word": "vicissitudine",
+      "ipa": "/vitʃissitudine/",
+      "meaningZh": "变迁；遭遇",
+      "examples": []
+    },
+    {
+      "id": "C2_078",
+      "level": "C2",
+      "word": "vischioso",
+      "ipa": "/viskiozo/",
+      "meaningZh": "棘手的；黏滞的",
+      "examples": []
+    },
+    {
+      "id": "C2_079",
+      "level": "C2",
+      "word": "vacillare",
+      "ipa": "/vatʃillare/",
+      "meaningZh": "动摇；摇摆",
+      "examples": []
+    },
+    {
+      "id": "C2_080",
+      "level": "C2",
+      "word": "prescindere",
+      "ipa": "/preʃindere/",
+      "meaningZh": "撇开；不考虑",
+      "examples": []
+    }
+  ],
+  "grammarPoints": [
+    {
+      "id": "A1_GP_001",
+      "level": "A1",
+      "title": "Articoli + genere/numero（冠词与性数一致）",
+      "whenToUse": "在自我介绍和日常指认中正确使用名词短语。",
+      "structure": "articolo determinativo/indeterminativo + nome (m/f; sing/pl)",
+      "rules": "官方要点映射：A1 要求掌握名词和形容词的性数变化、定/不定冠词基础搭配。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.1\", \"focus\": [\"articoli\", \"genere e numero\", \"accordo nome-aggettivo\"]}",
+      "examples": [
+        {
+          "it": "La casa è piccola.",
+          "zh": "这所房子很小。"
+        },
+        {
+          "it": "Un ragazzo e una ragazza.",
+          "zh": "一个男孩和一个女孩。"
+        }
+      ]
+    },
+    {
+      "id": "A1_GP_002",
+      "level": "A1",
+      "title": "Pronomi personali（人称代词基础）",
+      "whenToUse": "表达“我/你/他/我们”等主语关系。",
+      "structure": "pronomi soggetto + frase semplice",
+      "rules": "官方要点映射：A1 要求掌握 pronomi personali（主格与基础重读形式）。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.1\", \"focus\": [\"pronomi personali\", \"forme toniche base\"]}",
+      "examples": [
+        {
+          "it": "Io studio italiano.",
+          "zh": "我学意大利语。"
+        },
+        {
+          "it": "Noi abitiamo a Siena.",
+          "zh": "我们住在锡耶纳。"
+        }
+      ]
+    },
+    {
+      "id": "A1_GP_003",
+      "level": "A1",
+      "title": "Preposizioni semplici/articolate（介词基础）",
+      "whenToUse": "描述地点、方向、时间等基本关系。",
+      "structure": "a, di, da, in, con, su, per, tra/fra + articolate",
+      "rules": "官方要点映射：A1 要求掌握高频前置词与前置词缩合形式。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.1\", \"focus\": [\"preposizioni semplici\", \"preposizioni articolate\"]}",
+      "examples": [
+        {
+          "it": "Vado a scuola in autobus.",
+          "zh": "我坐公交去学校。"
+        },
+        {
+          "it": "Il libro è sul tavolo.",
+          "zh": "书在桌子上。"
+        }
+      ]
+    },
+    {
+      "id": "A1_GP_004",
+      "level": "A1",
+      "title": "Indicativo presente（直陈式现在时）",
+      "whenToUse": "描述当前状态、习惯、事实。",
+      "structure": "soggetto + verbo al presente（含 essere/avere）",
+      "rules": "官方要点映射：A1 要求掌握现在时（规则+高频不规则）与不定式基础。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.1\", \"focus\": [\"presente indicativo\", \"infinito presente\"]}",
+      "examples": [
+        {
+          "it": "Sono cinese, ma vivo in Italia.",
+          "zh": "我是中国人，但我住在意大利。"
+        },
+        {
+          "it": "Loro hanno due figli.",
+          "zh": "他们有两个孩子。"
+        }
+      ]
+    },
+    {
+      "id": "A1_GP_005",
+      "level": "A1",
+      "title": "Passato prossimo + imperativo base（近过去与祈使基础）",
+      "whenToUse": "说已完成动作与简单指令。",
+      "structure": "avere/essere + participio; imperativo (tu/noi/voi) 高频动词",
+      "rules": "官方要点映射：A1 要求掌握 passato prossimo、imperativo 的基础使用和简单复句识别。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.1\", \"focus\": [\"passato prossimo base\", \"imperativo base\", \"frase semplice/prime subordinate\"]}",
+      "examples": [
+        {
+          "it": "Ieri ho lavorato tutto il giorno.",
+          "zh": "昨天我工作了一整天。"
+        },
+        {
+          "it": "Prendi il treno delle otto.",
+          "zh": "坐八点的火车。"
+        }
+      ]
+    },
+    {
+      "id": "A2_GP_001",
+      "level": "A2",
+      "title": "Passato prossimo vs imperfetto（过去时体对比）",
+      "whenToUse": "叙述过去事件并区分背景与主事件。",
+      "structure": "imperfetto (sfondo) + passato prossimo (evento)",
+      "rules": "官方要点映射：A2 强化 passato prossimo 与 imperfetto 的对比。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.2\", \"focus\": [\"passato prossimo\", \"imperfetto\", \"contrasto aspettuale\"]}",
+      "examples": [
+        {
+          "it": "Mentre studiavo, è suonato il telefono.",
+          "zh": "我学习时，电话响了。"
+        },
+        {
+          "it": "Da piccolo abitavo in campagna.",
+          "zh": "我小时候住在乡下。"
+        }
+      ]
+    },
+    {
+      "id": "A2_GP_002",
+      "level": "A2",
+      "title": "Imperativo e condizionale presente（语用扩展）",
+      "whenToUse": "表达命令、建议与礼貌请求。",
+      "structure": "imperativo; condizionale presente (vorrei/potrei...)",
+      "rules": "官方要点映射：A2 包含 imperativo 与 condizionale presente 的常见交际用法。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.2\", \"focus\": [\"imperativo\", \"condizionale presente\"]}",
+      "examples": [
+        {
+          "it": "Apri la finestra, per favore.",
+          "zh": "请把窗户打开。"
+        },
+        {
+          "it": "Vorrei un cappuccino.",
+          "zh": "我想要一杯卡布奇诺。"
+        }
+      ]
+    },
+    {
+      "id": "A2_GP_003",
+      "level": "A2",
+      "title": "Pronomi diretti/indiretti（宾语代词）",
+      "whenToUse": "替代名词避免重复。",
+      "structure": "lo/la/li/le; mi/ti/gli/le/ci/vi",
+      "rules": "官方要点映射：A2 要求掌握直接/间接宾语代词。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.2\", \"focus\": [\"pronomi personali complemento diretto\", \"pronomi personali complemento indiretto\"]}",
+      "examples": [
+        {
+          "it": "Il libro? Lo leggo stasera.",
+          "zh": "那本书？我今晚读它。"
+        },
+        {
+          "it": "A Marco telefono domani.",
+          "zh": "我明天给马可打电话。"
+        }
+      ]
+    },
+    {
+      "id": "A2_GP_004",
+      "level": "A2",
+      "title": "Si impersonale + subordinate base（无人称与基础从句）",
+      "whenToUse": "做一般性陈述并连接原因/时间信息。",
+      "structure": "si + terza persona; che-sections temporali/oggettive base",
+      "rules": "官方要点映射：A2 包含 si impersonale 与 oggettive/temporali 的基础复句。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.2\", \"focus\": [\"si impersonale\", \"subordinate oggettive\", \"subordinate temporali\"]}",
+      "examples": [
+        {
+          "it": "In Italia si cena tardi.",
+          "zh": "在意大利人们晚吃晚饭。"
+        },
+        {
+          "it": "Penso che oggi piova.",
+          "zh": "我觉得今天会下雨。"
+        }
+      ]
+    },
+    {
+      "id": "A2_GP_005",
+      "level": "A2",
+      "title": "Comparativi/superlativi + indefiniti（比较与不定）",
+      "whenToUse": "比较事物并表达不确定数量。",
+      "structure": "più/meno...di; il più...; qualche/alcuni/nessuno",
+      "rules": "官方要点映射：A2 包含比较级、最高级与不定形容词/代词。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.1.2\", \"focus\": [\"comparativo\", \"superlativo\", \"aggettivi/pronomi indefiniti\"]}",
+      "examples": [
+        {
+          "it": "Questa borsa è più economica.",
+          "zh": "这个包更便宜。"
+        },
+        {
+          "it": "Nessuno studente è assente oggi.",
+          "zh": "今天没有学生缺席。"
+        }
+      ]
+    },
+    {
+      "id": "B1_GP_001",
+      "level": "B1",
+      "title": "Condizionale presente（B1语境）",
+      "whenToUse": "表达建议、愿望与礼貌推测。",
+      "structure": "io -ei; tu -esti; lui/lei -ebbe...",
+      "rules": "官方要点映射：B1 明确纳入 condizionale presente。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.2\", \"focus\": [\"condizionale presente\", \"funzione pragmatica\"]}",
+      "examples": [
+        {
+          "it": "Al tuo posto, accetterei l'offerta.",
+          "zh": "如果我是你，我会接受这个机会。"
+        },
+        {
+          "it": "Potresti parlare più lentamente?",
+          "zh": "你能说慢一点吗？"
+        }
+      ]
+    },
+    {
+      "id": "B1_GP_002",
+      "level": "B1",
+      "title": "Pronomi relativi e indefiniti（关系与不定）",
+      "whenToUse": "连接句子并指代先行词。",
+      "structure": "che/cui/il quale; qualcuno/qualcosa/ognuno...",
+      "rules": "官方要点映射：B1 要求掌握 pronomi relativi 与 indefiniti 的常见结构。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.2\", \"focus\": [\"pronomi relativi\", \"pronomi indefiniti\"]}",
+      "examples": [
+        {
+          "it": "La persona che hai visto è mia sorella.",
+          "zh": "你看到的那个人是我姐姐。"
+        },
+        {
+          "it": "Qualcuno ha chiamato per te.",
+          "zh": "有人给你打电话了。"
+        }
+      ]
+    },
+    {
+      "id": "B1_GP_003",
+      "level": "B1",
+      "title": "Comparativi e superlativi（语义精细化）",
+      "whenToUse": "在观点表达中进行程度比较。",
+      "structure": "più/meno...di; tanto...quanto; il più...",
+      "rules": "官方要点映射：B1 保持 comparativo/superlativo 的稳定应用。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.2\", \"focus\": [\"comparativi\", \"superlativi\"]}",
+      "examples": [
+        {
+          "it": "Questo testo è meno chiaro del precedente.",
+          "zh": "这篇文章没有上一篇清楚。"
+        },
+        {
+          "it": "È la scelta più prudente.",
+          "zh": "这是最稳妥的选择。"
+        }
+      ]
+    },
+    {
+      "id": "B1_GP_004",
+      "level": "B1",
+      "title": "Subordinate causali/finali/temporali（从句系统）",
+      "whenToUse": "解释原因、目的和时间顺序。",
+      "structure": "perché/siccome; per + infinito; quando/mentre/dopo che...",
+      "rules": "官方要点映射：B1 要求掌握高频 subordinate（因果/目的/时间）。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.2\", \"focus\": [\"subordinate causali\", \"subordinate finali\", \"subordinate temporali\"]}",
+      "examples": [
+        {
+          "it": "Resto a casa perché sono stanco.",
+          "zh": "我待在家里因为我累了。"
+        },
+        {
+          "it": "Studio per superare l'esame.",
+          "zh": "我学习是为了通过考试。"
+        }
+      ]
+    },
+    {
+      "id": "B1_GP_005",
+      "level": "B1",
+      "title": "Completive oggettive/soggettive（补足语从句）",
+      "whenToUse": "表达想法、判断与主观态度。",
+      "structure": "credo che...; è importante che...;",
+      "rules": "官方要点映射：B1 纳入 oggettive/soggettive 补语从句。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.2\", \"focus\": [\"completive oggettive\", \"completive soggettive\"]}",
+      "examples": [
+        {
+          "it": "Credo che lui arrivi tardi.",
+          "zh": "我觉得他会晚到。"
+        },
+        {
+          "it": "È utile che tu faccia pratica.",
+          "zh": "你多练习是有帮助的。"
+        }
+      ]
+    },
+    {
+      "id": "B2_GP_001",
+      "level": "B2",
+      "title": "Sistema dei tempi passati avanzati（过去时体系）",
+      "whenToUse": "在叙事中准确标注先后关系。",
+      "structure": "passato remoto, trapassato prossimo/remoto, futuro anteriore",
+      "rules": "官方要点映射：B2 要求掌握更完整的时态体系（含 trapassati/futuro anteriore）。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.3\", \"focus\": [\"passato remoto\", \"trapassato prossimo/remoto\", \"futuro anteriore\"]}",
+      "examples": [
+        {
+          "it": "Quando arrivammo, il film era già iniziato.",
+          "zh": "我们到的时候电影已经开始了。"
+        },
+        {
+          "it": "Quando avrai finito, chiamami.",
+          "zh": "你做完后给我打电话。"
+        }
+      ]
+    },
+    {
+      "id": "B2_GP_002",
+      "level": "B2",
+      "title": "Congiuntivo + condizionale passato（复杂假设）",
+      "whenToUse": "表达非现实条件、观点和让步。",
+      "structure": "congiuntivo presente/imperfetto + condizionale passato",
+      "rules": "官方要点映射：B2 纳入 congiuntivo（现在/未完成）及 condizionale passato。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.3\", \"focus\": [\"congiuntivo presente\", \"congiuntivo imperfetto\", \"condizionale passato\"]}",
+      "examples": [
+        {
+          "it": "Se avessi più tempo, leggerei di più.",
+          "zh": "如果我有更多时间，我会读得更多。"
+        },
+        {
+          "it": "Pensavo che fosse più semplice.",
+          "zh": "我原以为会更简单。"
+        }
+      ]
+    },
+    {
+      "id": "B2_GP_003",
+      "level": "B2",
+      "title": "Pronomi combinati + particelle pronominali（代词系统）",
+      "whenToUse": "在真实文本中处理 clitici 连用。",
+      "structure": "me lo, gliela, ce ne, se ne...",
+      "rules": "官方要点映射：B2 要求掌握 pronomi allocutivi/combinati 与 particelle pronominali。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.3\", \"focus\": [\"pronomi combinati\", \"particelle pronominali ci/ne\", \"pronomi allocutivi\"]}",
+      "examples": [
+        {
+          "it": "Me lo puoi spiegare meglio?",
+          "zh": "你可以给我讲得更清楚吗？"
+        },
+        {
+          "it": "Ce ne siamo occupati ieri.",
+          "zh": "我们昨天处理了这件事。"
+        }
+      ]
+    },
+    {
+      "id": "B2_GP_004",
+      "level": "B2",
+      "title": "Passiva e costruzioni impersonali（被动/无人称）",
+      "whenToUse": "写说明文和制度文本时保持客观。",
+      "structure": "essere/venire + participio; si impersonale/passivante",
+      "rules": "官方要点映射：B2 要求识别并使用 passiva/impersonale。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.3\", \"focus\": [\"passiva\", \"si impersonale\", \"si passivante\"]}",
+      "examples": [
+        {
+          "it": "Le domande vengono corrette dalla commissione.",
+          "zh": "试题由委员会批改。"
+        },
+        {
+          "it": "In questo ufficio si riceve su appuntamento.",
+          "zh": "这个办公室按预约接待。"
+        }
+      ]
+    },
+    {
+      "id": "B2_GP_005",
+      "level": "B2",
+      "title": "Discorso indiretto e subordinate complesse（复句整合）",
+      "whenToUse": "在报道、论证中组织多层句法。",
+      "structure": "discorso diretto/indiretto; subordinate esplicite/implicite",
+      "rules": "官方要点映射：B2 要求掌握更复杂从句与引述转换。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.3\", \"focus\": [\"discorso diretto/indiretto\", \"subordinate esplicite/implicite\", \"periodo complesso\"]}",
+      "examples": [
+        {
+          "it": "Ha detto che sarebbe arrivato in ritardo.",
+          "zh": "他说他会晚到。"
+        },
+        {
+          "it": "Pur essendo tardi, abbiamo continuato a discutere.",
+          "zh": "尽管很晚了，我们还是继续讨论。"
+        }
+      ]
+    },
+    {
+      "id": "C1_GP_001",
+      "level": "C1",
+      "title": "Congiuntivo completo（四时态）",
+      "whenToUse": "表达精细主观态度与复杂逻辑。",
+      "structure": "congiuntivo presente/passato/imperfetto/trapassato",
+      "rules": "官方要点映射：C1 要求全面掌握虚拟式系统。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.4\", \"focus\": [\"congiuntivo presente/passato\", \"congiuntivo imperfetto/trapassato\"]}",
+      "examples": [
+        {
+          "it": "Temo che non abbia capito del tutto.",
+          "zh": "我担心他没有完全理解。"
+        },
+        {
+          "it": "Se avessero previsto il rischio, avrebbero agito prima.",
+          "zh": "如果他们预见到风险，就会更早行动。"
+        }
+      ]
+    },
+    {
+      "id": "C1_GP_002",
+      "level": "C1",
+      "title": "Gerundio e participio avanzati（非限定形式）",
+      "whenToUse": "提升书面压缩和衔接能力。",
+      "structure": "gerundio presente/passato; participio presente/passato",
+      "rules": "官方要点映射：C1 明确包含 gerundio/participio 的高级使用。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.4\", \"focus\": [\"gerundio presente/passato\", \"participio presente/passato\"]}",
+      "examples": [
+        {
+          "it": "Avendo valutato i dati, proponiamo una revisione.",
+          "zh": "在评估数据后，我们提出修订建议。"
+        },
+        {
+          "it": "Il documento, firmato ieri, è già valido.",
+          "zh": "这份昨天签署的文件已经生效。"
+        }
+      ]
+    },
+    {
+      "id": "C1_GP_003",
+      "level": "C1",
+      "title": "Verbi pronominali + passiva/impersonale（结构转换）",
+      "whenToUse": "根据语体在主动/被动/无人称间切换。",
+      "structure": "verbi pronominali; passiva; si impersonale/passivante",
+      "rules": "官方要点映射：C1 要求更灵活的动词与句法转换能力。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.4\", \"focus\": [\"verbi pronominali\", \"passiva\", \"si impersonale/passivante\"]}",
+      "examples": [
+        {
+          "it": "Ci si rende conto dei limiti solo dopo.",
+          "zh": "人们往往事后才意识到限制。"
+        },
+        {
+          "it": "La proposta è stata respinta dal consiglio.",
+          "zh": "该提议被委员会否决了。"
+        }
+      ]
+    },
+    {
+      "id": "C1_GP_004",
+      "level": "C1",
+      "title": "Periodo ipotetico avanzato + subordinate（高级假设与从句）",
+      "whenToUse": "构建让步、条件、原因、目的等复合论证。",
+      "structure": "ipotetico della possibilità/irrealtà + subordinate complesse",
+      "rules": "官方要点映射：C1 要求掌握 periodo ipotetico 与复杂复句网络。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.4\", \"focus\": [\"periodo ipotetico avanzato\", \"subordinate causali/concessive/finali\"]}",
+      "examples": [
+        {
+          "it": "Anche se fosse vero, non cambierebbe la conclusione.",
+          "zh": "即便这是真的，也不会改变结论。"
+        },
+        {
+          "it": "Qualora arrivasse tardi, inizieremo senza di lui.",
+          "zh": "如果他迟到，我们就不等他开始。"
+        }
+      ]
+    },
+    {
+      "id": "C1_GP_005",
+      "level": "C1",
+      "title": "Nominalizzazione e discorso indiretto（学术表达）",
+      "whenToUse": "实现正式语体下的信息重组与引用。",
+      "structure": "trasformazione verbo→nome; discorso diretto/indiretto",
+      "rules": "官方要点映射：C1 包含 nominalizzazione 与 discorso diretto/indiretto。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.4\", \"focus\": [\"nominalizzazione\", \"discorso diretto/indiretto\"]}",
+      "examples": [
+        {
+          "it": "La riduzione dei costi ha migliorato la sostenibilità del progetto.",
+          "zh": "成本下降提升了项目可持续性。"
+        },
+        {
+          "it": "Ha dichiarato che avrebbe presentato i risultati lunedì.",
+          "zh": "他表示将于周一提交结果。"
+        }
+      ]
+    },
+    {
+      "id": "C2_GP_001",
+      "level": "C2",
+      "title": "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+      "whenToUse": "在复杂语境中维持语法准确与风格控制。",
+      "structure": "多层主从复句 + 语序调度",
+      "rules": "官方要点映射：C2 聚焦当代意大利语的高级句法轮廓与近母语稳定性。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.5\", \"focus\": [\"profili sintattici dell'italiano contemporaneo\", \"controllo near-native\"]}",
+      "examples": [
+        {
+          "it": "Non è il risultato in sé, quanto il metodo adottato, a risultare decisivo.",
+          "zh": "起决定作用的与其说是结果本身，不如说是采用的方法。"
+        },
+        {
+          "it": "È da questa premessa che discende l'intera argomentazione.",
+          "zh": "正是从这个前提推导出整套论证。"
+        }
+      ]
+    },
+    {
+      "id": "C2_GP_002",
+      "level": "C2",
+      "title": "Meccanismi del parlato avanzato（高级口语机制）",
+      "whenToUse": "理解并产出真实口语中的结构化表达。",
+      "structure": "dislocazioni, frasi scisse, segnali discorsivi, gestione dei turni",
+      "rules": "官方要点映射：C2 需掌握 spoken grammar（话轮、标记语、分裂句等）。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.5\", \"focus\": [\"dislocazioni\", \"frasi scisse\", \"segnali discorsivi\", \"turn-taking\"]}",
+      "examples": [
+        {
+          "it": "Quello che volevo dire è che la proposta va rivista.",
+          "zh": "我真正想说的是这个提议需要重审。"
+        },
+        {
+          "it": "Di questo, francamente, non ne abbiamo ancora parlato.",
+          "zh": "说实话，这件事我们还没讨论过。"
+        }
+      ]
+    },
+    {
+      "id": "C2_GP_003",
+      "level": "C2",
+      "title": "Pragmatica dei registri（语域与语用细微差异）",
+      "whenToUse": "在正式/半正式/口语场景下精准表达立场。",
+      "structure": "scelte sintattiche e lessicali dipendenti da contesto e destinatario",
+      "rules": "官方要点映射：C2 要求处理不同社会语域与语用策略。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.5\", \"focus\": [\"pragmatica\", \"varietà diastratiche\", \"registro formale/informale\"]}",
+      "examples": [
+        {
+          "it": "Le sarei grato se volesse confermare la disponibilità.",
+          "zh": "若您能确认可用性，我将非常感谢。"
+        },
+        {
+          "it": "Guarda, detta così suona troppo brusca.",
+          "zh": "你看，这么说听起来太生硬了。"
+        }
+      ]
+    },
+    {
+      "id": "C2_GP_004",
+      "level": "C2",
+      "title": "Espressioni idiomatiche e connotazioni（习语与内涵义）",
+      "whenToUse": "把握字面义之外的社会文化色彩。",
+      "structure": "locuzioni fisse; metafore; sfumature connotative",
+      "rules": "官方要点映射：C2 要求识别并使用 idiomaticità 与语义细差。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.5\", \"focus\": [\"espressioni idiomatiche\", \"connotazioni semantiche\"]}",
+      "examples": [
+        {
+          "it": "La questione è ancora in alto mare.",
+          "zh": "这件事还远未解决。"
+        },
+        {
+          "it": "Ha preso la palla al balzo e ha chiuso l'accordo.",
+          "zh": "他抓住机会迅速敲定了协议。"
+        }
+      ]
+    },
+    {
+      "id": "C2_GP_005",
+      "level": "C2",
+      "title": "Coerenza macrotestuale ad alta densità（篇章级控制）",
+      "whenToUse": "构建长篇高密度信息文本并保持可读性。",
+      "structure": "progressione tematica + coesione interfrastica + riformulazione",
+      "rules": "官方要点映射：C2 强调在宏观篇章层面的连贯、精确与风格一致。",
+      "conjugation": "{\"source_url\": \"https://cils.unistrasi.it/public/articoli/28/Files/linee_guida_cils.pdf\", \"sezione\": \"2.5\", \"focus\": [\"coerenza macrotestuale\", \"densità informativa\", \"riformulazione avanzata\"]}",
+      "examples": [
+        {
+          "it": "Alla luce di quanto esposto, la tesi resta valida, pur richiedendo una revisione metodologica.",
+          "zh": "基于以上论述，该论点仍成立，但需要方法层面的修订。"
+        },
+        {
+          "it": "Nel complesso, i dati convergono verso un'interpretazione unitaria del fenomeno.",
+          "zh": "总体而言，数据趋向对该现象的一体化解释。"
+        }
+      ]
+    }
+  ]
+}

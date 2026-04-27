@@ -1,0 +1,3768 @@
+{
+  "grammarQuiz": {
+    "A1_GP_001": [
+      {
+        "id": "A1_GP_001_Q1",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Articoli + genere/numero（冠词与性数一致）」的用途？",
+        "options": [
+          "在自我介绍和日常指认中正确使用名词短语。",
+          "Pronomi personali（人称代词基础）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在自我介绍和日常指认中正确使用名词短语。",
+        "knowledgeTags": [
+          "A1_GP_001",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A1_GP_001_Q2",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "「Articoli + genere/numero（冠词与性数一致）」常见结构是哪一个？",
+        "options": [
+          "articolo determinativo/indeterminativo + nome (m/f; sing/pl)",
+          "Preposizioni semplici/articolate（介词基础）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：articolo determinativo/indeterminativo + nome (m/f; sing/pl)",
+        "knowledgeTags": [
+          "A1_GP_001",
+          "structure"
+        ]
+      },
+      {
+        "id": "A1_GP_001_Q3",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "例句「La casa è piccola.」主要帮助理解哪一项？",
+        "options": [
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Pronomi personali（人称代词基础）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Articoli + genere/numero（冠词与性数一致）」。这所房子很小。",
+        "knowledgeTags": [
+          "A1_GP_001",
+          "example"
+        ]
+      }
+    ],
+    "A1_GP_002": [
+      {
+        "id": "A1_GP_002_Q1",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Pronomi personali（人称代词基础）」的用途？",
+        "options": [
+          "表达“我/你/他/我们”等主语关系。",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：表达“我/你/他/我们”等主语关系。",
+        "knowledgeTags": [
+          "A1_GP_002",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A1_GP_002_Q2",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "「Pronomi personali（人称代词基础）」常见结构是哪一个？",
+        "options": [
+          "pronomi soggetto + frase semplice",
+          "Preposizioni semplici/articolate（介词基础）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：pronomi soggetto + frase semplice",
+        "knowledgeTags": [
+          "A1_GP_002",
+          "structure"
+        ]
+      },
+      {
+        "id": "A1_GP_002_Q3",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "例句「Io studio italiano.」主要帮助理解哪一项？",
+        "options": [
+          "Pronomi personali（人称代词基础）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Pronomi personali（人称代词基础）」。我学意大利语。",
+        "knowledgeTags": [
+          "A1_GP_002",
+          "example"
+        ]
+      }
+    ],
+    "A1_GP_003": [
+      {
+        "id": "A1_GP_003_Q1",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Preposizioni semplici/articolate（介词基础）」的用途？",
+        "options": [
+          "描述地点、方向、时间等基本关系。",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Pronomi personali（人称代词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：描述地点、方向、时间等基本关系。",
+        "knowledgeTags": [
+          "A1_GP_003",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A1_GP_003_Q2",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "「Preposizioni semplici/articolate（介词基础）」常见结构是哪一个？",
+        "options": [
+          "a, di, da, in, con, su, per, tra/fra + articolate",
+          "Pronomi personali（人称代词基础）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：a, di, da, in, con, su, per, tra/fra + articolate",
+        "knowledgeTags": [
+          "A1_GP_003",
+          "structure"
+        ]
+      },
+      {
+        "id": "A1_GP_003_Q3",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "例句「Vado a scuola in autobus.」主要帮助理解哪一项？",
+        "options": [
+          "Preposizioni semplici/articolate（介词基础）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Preposizioni semplici/articolate（介词基础）」。我坐公交去学校。",
+        "knowledgeTags": [
+          "A1_GP_003",
+          "example"
+        ]
+      }
+    ],
+    "A1_GP_004": [
+      {
+        "id": "A1_GP_004_Q1",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Indicativo presente（直陈式现在时）」的用途？",
+        "options": [
+          "描述当前状态、习惯、事实。",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Pronomi personali（人称代词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：描述当前状态、习惯、事实。",
+        "knowledgeTags": [
+          "A1_GP_004",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A1_GP_004_Q2",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "「Indicativo presente（直陈式现在时）」常见结构是哪一个？",
+        "options": [
+          "soggetto + verbo al presente（含 essere/avere）",
+          "Pronomi personali（人称代词基础）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：soggetto + verbo al presente（含 essere/avere）",
+        "knowledgeTags": [
+          "A1_GP_004",
+          "structure"
+        ]
+      },
+      {
+        "id": "A1_GP_004_Q3",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "例句「Sono cinese, ma vivo in Italia.」主要帮助理解哪一项？",
+        "options": [
+          "Indicativo presente（直陈式现在时）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Indicativo presente（直陈式现在时）」。我是中国人，但我住在意大利。",
+        "knowledgeTags": [
+          "A1_GP_004",
+          "example"
+        ]
+      }
+    ],
+    "A1_GP_005": [
+      {
+        "id": "A1_GP_005_Q1",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Passato prossimo + imperativo base（近过去与祈使基础）」的用途？",
+        "options": [
+          "说已完成动作与简单指令。",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Pronomi personali（人称代词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：说已完成动作与简单指令。",
+        "knowledgeTags": [
+          "A1_GP_005",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A1_GP_005_Q2",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "「Passato prossimo + imperativo base（近过去与祈使基础）」常见结构是哪一个？",
+        "options": [
+          "avere/essere + participio; imperativo (tu/noi/voi) 高频动词",
+          "Pronomi personali（人称代词基础）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：avere/essere + participio; imperativo (tu/noi/voi) 高频动词",
+        "knowledgeTags": [
+          "A1_GP_005",
+          "structure"
+        ]
+      },
+      {
+        "id": "A1_GP_005_Q3",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "例句「Ieri ho lavorato tutto il giorno.」主要帮助理解哪一项？",
+        "options": [
+          "Passato prossimo + imperativo base（近过去与祈使基础）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Passato prossimo + imperativo base（近过去与祈使基础）」。昨天我工作了一整天。",
+        "knowledgeTags": [
+          "A1_GP_005",
+          "example"
+        ]
+      }
+    ],
+    "A2_GP_001": [
+      {
+        "id": "A2_GP_001_Q1",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Passato prossimo vs imperfetto（过去时体对比）」的用途？",
+        "options": [
+          "叙述过去事件并区分背景与主事件。",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：叙述过去事件并区分背景与主事件。",
+        "knowledgeTags": [
+          "A2_GP_001",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A2_GP_001_Q2",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "「Passato prossimo vs imperfetto（过去时体对比）」常见结构是哪一个？",
+        "options": [
+          "imperfetto (sfondo) + passato prossimo (evento)",
+          "Pronomi diretti/indiretti（宾语代词）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：imperfetto (sfondo) + passato prossimo (evento)",
+        "knowledgeTags": [
+          "A2_GP_001",
+          "structure"
+        ]
+      },
+      {
+        "id": "A2_GP_001_Q3",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "例句「Mentre studiavo, è suonato il telefono.」主要帮助理解哪一项？",
+        "options": [
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Passato prossimo vs imperfetto（过去时体对比）」。我学习时，电话响了。",
+        "knowledgeTags": [
+          "A2_GP_001",
+          "example"
+        ]
+      }
+    ],
+    "A2_GP_002": [
+      {
+        "id": "A2_GP_002_Q1",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Imperativo e condizionale presente（语用扩展）」的用途？",
+        "options": [
+          "表达命令、建议与礼貌请求。",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：表达命令、建议与礼貌请求。",
+        "knowledgeTags": [
+          "A2_GP_002",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A2_GP_002_Q2",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "「Imperativo e condizionale presente（语用扩展）」常见结构是哪一个？",
+        "options": [
+          "imperativo; condizionale presente (vorrei/potrei...)",
+          "Pronomi diretti/indiretti（宾语代词）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：imperativo; condizionale presente (vorrei/potrei...)",
+        "knowledgeTags": [
+          "A2_GP_002",
+          "structure"
+        ]
+      },
+      {
+        "id": "A2_GP_002_Q3",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "例句「Apri la finestra, per favore.」主要帮助理解哪一项？",
+        "options": [
+          "Imperativo e condizionale presente（语用扩展）",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Imperativo e condizionale presente（语用扩展）」。请把窗户打开。",
+        "knowledgeTags": [
+          "A2_GP_002",
+          "example"
+        ]
+      }
+    ],
+    "A2_GP_003": [
+      {
+        "id": "A2_GP_003_Q1",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Pronomi diretti/indiretti（宾语代词）」的用途？",
+        "options": [
+          "替代名词避免重复。",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Imperativo e condizionale presente（语用扩展）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：替代名词避免重复。",
+        "knowledgeTags": [
+          "A2_GP_003",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A2_GP_003_Q2",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "「Pronomi diretti/indiretti（宾语代词）」常见结构是哪一个？",
+        "options": [
+          "lo/la/li/le; mi/ti/gli/le/ci/vi",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：lo/la/li/le; mi/ti/gli/le/ci/vi",
+        "knowledgeTags": [
+          "A2_GP_003",
+          "structure"
+        ]
+      },
+      {
+        "id": "A2_GP_003_Q3",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "例句「Il libro? Lo leggo stasera.」主要帮助理解哪一项？",
+        "options": [
+          "Pronomi diretti/indiretti（宾语代词）",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Pronomi diretti/indiretti（宾语代词）」。那本书？我今晚读它。",
+        "knowledgeTags": [
+          "A2_GP_003",
+          "example"
+        ]
+      }
+    ],
+    "A2_GP_004": [
+      {
+        "id": "A2_GP_004_Q1",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Si impersonale + subordinate base（无人称与基础从句）」的用途？",
+        "options": [
+          "做一般性陈述并连接原因/时间信息。",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Imperativo e condizionale presente（语用扩展）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：做一般性陈述并连接原因/时间信息。",
+        "knowledgeTags": [
+          "A2_GP_004",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A2_GP_004_Q2",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "「Si impersonale + subordinate base（无人称与基础从句）」常见结构是哪一个？",
+        "options": [
+          "si + terza persona; che-sections temporali/oggettive base",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：si + terza persona; che-sections temporali/oggettive base",
+        "knowledgeTags": [
+          "A2_GP_004",
+          "structure"
+        ]
+      },
+      {
+        "id": "A2_GP_004_Q3",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "例句「In Italia si cena tardi.」主要帮助理解哪一项？",
+        "options": [
+          "Si impersonale + subordinate base（无人称与基础从句）",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Si impersonale + subordinate base（无人称与基础从句）」。在意大利人们晚吃晚饭。",
+        "knowledgeTags": [
+          "A2_GP_004",
+          "example"
+        ]
+      }
+    ],
+    "A2_GP_005": [
+      {
+        "id": "A2_GP_005_Q1",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Comparativi/superlativi + indefiniti（比较与不定）」的用途？",
+        "options": [
+          "比较事物并表达不确定数量。",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Imperativo e condizionale presente（语用扩展）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：比较事物并表达不确定数量。",
+        "knowledgeTags": [
+          "A2_GP_005",
+          "grammar"
+        ]
+      },
+      {
+        "id": "A2_GP_005_Q2",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "「Comparativi/superlativi + indefiniti（比较与不定）」常见结构是哪一个？",
+        "options": [
+          "più/meno...di; il più...; qualche/alcuni/nessuno",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：più/meno...di; il più...; qualche/alcuni/nessuno",
+        "knowledgeTags": [
+          "A2_GP_005",
+          "structure"
+        ]
+      },
+      {
+        "id": "A2_GP_005_Q3",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "例句「Questa borsa è più economica.」主要帮助理解哪一项？",
+        "options": [
+          "Comparativi/superlativi + indefiniti（比较与不定）",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Comparativi/superlativi + indefiniti（比较与不定）」。这个包更便宜。",
+        "knowledgeTags": [
+          "A2_GP_005",
+          "example"
+        ]
+      }
+    ],
+    "B1_GP_001": [
+      {
+        "id": "B1_GP_001_Q1",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Condizionale presente（B1语境）」的用途？",
+        "options": [
+          "表达建议、愿望与礼貌推测。",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：表达建议、愿望与礼貌推测。",
+        "knowledgeTags": [
+          "B1_GP_001",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B1_GP_001_Q2",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "「Condizionale presente（B1语境）」常见结构是哪一个？",
+        "options": [
+          "io -ei; tu -esti; lui/lei -ebbe...",
+          "Comparativi e superlativi（语义精细化）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：io -ei; tu -esti; lui/lei -ebbe...",
+        "knowledgeTags": [
+          "B1_GP_001",
+          "structure"
+        ]
+      },
+      {
+        "id": "B1_GP_001_Q3",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "例句「Al tuo posto, accetterei l'offerta.」主要帮助理解哪一项？",
+        "options": [
+          "Condizionale presente（B1语境）",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Condizionale presente（B1语境）」。如果我是你，我会接受这个机会。",
+        "knowledgeTags": [
+          "B1_GP_001",
+          "example"
+        ]
+      }
+    ],
+    "B1_GP_002": [
+      {
+        "id": "B1_GP_002_Q1",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Pronomi relativi e indefiniti（关系与不定）」的用途？",
+        "options": [
+          "连接句子并指代先行词。",
+          "Condizionale presente（B1语境）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：连接句子并指代先行词。",
+        "knowledgeTags": [
+          "B1_GP_002",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B1_GP_002_Q2",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "「Pronomi relativi e indefiniti（关系与不定）」常见结构是哪一个？",
+        "options": [
+          "che/cui/il quale; qualcuno/qualcosa/ognuno...",
+          "Comparativi e superlativi（语义精细化）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：che/cui/il quale; qualcuno/qualcosa/ognuno...",
+        "knowledgeTags": [
+          "B1_GP_002",
+          "structure"
+        ]
+      },
+      {
+        "id": "B1_GP_002_Q3",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "例句「La persona che hai visto è mia sorella.」主要帮助理解哪一项？",
+        "options": [
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Condizionale presente（B1语境）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Pronomi relativi e indefiniti（关系与不定）」。你看到的那个人是我姐姐。",
+        "knowledgeTags": [
+          "B1_GP_002",
+          "example"
+        ]
+      }
+    ],
+    "B1_GP_003": [
+      {
+        "id": "B1_GP_003_Q1",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Comparativi e superlativi（语义精细化）」的用途？",
+        "options": [
+          "在观点表达中进行程度比较。",
+          "Condizionale presente（B1语境）",
+          "Pronomi relativi e indefiniti（关系与不定）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在观点表达中进行程度比较。",
+        "knowledgeTags": [
+          "B1_GP_003",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B1_GP_003_Q2",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "「Comparativi e superlativi（语义精细化）」常见结构是哪一个？",
+        "options": [
+          "più/meno...di; tanto...quanto; il più...",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：più/meno...di; tanto...quanto; il più...",
+        "knowledgeTags": [
+          "B1_GP_003",
+          "structure"
+        ]
+      },
+      {
+        "id": "B1_GP_003_Q3",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "例句「Questo testo è meno chiaro del precedente.」主要帮助理解哪一项？",
+        "options": [
+          "Comparativi e superlativi（语义精细化）",
+          "Condizionale presente（B1语境）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Comparativi e superlativi（语义精细化）」。这篇文章没有上一篇清楚。",
+        "knowledgeTags": [
+          "B1_GP_003",
+          "example"
+        ]
+      }
+    ],
+    "B1_GP_004": [
+      {
+        "id": "B1_GP_004_Q1",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Subordinate causali/finali/temporali（从句系统）」的用途？",
+        "options": [
+          "解释原因、目的和时间顺序。",
+          "Condizionale presente（B1语境）",
+          "Pronomi relativi e indefiniti（关系与不定）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：解释原因、目的和时间顺序。",
+        "knowledgeTags": [
+          "B1_GP_004",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B1_GP_004_Q2",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "「Subordinate causali/finali/temporali（从句系统）」常见结构是哪一个？",
+        "options": [
+          "perché/siccome; per + infinito; quando/mentre/dopo che...",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：perché/siccome; per + infinito; quando/mentre/dopo che...",
+        "knowledgeTags": [
+          "B1_GP_004",
+          "structure"
+        ]
+      },
+      {
+        "id": "B1_GP_004_Q3",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "例句「Resto a casa perché sono stanco.」主要帮助理解哪一项？",
+        "options": [
+          "Subordinate causali/finali/temporali（从句系统）",
+          "Condizionale presente（B1语境）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Subordinate causali/finali/temporali（从句系统）」。我待在家里因为我累了。",
+        "knowledgeTags": [
+          "B1_GP_004",
+          "example"
+        ]
+      }
+    ],
+    "B1_GP_005": [
+      {
+        "id": "B1_GP_005_Q1",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Completive oggettive/soggettive（补足语从句）」的用途？",
+        "options": [
+          "表达想法、判断与主观态度。",
+          "Condizionale presente（B1语境）",
+          "Pronomi relativi e indefiniti（关系与不定）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：表达想法、判断与主观态度。",
+        "knowledgeTags": [
+          "B1_GP_005",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B1_GP_005_Q2",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "「Completive oggettive/soggettive（补足语从句）」常见结构是哪一个？",
+        "options": [
+          "credo che...; è importante che...;",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：credo che...; è importante che...;",
+        "knowledgeTags": [
+          "B1_GP_005",
+          "structure"
+        ]
+      },
+      {
+        "id": "B1_GP_005_Q3",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "例句「Credo che lui arrivi tardi.」主要帮助理解哪一项？",
+        "options": [
+          "Completive oggettive/soggettive（补足语从句）",
+          "Condizionale presente（B1语境）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Completive oggettive/soggettive（补足语从句）」。我觉得他会晚到。",
+        "knowledgeTags": [
+          "B1_GP_005",
+          "example"
+        ]
+      }
+    ],
+    "B2_GP_001": [
+      {
+        "id": "B2_GP_001_Q1",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Sistema dei tempi passati avanzati（过去时体系）」的用途？",
+        "options": [
+          "在叙事中准确标注先后关系。",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在叙事中准确标注先后关系。",
+        "knowledgeTags": [
+          "B2_GP_001",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B2_GP_001_Q2",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "「Sistema dei tempi passati avanzati（过去时体系）」常见结构是哪一个？",
+        "options": [
+          "passato remoto, trapassato prossimo/remoto, futuro anteriore",
+          "Pronomi combinati + particelle pronominali（代词系统）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：passato remoto, trapassato prossimo/remoto, futuro anteriore",
+        "knowledgeTags": [
+          "B2_GP_001",
+          "structure"
+        ]
+      },
+      {
+        "id": "B2_GP_001_Q3",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "例句「Quando arrivammo, il film era già iniziato.」主要帮助理解哪一项？",
+        "options": [
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Sistema dei tempi passati avanzati（过去时体系）」。我们到的时候电影已经开始了。",
+        "knowledgeTags": [
+          "B2_GP_001",
+          "example"
+        ]
+      }
+    ],
+    "B2_GP_002": [
+      {
+        "id": "B2_GP_002_Q1",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Congiuntivo + condizionale passato（复杂假设）」的用途？",
+        "options": [
+          "表达非现实条件、观点和让步。",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：表达非现实条件、观点和让步。",
+        "knowledgeTags": [
+          "B2_GP_002",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B2_GP_002_Q2",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "「Congiuntivo + condizionale passato（复杂假设）」常见结构是哪一个？",
+        "options": [
+          "congiuntivo presente/imperfetto + condizionale passato",
+          "Pronomi combinati + particelle pronominali（代词系统）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：congiuntivo presente/imperfetto + condizionale passato",
+        "knowledgeTags": [
+          "B2_GP_002",
+          "structure"
+        ]
+      },
+      {
+        "id": "B2_GP_002_Q3",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "例句「Se avessi più tempo, leggerei di più.」主要帮助理解哪一项？",
+        "options": [
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Congiuntivo + condizionale passato（复杂假设）」。如果我有更多时间，我会读得更多。",
+        "knowledgeTags": [
+          "B2_GP_002",
+          "example"
+        ]
+      }
+    ],
+    "B2_GP_003": [
+      {
+        "id": "B2_GP_003_Q1",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Pronomi combinati + particelle pronominali（代词系统）」的用途？",
+        "options": [
+          "在真实文本中处理 clitici 连用。",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在真实文本中处理 clitici 连用。",
+        "knowledgeTags": [
+          "B2_GP_003",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B2_GP_003_Q2",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "「Pronomi combinati + particelle pronominali（代词系统）」常见结构是哪一个？",
+        "options": [
+          "me lo, gliela, ce ne, se ne...",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：me lo, gliela, ce ne, se ne...",
+        "knowledgeTags": [
+          "B2_GP_003",
+          "structure"
+        ]
+      },
+      {
+        "id": "B2_GP_003_Q3",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "例句「Me lo puoi spiegare meglio?」主要帮助理解哪一项？",
+        "options": [
+          "Pronomi combinati + particelle pronominali（代词系统）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Pronomi combinati + particelle pronominali（代词系统）」。你可以给我讲得更清楚吗？",
+        "knowledgeTags": [
+          "B2_GP_003",
+          "example"
+        ]
+      }
+    ],
+    "B2_GP_004": [
+      {
+        "id": "B2_GP_004_Q1",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Passiva e costruzioni impersonali（被动/无人称）」的用途？",
+        "options": [
+          "写说明文和制度文本时保持客观。",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：写说明文和制度文本时保持客观。",
+        "knowledgeTags": [
+          "B2_GP_004",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B2_GP_004_Q2",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "「Passiva e costruzioni impersonali（被动/无人称）」常见结构是哪一个？",
+        "options": [
+          "essere/venire + participio; si impersonale/passivante",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：essere/venire + participio; si impersonale/passivante",
+        "knowledgeTags": [
+          "B2_GP_004",
+          "structure"
+        ]
+      },
+      {
+        "id": "B2_GP_004_Q3",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "例句「Le domande vengono corrette dalla commissione.」主要帮助理解哪一项？",
+        "options": [
+          "Passiva e costruzioni impersonali（被动/无人称）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Passiva e costruzioni impersonali（被动/无人称）」。试题由委员会批改。",
+        "knowledgeTags": [
+          "B2_GP_004",
+          "example"
+        ]
+      }
+    ],
+    "B2_GP_005": [
+      {
+        "id": "B2_GP_005_Q1",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Discorso indiretto e subordinate complesse（复句整合）」的用途？",
+        "options": [
+          "在报道、论证中组织多层句法。",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在报道、论证中组织多层句法。",
+        "knowledgeTags": [
+          "B2_GP_005",
+          "grammar"
+        ]
+      },
+      {
+        "id": "B2_GP_005_Q2",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "「Discorso indiretto e subordinate complesse（复句整合）」常见结构是哪一个？",
+        "options": [
+          "discorso diretto/indiretto; subordinate esplicite/implicite",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：discorso diretto/indiretto; subordinate esplicite/implicite",
+        "knowledgeTags": [
+          "B2_GP_005",
+          "structure"
+        ]
+      },
+      {
+        "id": "B2_GP_005_Q3",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "例句「Ha detto che sarebbe arrivato in ritardo.」主要帮助理解哪一项？",
+        "options": [
+          "Discorso indiretto e subordinate complesse（复句整合）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Discorso indiretto e subordinate complesse（复句整合）」。他说他会晚到。",
+        "knowledgeTags": [
+          "B2_GP_005",
+          "example"
+        ]
+      }
+    ],
+    "C1_GP_001": [
+      {
+        "id": "C1_GP_001_Q1",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Congiuntivo completo（四时态）」的用途？",
+        "options": [
+          "表达精细主观态度与复杂逻辑。",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：表达精细主观态度与复杂逻辑。",
+        "knowledgeTags": [
+          "C1_GP_001",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C1_GP_001_Q2",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "「Congiuntivo completo（四时态）」常见结构是哪一个？",
+        "options": [
+          "congiuntivo presente/passato/imperfetto/trapassato",
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：congiuntivo presente/passato/imperfetto/trapassato",
+        "knowledgeTags": [
+          "C1_GP_001",
+          "structure"
+        ]
+      },
+      {
+        "id": "C1_GP_001_Q3",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "例句「Temo che non abbia capito del tutto.」主要帮助理解哪一项？",
+        "options": [
+          "Congiuntivo completo（四时态）",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Congiuntivo completo（四时态）」。我担心他没有完全理解。",
+        "knowledgeTags": [
+          "C1_GP_001",
+          "example"
+        ]
+      }
+    ],
+    "C1_GP_002": [
+      {
+        "id": "C1_GP_002_Q1",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Gerundio e participio avanzati（非限定形式）」的用途？",
+        "options": [
+          "提升书面压缩和衔接能力。",
+          "Congiuntivo completo（四时态）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：提升书面压缩和衔接能力。",
+        "knowledgeTags": [
+          "C1_GP_002",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C1_GP_002_Q2",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "「Gerundio e participio avanzati（非限定形式）」常见结构是哪一个？",
+        "options": [
+          "gerundio presente/passato; participio presente/passato",
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：gerundio presente/passato; participio presente/passato",
+        "knowledgeTags": [
+          "C1_GP_002",
+          "structure"
+        ]
+      },
+      {
+        "id": "C1_GP_002_Q3",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "例句「Avendo valutato i dati, proponiamo una revisione.」主要帮助理解哪一项？",
+        "options": [
+          "Gerundio e participio avanzati（非限定形式）",
+          "Congiuntivo completo（四时态）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Gerundio e participio avanzati（非限定形式）」。在评估数据后，我们提出修订建议。",
+        "knowledgeTags": [
+          "C1_GP_002",
+          "example"
+        ]
+      }
+    ],
+    "C1_GP_003": [
+      {
+        "id": "C1_GP_003_Q1",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Verbi pronominali + passiva/impersonale（结构转换）」的用途？",
+        "options": [
+          "根据语体在主动/被动/无人称间切换。",
+          "Congiuntivo completo（四时态）",
+          "Gerundio e participio avanzati（非限定形式）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：根据语体在主动/被动/无人称间切换。",
+        "knowledgeTags": [
+          "C1_GP_003",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C1_GP_003_Q2",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "「Verbi pronominali + passiva/impersonale（结构转换）」常见结构是哪一个？",
+        "options": [
+          "verbi pronominali; passiva; si impersonale/passivante",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：verbi pronominali; passiva; si impersonale/passivante",
+        "knowledgeTags": [
+          "C1_GP_003",
+          "structure"
+        ]
+      },
+      {
+        "id": "C1_GP_003_Q3",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "例句「Ci si rende conto dei limiti solo dopo.」主要帮助理解哪一项？",
+        "options": [
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Congiuntivo completo（四时态）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Verbi pronominali + passiva/impersonale（结构转换）」。人们往往事后才意识到限制。",
+        "knowledgeTags": [
+          "C1_GP_003",
+          "example"
+        ]
+      }
+    ],
+    "C1_GP_004": [
+      {
+        "id": "C1_GP_004_Q1",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Periodo ipotetico avanzato + subordinate（高级假设与从句）」的用途？",
+        "options": [
+          "构建让步、条件、原因、目的等复合论证。",
+          "Congiuntivo completo（四时态）",
+          "Gerundio e participio avanzati（非限定形式）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：构建让步、条件、原因、目的等复合论证。",
+        "knowledgeTags": [
+          "C1_GP_004",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C1_GP_004_Q2",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "「Periodo ipotetico avanzato + subordinate（高级假设与从句）」常见结构是哪一个？",
+        "options": [
+          "ipotetico della possibilità/irrealtà + subordinate complesse",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：ipotetico della possibilità/irrealtà + subordinate complesse",
+        "knowledgeTags": [
+          "C1_GP_004",
+          "structure"
+        ]
+      },
+      {
+        "id": "C1_GP_004_Q3",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "例句「Anche se fosse vero, non cambierebbe la conclusione.」主要帮助理解哪一项？",
+        "options": [
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）",
+          "Congiuntivo completo（四时态）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Periodo ipotetico avanzato + subordinate（高级假设与从句）」。即便这是真的，也不会改变结论。",
+        "knowledgeTags": [
+          "C1_GP_004",
+          "example"
+        ]
+      }
+    ],
+    "C1_GP_005": [
+      {
+        "id": "C1_GP_005_Q1",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Nominalizzazione e discorso indiretto（学术表达）」的用途？",
+        "options": [
+          "实现正式语体下的信息重组与引用。",
+          "Congiuntivo completo（四时态）",
+          "Gerundio e participio avanzati（非限定形式）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：实现正式语体下的信息重组与引用。",
+        "knowledgeTags": [
+          "C1_GP_005",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C1_GP_005_Q2",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "「Nominalizzazione e discorso indiretto（学术表达）」常见结构是哪一个？",
+        "options": [
+          "trasformazione verbo→nome; discorso diretto/indiretto",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：trasformazione verbo→nome; discorso diretto/indiretto",
+        "knowledgeTags": [
+          "C1_GP_005",
+          "structure"
+        ]
+      },
+      {
+        "id": "C1_GP_005_Q3",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "例句「La riduzione dei costi ha migliorato la sostenibilità del progetto.」主要帮助理解哪一项？",
+        "options": [
+          "Nominalizzazione e discorso indiretto（学术表达）",
+          "Congiuntivo completo（四时态）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Nominalizzazione e discorso indiretto（学术表达）」。成本下降提升了项目可持续性。",
+        "knowledgeTags": [
+          "C1_GP_005",
+          "example"
+        ]
+      }
+    ],
+    "C2_GP_001": [
+      {
+        "id": "C2_GP_001_Q1",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Profili sintattici dell’italiano contemporaneo（当代句法控制）」的用途？",
+        "options": [
+          "在复杂语境中维持语法准确与风格控制。",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Pragmatica dei registri（语域与语用细微差异）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在复杂语境中维持语法准确与风格控制。",
+        "knowledgeTags": [
+          "C2_GP_001",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C2_GP_001_Q2",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "「Profili sintattici dell’italiano contemporaneo（当代句法控制）」常见结构是哪一个？",
+        "options": [
+          "多层主从复句 + 语序调度",
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：多层主从复句 + 语序调度",
+        "knowledgeTags": [
+          "C2_GP_001",
+          "structure"
+        ]
+      },
+      {
+        "id": "C2_GP_001_Q3",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "例句「Non è il risultato in sé, quanto il metodo adottato, a risultare decisivo.」主要帮助理解哪一项？",
+        "options": [
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Profili sintattici dell’italiano contemporaneo（当代句法控制）」。起决定作用的与其说是结果本身，不如说是采用的方法。",
+        "knowledgeTags": [
+          "C2_GP_001",
+          "example"
+        ]
+      }
+    ],
+    "C2_GP_002": [
+      {
+        "id": "C2_GP_002_Q1",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Meccanismi del parlato avanzato（高级口语机制）」的用途？",
+        "options": [
+          "理解并产出真实口语中的结构化表达。",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Pragmatica dei registri（语域与语用细微差异）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：理解并产出真实口语中的结构化表达。",
+        "knowledgeTags": [
+          "C2_GP_002",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C2_GP_002_Q2",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "「Meccanismi del parlato avanzato（高级口语机制）」常见结构是哪一个？",
+        "options": [
+          "dislocazioni, frasi scisse, segnali discorsivi, gestione dei turni",
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：dislocazioni, frasi scisse, segnali discorsivi, gestione dei turni",
+        "knowledgeTags": [
+          "C2_GP_002",
+          "structure"
+        ]
+      },
+      {
+        "id": "C2_GP_002_Q3",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "例句「Quello che volevo dire è che la proposta va rivista.」主要帮助理解哪一项？",
+        "options": [
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Meccanismi del parlato avanzato（高级口语机制）」。我真正想说的是这个提议需要重审。",
+        "knowledgeTags": [
+          "C2_GP_002",
+          "example"
+        ]
+      }
+    ],
+    "C2_GP_003": [
+      {
+        "id": "C2_GP_003_Q1",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Pragmatica dei registri（语域与语用细微差异）」的用途？",
+        "options": [
+          "在正式/半正式/口语场景下精准表达立场。",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Meccanismi del parlato avanzato（高级口语机制）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：在正式/半正式/口语场景下精准表达立场。",
+        "knowledgeTags": [
+          "C2_GP_003",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C2_GP_003_Q2",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "「Pragmatica dei registri（语域与语用细微差异）」常见结构是哪一个？",
+        "options": [
+          "scelte sintattiche e lessicali dipendenti da contesto e destinatario",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：scelte sintattiche e lessicali dipendenti da contesto e destinatario",
+        "knowledgeTags": [
+          "C2_GP_003",
+          "structure"
+        ]
+      },
+      {
+        "id": "C2_GP_003_Q3",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "例句「Le sarei grato se volesse confermare la disponibilità.」主要帮助理解哪一项？",
+        "options": [
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Pragmatica dei registri（语域与语用细微差异）」。若您能确认可用性，我将非常感谢。",
+        "knowledgeTags": [
+          "C2_GP_003",
+          "example"
+        ]
+      }
+    ],
+    "C2_GP_004": [
+      {
+        "id": "C2_GP_004_Q1",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Espressioni idiomatiche e connotazioni（习语与内涵义）」的用途？",
+        "options": [
+          "把握字面义之外的社会文化色彩。",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Meccanismi del parlato avanzato（高级口语机制）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：把握字面义之外的社会文化色彩。",
+        "knowledgeTags": [
+          "C2_GP_004",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C2_GP_004_Q2",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "「Espressioni idiomatiche e connotazioni（习语与内涵义）」常见结构是哪一个？",
+        "options": [
+          "locuzioni fisse; metafore; sfumature connotative",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Pragmatica dei registri（语域与语用细微差异）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：locuzioni fisse; metafore; sfumature connotative",
+        "knowledgeTags": [
+          "C2_GP_004",
+          "structure"
+        ]
+      },
+      {
+        "id": "C2_GP_004_Q3",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "例句「La questione è ancora in alto mare.」主要帮助理解哪一项？",
+        "options": [
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Pragmatica dei registri（语域与语用细微差异）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Espressioni idiomatiche e connotazioni（习语与内涵义）」。这件事还远未解决。",
+        "knowledgeTags": [
+          "C2_GP_004",
+          "example"
+        ]
+      }
+    ],
+    "C2_GP_005": [
+      {
+        "id": "C2_GP_005_Q1",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "下面哪一项最符合语法点「Coerenza macrotestuale ad alta densità（篇章级控制）」的用途？",
+        "options": [
+          "构建长篇高密度信息文本并保持可读性。",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Meccanismi del parlato avanzato（高级口语机制）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "该语法点的核心用途是：构建长篇高密度信息文本并保持可读性。",
+        "knowledgeTags": [
+          "C2_GP_005",
+          "grammar"
+        ]
+      },
+      {
+        "id": "C2_GP_005_Q2",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "「Coerenza macrotestuale ad alta densità（篇章级控制）」常见结构是哪一个？",
+        "options": [
+          "progressione tematica + coesione interfrastica + riformulazione",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Pragmatica dei registri（语域与语用细微差异）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "应关注结构：progressione tematica + coesione interfrastica + riformulazione",
+        "knowledgeTags": [
+          "C2_GP_005",
+          "structure"
+        ]
+      },
+      {
+        "id": "C2_GP_005_Q3",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "例句「Alla luce di quanto esposto, la tesi resta valida, pur richiedendo una revisione metodologica.」主要帮助理解哪一项？",
+        "options": [
+          "Coerenza macrotestuale ad alta densità（篇章级控制）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Pragmatica dei registri（语域与语用细微差异）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "这个例句对应「Coerenza macrotestuale ad alta densità（篇章级控制）」。基于以上论述，该论点仍成立，但需要方法层面的修订。",
+        "knowledgeTags": [
+          "C2_GP_005",
+          "example"
+        ]
+      }
+    ]
+  },
+  "exams": {
+    "A1": [
+      {
+        "id": "A1_VOCAB_01",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「letto」最合适的中文释义。",
+        "options": [
+          "孩子（复数）",
+          "床",
+          "裤子（复数）",
+          "家政工"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「letto」的释义是：床。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_020"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_02",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「pesce」最合适的中文释义。",
+        "options": [
+          "杯子",
+          "鱼",
+          "窗口",
+          "衣服；连衣裙"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「pesce」的释义是：鱼。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_081"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_03",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「penna」最合适的中文释义。",
+        "options": [
+          "钢笔",
+          "云",
+          "肚子",
+          "摩洛哥人；摩洛哥的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「penna」的释义是：钢笔。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_105"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_04",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「soldi」最合适的中文释义。",
+        "options": [
+          "肥皂",
+          "手帕；纸巾",
+          "灯",
+          "钱（复数）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「soldi」的释义是：钱（复数）。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_071"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_05",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「algerino」最合适的中文释义。",
+        "options": [
+          "头",
+          "中国人；中国的",
+          "鸡肉",
+          "阿尔及利亚人；阿尔及利亚的"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「algerino」的释义是：阿尔及利亚人；阿尔及利亚的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_125"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_06",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「vento」最合适的中文释义。",
+        "options": [
+          "钢笔",
+          "风",
+          "蔬菜（复数）",
+          "汤"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「vento」的释义是：风。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_055"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_07",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「gamba」最合适的中文释义。",
+        "options": [
+          "腿",
+          "窗户",
+          "秘书处；教务处",
+          "盐"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「gamba」的释义是：腿。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_115"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_08",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「orario」最合适的中文释义。",
+        "options": [
+          "脚",
+          "地址",
+          "时间表",
+          "账单；账户"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「orario」的释义是：时间表。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_104"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_09",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「nonno」最合适的中文释义。",
+        "options": [
+          "肚子",
+          "祖父",
+          "盘子",
+          "工人"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「nonno」的释义是：祖父。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_005"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_10",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「affitto」最合适的中文释义。",
+        "options": [
+          "账单；账户",
+          "抹布",
+          "鞋（复数）",
+          "房租；租赁"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「affitto」的释义是：房租；租赁。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_009"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_11",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「finestra」最合适的中文释义。",
+        "options": [
+          "窗户",
+          "穆斯林；伊斯兰教的",
+          "摩洛哥人；摩洛哥的",
+          "保姆（看孩子）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「finestra」的释义是：窗户。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_013"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_12",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「asciugamano」最合适的中文释义。",
+        "options": [
+          "毛巾",
+          "支付",
+          "姐妹",
+          "孩子（复数）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「asciugamano」的释义是：毛巾。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_039"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_13",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「sedia」最合适的中文释义。",
+        "options": [
+          "肚子",
+          "椅子",
+          "头",
+          "医生"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「sedia」的释义是：椅子。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_022"
+        ]
+      },
+      {
+        "id": "A1_VOCAB_14",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "选择「badante」最合适的中文释义。",
+        "options": [
+          "护工",
+          "超市",
+          "房租；租赁",
+          "喉咙"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「badante」的释义是：护工。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_087"
+        ]
+      },
+      {
+        "id": "A1_GRAMMAR_01",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在自我介绍和日常指认中正确使用名词短语。",
+        "options": [
+          "Preposizioni semplici/articolate（介词基础）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Pronomi personali（人称代词基础）",
+          "Indicativo presente（直陈式现在时）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Articoli + genere/numero（冠词与性数一致）」。结构提示：articolo determinativo/indeterminativo + nome (m/f; sing/pl)",
+        "knowledgeTags": [
+          "grammar",
+          "A1_GP_001"
+        ]
+      },
+      {
+        "id": "A1_GRAMMAR_02",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：表达“我/你/他/我们”等主语关系。",
+        "options": [
+          "Indicativo presente（直陈式现在时）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Pronomi personali（人称代词基础）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "对应语法点是「Pronomi personali（人称代词基础）」。结构提示：pronomi soggetto + frase semplice",
+        "knowledgeTags": [
+          "grammar",
+          "A1_GP_002"
+        ]
+      },
+      {
+        "id": "A1_GRAMMAR_03",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：描述地点、方向、时间等基本关系。",
+        "options": [
+          "Preposizioni semplici/articolate（介词基础）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Indicativo presente（直陈式现在时）",
+          "Pronomi personali（人称代词基础）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "对应语法点是「Preposizioni semplici/articolate（介词基础）」。结构提示：a, di, da, in, con, su, per, tra/fra + articolate",
+        "knowledgeTags": [
+          "grammar",
+          "A1_GP_003"
+        ]
+      },
+      {
+        "id": "A1_GRAMMAR_04",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：描述当前状态、习惯、事实。",
+        "options": [
+          "Pronomi personali（人称代词基础）",
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Indicativo presente（直陈式现在时）",
+          "Preposizioni semplici/articolate（介词基础）"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "对应语法点是「Indicativo presente（直陈式现在时）」。结构提示：soggetto + verbo al presente（含 essere/avere）",
+        "knowledgeTags": [
+          "grammar",
+          "A1_GP_004"
+        ]
+      },
+      {
+        "id": "A1_GRAMMAR_05",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：说已完成动作与简单指令。",
+        "options": [
+          "Articoli + genere/numero（冠词与性数一致）",
+          "Passato prossimo + imperativo base（近过去与祈使基础）",
+          "Preposizioni semplici/articolate（介词基础）",
+          "Pronomi personali（人称代词基础）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Passato prossimo + imperativo base（近过去与祈使基础）」。结构提示：avere/essere + participio; imperativo (tu/noi/voi) 高频动词",
+        "knowledgeTags": [
+          "grammar",
+          "A1_GP_005"
+        ]
+      },
+      {
+        "id": "A1_EXTRA_20",
+        "level": "A1",
+        "type": "single_choice",
+        "stem": "补充题：letto 的意思是？",
+        "options": [
+          "床",
+          "孩子（复数）",
+          "兄弟",
+          "父母"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「letto」的释义是：床。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A1_020"
+        ]
+      }
+    ],
+    "A2": [
+      {
+        "id": "A2_VOCAB_01",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「operaio」最合适的中文释义。",
+        "options": [
+          "黄油",
+          "工人",
+          "疾病",
+          "楼层"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「operaio」的释义是：工人。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_111"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_02",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「permesso di soggiorno」最合适的中文释义。",
+        "options": [
+          "风",
+          "头",
+          "居留许可",
+          "狗"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「permesso di soggiorno」的释义是：居留许可。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_079"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_03",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「zio」最合适的中文释义。",
+        "options": [
+          "叔/伯/舅/姨夫",
+          "供暖",
+          "佛教徒；佛教的",
+          "鱼"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「zio」的释义是：叔/伯/舅/姨夫。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_009"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_04",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「orario di lavoro」最合适的中文释义。",
+        "options": [
+          "省督府",
+          "工作时间",
+          "手",
+          "凉鞋（复数）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「orario di lavoro」的释义是：工作时间。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_112"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_05",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「coperchio」最合适的中文释义。",
+        "options": [
+          "盖子",
+          "面包师；面包店",
+          "医生",
+          "母亲"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「coperchio」的释义是：盖子。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_037"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_06",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「badante」最合适的中文释义。",
+        "options": [
+          "除臭剂；止汗剂",
+          "母亲",
+          "护工",
+          "桌布"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「badante」的释义是：护工。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_100"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_07",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「formaggio」最合适的中文释义。",
+        "options": [
+          "鞋（复数）",
+          "膝盖",
+          "签证",
+          "奶酪"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「formaggio」的释义是：奶酪。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_089"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_08",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「bagno」最合适的中文释义。",
+        "options": [
+          "课桌",
+          "肉",
+          "浴室；卫生间",
+          "镜子"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「bagno」的释义是：浴室；卫生间。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_011"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_09",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「pennarello」最合适的中文释义。",
+        "options": [
+          "罗马尼亚人；罗马尼亚的",
+          "手帕；纸巾",
+          "教室",
+          "记号笔"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「pennarello」的释义是：记号笔。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_124"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_10",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「pasta」最合适的中文释义。",
+        "options": [
+          "疼痛",
+          "父母",
+          "意面",
+          "勺子"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「pasta」的释义是：意面。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_094"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_11",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「bidella」最合适的中文释义。",
+        "options": [
+          "女校工",
+          "清洁剂",
+          "海绵",
+          "扶手椅"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「bidella」的释义是：女校工。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_117"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_12",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「parente」最合适的中文释义。",
+        "options": [
+          "账单；账户",
+          "堂/表姐妹",
+          "亲戚",
+          "男教师；男教授"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「parente」的释义是：亲戚。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_008"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_13",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「topo」最合适的中文释义。",
+        "options": [
+          "课桌",
+          "老鼠",
+          "浴室；卫生间",
+          "猫"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「topo」的释义是：老鼠。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_056"
+        ]
+      },
+      {
+        "id": "A2_VOCAB_14",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "选择「dottore」最合适的中文释义。",
+        "options": [
+          "叉子",
+          "服装",
+          "医生",
+          "淋浴"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「dottore」的释义是：医生。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_132"
+        ]
+      },
+      {
+        "id": "A2_GRAMMAR_01",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：叙述过去事件并区分背景与主事件。",
+        "options": [
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Si impersonale + subordinate base（无人称与基础从句）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "对应语法点是「Passato prossimo vs imperfetto（过去时体对比）」。结构提示：imperfetto (sfondo) + passato prossimo (evento)",
+        "knowledgeTags": [
+          "grammar",
+          "A2_GP_001"
+        ]
+      },
+      {
+        "id": "A2_GRAMMAR_02",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：表达命令、建议与礼貌请求。",
+        "options": [
+          "Si impersonale + subordinate base（无人称与基础从句）",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Pronomi diretti/indiretti（宾语代词）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Imperativo e condizionale presente（语用扩展）」。结构提示：imperativo; condizionale presente (vorrei/potrei...)",
+        "knowledgeTags": [
+          "grammar",
+          "A2_GP_002"
+        ]
+      },
+      {
+        "id": "A2_GRAMMAR_03",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：替代名词避免重复。",
+        "options": [
+          "Pronomi diretti/indiretti（宾语代词）",
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Imperativo e condizionale presente（语用扩展）",
+          "Si impersonale + subordinate base（无人称与基础从句）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "对应语法点是「Pronomi diretti/indiretti（宾语代词）」。结构提示：lo/la/li/le; mi/ti/gli/le/ci/vi",
+        "knowledgeTags": [
+          "grammar",
+          "A2_GP_003"
+        ]
+      },
+      {
+        "id": "A2_GRAMMAR_04",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：做一般性陈述并连接原因/时间信息。",
+        "options": [
+          "Imperativo e condizionale presente（语用扩展）",
+          "Si impersonale + subordinate base（无人称与基础从句）",
+          "Pronomi diretti/indiretti（宾语代词）",
+          "Passato prossimo vs imperfetto（过去时体对比）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Si impersonale + subordinate base（无人称与基础从句）」。结构提示：si + terza persona; che-sections temporali/oggettive base",
+        "knowledgeTags": [
+          "grammar",
+          "A2_GP_004"
+        ]
+      },
+      {
+        "id": "A2_GRAMMAR_05",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：比较事物并表达不确定数量。",
+        "options": [
+          "Passato prossimo vs imperfetto（过去时体对比）",
+          "Comparativi/superlativi + indefiniti（比较与不定）",
+          "Pronomi diretti/indiretti（宾语代词）",
+          "Imperativo e condizionale presente（语用扩展）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Comparativi/superlativi + indefiniti（比较与不定）」。结构提示：più/meno...di; il più...; qualche/alcuni/nessuno",
+        "knowledgeTags": [
+          "grammar",
+          "A2_GP_005"
+        ]
+      },
+      {
+        "id": "A2_EXTRA_20",
+        "level": "A2",
+        "type": "single_choice",
+        "stem": "补充题：frigorifero 的意思是？",
+        "options": [
+          "冰箱",
+          "姐夫；妹夫；内兄弟",
+          "堂/表姐妹",
+          "孩子（复数）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「frigorifero」的释义是：冰箱。",
+        "knowledgeTags": [
+          "vocabulary",
+          "A2_020"
+        ]
+      }
+    ],
+    "B1": [
+      {
+        "id": "B1_VOCAB_01",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「guadagnare」最合适的中文释义。",
+        "options": [
+          "组织；机构",
+          "赚取",
+          "条件；状况",
+          "信任"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「guadagnare」的释义是：赚取。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_053"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_02",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「celebrazione」最合适的中文释义。",
+        "options": [
+          "频率；出勤",
+          "许可",
+          "用户群；使用量",
+          "庆祝活动"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「celebrazione」的释义是：庆祝活动。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_095"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_03",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「comunità」最合适的中文释义。",
+        "options": [
+          "社区；共同体",
+          "生产；产出",
+          "协议；一致",
+          "可用性；空闲"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「comunità」的释义是：社区；共同体。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_100"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_04",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「opportunità」最合适的中文释义。",
+        "options": [
+          "燃料",
+          "公众的；公共的",
+          "转移；调动",
+          "机会"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「opportunità」的释义是：机会。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_066"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_05",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「produttivo」最合适的中文释义。",
+        "options": [
+          "职业发展",
+          "生产性的；高效的",
+          "合作",
+          "志愿服务"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「produttivo」的释义是：生产性的；高效的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_146"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_06",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「progetto」最合适的中文释义。",
+        "options": [
+          "账单",
+          "售票处",
+          "项目",
+          "可能性"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「progetto」的释义是：项目。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_078"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_07",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「giornata」最合适的中文释义。",
+        "options": [
+          "紧急情况",
+          "联系",
+          "一天；工作日",
+          "竞争"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「giornata」的释义是：一天；工作日。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_123"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_08",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「certificato」最合适的中文释义。",
+        "options": [
+          "社区；共同体",
+          "流程；手续",
+          "证明文件",
+          "印象"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「certificato」的释义是：证明文件。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_021"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_09",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「emergenza」最合适的中文释义。",
+        "options": [
+          "紧急情况",
+          "检查；控制",
+          "印象",
+          "购买"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「emergenza」的释义是：紧急情况。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_116"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_10",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「biglietteria」最合适的中文释义。",
+        "options": [
+          "理解",
+          "售票处",
+          "就业；职业",
+          "功能；作用"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「biglietteria」的释义是：售票处。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_015"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_11",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「protezione」最合适的中文释义。",
+        "options": [
+          "目的地",
+          "机会",
+          "解雇",
+          "保护"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「protezione」的释义是：保护。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_147"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_12",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「occupazione」最合适的中文释义。",
+        "options": [
+          "流动性；出行能力",
+          "就业；职业",
+          "集体的；集体",
+          "参与；加入"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「occupazione」的释义是：就业；职业。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_138"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_13",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「fiducia」最合适的中文释义。",
+        "options": [
+          "支持",
+          "表达",
+          "目标",
+          "信任"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「fiducia」的释义是：信任。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_050"
+        ]
+      },
+      {
+        "id": "B1_VOCAB_14",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "选择「adattarsi」最合适的中文释义。",
+        "options": [
+          "益处",
+          "领域",
+          "适应",
+          "支持"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「adattarsi」的释义是：适应。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_005"
+        ]
+      },
+      {
+        "id": "B1_GRAMMAR_01",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：表达建议、愿望与礼貌推测。",
+        "options": [
+          "Condizionale presente（B1语境）",
+          "Subordinate causali/finali/temporali（从句系统）",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "对应语法点是「Condizionale presente（B1语境）」。结构提示：io -ei; tu -esti; lui/lei -ebbe...",
+        "knowledgeTags": [
+          "grammar",
+          "B1_GP_001"
+        ]
+      },
+      {
+        "id": "B1_GRAMMAR_02",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：连接句子并指代先行词。",
+        "options": [
+          "Subordinate causali/finali/temporali（从句系统）",
+          "Condizionale presente（B1语境）",
+          "Comparativi e superlativi（语义精细化）",
+          "Pronomi relativi e indefiniti（关系与不定）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Pronomi relativi e indefiniti（关系与不定）」。结构提示：che/cui/il quale; qualcuno/qualcosa/ognuno...",
+        "knowledgeTags": [
+          "grammar",
+          "B1_GP_002"
+        ]
+      },
+      {
+        "id": "B1_GRAMMAR_03",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在观点表达中进行程度比较。",
+        "options": [
+          "Comparativi e superlativi（语义精细化）",
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Condizionale presente（B1语境）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "对应语法点是「Comparativi e superlativi（语义精细化）」。结构提示：più/meno...di; tanto...quanto; il più...",
+        "knowledgeTags": [
+          "grammar",
+          "B1_GP_003"
+        ]
+      },
+      {
+        "id": "B1_GRAMMAR_04",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：解释原因、目的和时间顺序。",
+        "options": [
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Comparativi e superlativi（语义精细化）",
+          "Condizionale presente（B1语境）",
+          "Subordinate causali/finali/temporali（从句系统）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Subordinate causali/finali/temporali（从句系统）」。结构提示：perché/siccome; per + infinito; quando/mentre/dopo che...",
+        "knowledgeTags": [
+          "grammar",
+          "B1_GP_004"
+        ]
+      },
+      {
+        "id": "B1_GRAMMAR_05",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：表达想法、判断与主观态度。",
+        "options": [
+          "Pronomi relativi e indefiniti（关系与不定）",
+          "Completive oggettive/soggettive（补足语从句）",
+          "Condizionale presente（B1语境）",
+          "Comparativi e superlativi（语义精细化）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Completive oggettive/soggettive（补足语从句）」。结构提示：credo che...; è importante che...;",
+        "knowledgeTags": [
+          "grammar",
+          "B1_GP_005"
+        ]
+      },
+      {
+        "id": "B1_EXTRA_20",
+        "level": "B1",
+        "type": "single_choice",
+        "stem": "补充题：carriera 的意思是？",
+        "options": [
+          "职业发展",
+          "习惯",
+          "进入权；访问",
+          "协议；一致"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「carriera」的释义是：职业发展。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B1_020"
+        ]
+      }
+    ],
+    "B2": [
+      {
+        "id": "B2_VOCAB_01",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「verità」最合适的中文释义。",
+        "options": [
+          "特别地；尤其",
+          "人的；人类的",
+          "真理；真实",
+          "推断"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「verità」的释义是：真理；真实。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_382"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_02",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「generalizzare」最合适的中文释义。",
+        "options": [
+          "创造性的",
+          "概括",
+          "代表",
+          "大教堂"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「generalizzare」的释义是：概括。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_037"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_03",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「commesso」最合适的中文释义。",
+        "options": [
+          "引用",
+          "店员",
+          "一样的",
+          "协商"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「commesso」的释义是：店员。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_181"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_04",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「chiacchierare」最合适的中文释义。",
+        "options": [
+          "足够的",
+          "结构化表达；衔接",
+          "工程师",
+          "聊天"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「chiacchierare」的释义是：聊天。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_178"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_05",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「ingegnere」最合适的中文释义。",
+        "options": [
+          "工程师",
+          "清晰性",
+          "紧急；紧迫",
+          "跨领域的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「ingegnere」的释义是：工程师。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_258"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_06",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「soddisfazione」最合适的中文释义。",
+        "options": [
+          "准确性",
+          "系列",
+          "满意",
+          "规划"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「soddisfazione」的释义是：满意。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_328"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_07",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「industriale」最合适的中文释义。",
+        "options": [
+          "方言",
+          "配置；结构形态",
+          "后果",
+          "工业的"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「industriale」的释义是：工业的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_255"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_08",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「rivoluzione」最合适的中文释义。",
+        "options": [
+          "功能性",
+          "决定；确定",
+          "革命",
+          "壮丽的；辉煌的"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「rivoluzione」的释义是：革命。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_301"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_09",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「volume」最合适的中文释义。",
+        "options": [
+          "制约；影响",
+          "矛盾",
+          "不足；不够",
+          "音量；卷；册"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「volume」的释义是：音量；卷；册。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_387"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_10",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「previsione」最合适的中文释义。",
+        "options": [
+          "技术",
+          "无知",
+          "预测",
+          "普遍的；宇宙的"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「previsione」的释义是：预测。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_141"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_11",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「ferita」最合适的中文释义。",
+        "options": [
+          "道理；理由",
+          "伤口",
+          "考量",
+          "描写；描述"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「ferita」的释义是：伤口。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_227"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_12",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「scomparsa」最合适的中文释义。",
+        "options": [
+          "显现；浮现",
+          "明确表达",
+          "消失；逝世",
+          "协商"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「scomparsa」的释义是：消失；逝世。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_309"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_13",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「scrivania」最合适的中文释义。",
+        "options": [
+          "失业的；失业者",
+          "写字台；书桌",
+          "交际的；传播的",
+          "好处；利益；优势"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「scrivania」的释义是：写字台；书桌。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_312"
+        ]
+      },
+      {
+        "id": "B2_VOCAB_14",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "选择「balzare」最合适的中文释义。",
+        "options": [
+          "夸大",
+          "典型的",
+          "巨大的",
+          "跳起；猛增"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「balzare」的释义是：跳起；猛增。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_172"
+        ]
+      },
+      {
+        "id": "B2_GRAMMAR_01",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在叙事中准确标注先后关系。",
+        "options": [
+          "Passiva e costruzioni impersonali（被动/无人称）",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "对应语法点是「Sistema dei tempi passati avanzati（过去时体系）」。结构提示：passato remoto, trapassato prossimo/remoto, futuro anteriore",
+        "knowledgeTags": [
+          "grammar",
+          "B2_GP_001"
+        ]
+      },
+      {
+        "id": "B2_GRAMMAR_02",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：表达非现实条件、观点和让步。",
+        "options": [
+          "Pronomi combinati + particelle pronominali（代词系统）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Passiva e costruzioni impersonali（被动/无人称）"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "对应语法点是「Congiuntivo + condizionale passato（复杂假设）」。结构提示：congiuntivo presente/imperfetto + condizionale passato",
+        "knowledgeTags": [
+          "grammar",
+          "B2_GP_002"
+        ]
+      },
+      {
+        "id": "B2_GRAMMAR_03",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在真实文本中处理 clitici 连用。",
+        "options": [
+          "Passiva e costruzioni impersonali（被动/无人称）",
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Pronomi combinati + particelle pronominali（代词系统）」。结构提示：me lo, gliela, ce ne, se ne...",
+        "knowledgeTags": [
+          "grammar",
+          "B2_GP_003"
+        ]
+      },
+      {
+        "id": "B2_GRAMMAR_04",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：写说明文和制度文本时保持客观。",
+        "options": [
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Passiva e costruzioni impersonali（被动/无人称）",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Pronomi combinati + particelle pronominali（代词系统）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Passiva e costruzioni impersonali（被动/无人称）」。结构提示：essere/venire + participio; si impersonale/passivante",
+        "knowledgeTags": [
+          "grammar",
+          "B2_GP_004"
+        ]
+      },
+      {
+        "id": "B2_GRAMMAR_05",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在报道、论证中组织多层句法。",
+        "options": [
+          "Sistema dei tempi passati avanzati（过去时体系）",
+          "Congiuntivo + condizionale passato（复杂假设）",
+          "Pronomi combinati + particelle pronominali（代词系统）",
+          "Discorso indiretto e subordinate complesse（复句整合）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Discorso indiretto e subordinate complesse（复句整合）」。结构提示：discorso diretto/indiretto; subordinate esplicite/implicite",
+        "knowledgeTags": [
+          "grammar",
+          "B2_GP_005"
+        ]
+      },
+      {
+        "id": "B2_EXTRA_20",
+        "level": "B2",
+        "type": "single_choice",
+        "stem": "补充题：contraddizione 的意思是？",
+        "options": [
+          "矛盾",
+          "准确性",
+          "恰当的",
+          "陈述"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「contraddizione」的释义是：矛盾。",
+        "knowledgeTags": [
+          "vocabulary",
+          "B2_020"
+        ]
+      }
+    ],
+    "C1": [
+      {
+        "id": "C1_VOCAB_01",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「accrescere」最合适的中文释义。",
+        "options": [
+          "实施；落实",
+          "增强；增进",
+          "相关的；切题的",
+          "发现；证实"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「accrescere」的释义是：增强；增进。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_001"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_02",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「incentivare」最合适的中文释义。",
+        "options": [
+          "凝聚力；连贯性",
+          "增强；增进",
+          "激励；促进",
+          "调解；协调"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「incentivare」的释义是：激励；促进。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_051"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_03",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「mediazione」最合适的中文释义。",
+        "options": [
+          "调解；协调",
+          "凝聚力；连贯性",
+          "覆盖全面的；细致到位的",
+          "构想；理解"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「mediazione」的释义是：调解；协调。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_056"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_04",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「consolidare」最合适的中文释义。",
+        "options": [
+          "情景；局面",
+          "决定性的；关键的",
+          "巩固；加强",
+          "总额；合计"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「consolidare」的释义是：巩固；加强。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_026"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_05",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「evidenziare」最合适的中文释义。",
+        "options": [
+          "调解；协调",
+          "强调；凸显",
+          "关键问题；隐患",
+          "适合的；合适的"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「evidenziare」的释义是：强调；凸显。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_045"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_06",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「dimensione」最合适的中文释义。",
+        "options": [
+          "暗指；影射",
+          "需求；必要性",
+          "传播；扩散",
+          "维度；规模"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「dimensione」的释义是：维度；规模。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_036"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_07",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「condivisibile」最合适的中文释义。",
+        "options": [
+          "可认同的；可共享的",
+          "发现；证实",
+          "阐述；加工",
+          "利用；借助"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「condivisibile」的释义是：可认同的；可共享的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_023"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_08",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「collocare」最合适的中文释义。",
+        "options": [
+          "放置；定位",
+          "成效；有效性",
+          "促进；便利",
+          "相关的；切题的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「collocare」的释义是：放置；定位。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_020"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_09",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「rafforzare」最合适的中文释义。",
+        "options": [
+          "覆盖全面的；细致到位的",
+          "关联；建立联系",
+          "情景；局面",
+          "加强；巩固"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「rafforzare」的释义是：加强；巩固。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_061"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_10",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「esigenza」最合适的中文释义。",
+        "options": [
+          "论证；陈述理由",
+          "差距；鸿沟",
+          "需求；必要性",
+          "相关的；切题的"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「esigenza」的释义是：需求；必要性。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_043"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_11",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「dibattito」最合适的中文释义。",
+        "options": [
+          "辩论；讨论",
+          "清楚表达；使结构化",
+          "参与；投入",
+          "逐步的；渐进的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「dibattito」的释义是：辩论；讨论。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_034"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_12",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「coesione」最合适的中文释义。",
+        "options": [
+          "凝聚力；连贯性",
+          "恶化；衰败",
+          "发现；证实",
+          "列入；包括"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「coesione」的释义是：凝聚力；连贯性。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_018"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_13",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「alludere」最合适的中文释义。",
+        "options": [
+          "构想；理解",
+          "暗指；影射",
+          "放置；定位",
+          "相关的；切题的"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「alludere」的释义是：暗指；影射。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_004"
+        ]
+      },
+      {
+        "id": "C1_VOCAB_14",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "选择「sostenibile」最合适的中文释义。",
+        "options": [
+          "贡献；助益",
+          "可持续的",
+          "评估；评价",
+          "放置；定位"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「sostenibile」的释义是：可持续的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_067"
+        ]
+      },
+      {
+        "id": "C1_GRAMMAR_01",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：表达精细主观态度与复杂逻辑。",
+        "options": [
+          "Gerundio e participio avanzati（非限定形式）",
+          "Congiuntivo completo（四时态）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）",
+          "Verbi pronominali + passiva/impersonale（结构转换）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Congiuntivo completo（四时态）」。结构提示：congiuntivo presente/passato/imperfetto/trapassato",
+        "knowledgeTags": [
+          "grammar",
+          "C1_GP_001"
+        ]
+      },
+      {
+        "id": "C1_GRAMMAR_02",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：提升书面压缩和衔接能力。",
+        "options": [
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Congiuntivo completo（四时态）",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "对应语法点是「Gerundio e participio avanzati（非限定形式）」。结构提示：gerundio presente/passato; participio presente/passato",
+        "knowledgeTags": [
+          "grammar",
+          "C1_GP_002"
+        ]
+      },
+      {
+        "id": "C1_GRAMMAR_03",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：根据语体在主动/被动/无人称间切换。",
+        "options": [
+          "Gerundio e participio avanzati（非限定形式）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）",
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Congiuntivo completo（四时态）"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "对应语法点是「Verbi pronominali + passiva/impersonale（结构转换）」。结构提示：verbi pronominali; passiva; si impersonale/passivante",
+        "knowledgeTags": [
+          "grammar",
+          "C1_GP_003"
+        ]
+      },
+      {
+        "id": "C1_GRAMMAR_04",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：构建让步、条件、原因、目的等复合论证。",
+        "options": [
+          "Gerundio e participio avanzati（非限定形式）",
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Congiuntivo completo（四时态）",
+          "Periodo ipotetico avanzato + subordinate（高级假设与从句）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Periodo ipotetico avanzato + subordinate（高级假设与从句）」。结构提示：ipotetico della possibilità/irrealtà + subordinate complesse",
+        "knowledgeTags": [
+          "grammar",
+          "C1_GP_004"
+        ]
+      },
+      {
+        "id": "C1_GRAMMAR_05",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：实现正式语体下的信息重组与引用。",
+        "options": [
+          "Verbi pronominali + passiva/impersonale（结构转换）",
+          "Gerundio e participio avanzati（非限定形式）",
+          "Congiuntivo completo（四时态）",
+          "Nominalizzazione e discorso indiretto（学术表达）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Nominalizzazione e discorso indiretto（学术表达）」。结构提示：trasformazione verbo→nome; discorso diretto/indiretto",
+        "knowledgeTags": [
+          "grammar",
+          "C1_GP_005"
+        ]
+      },
+      {
+        "id": "C1_EXTRA_20",
+        "level": "C1",
+        "type": "single_choice",
+        "stem": "补充题：collocare 的意思是？",
+        "options": [
+          "放置；定位",
+          "增强；增进",
+          "赞同；加入",
+          "促进；便利"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「collocare」的释义是：放置；定位。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C1_020"
+        ]
+      }
+    ],
+    "C2": [
+      {
+        "id": "C2_VOCAB_01",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「foriero」最合适的中文释义。",
+        "options": [
+          "辜负；不履行",
+          "预示着的",
+          "免除；豁免",
+          "冗杂的；繁琐的"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「foriero」的释义是：预示着的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_039"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_02",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「prerogativa」最合适的中文释义。",
+        "options": [
+          "剥夺权力；架空",
+          "特权；专属权",
+          "无可争辩的；不可上诉的",
+          "激化；加剧"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "「prerogativa」的释义是：特权；专属权。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_063"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_03",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「inficiare」最合适的中文释义。",
+        "options": [
+          "损害；削弱",
+          "反对；阻挠",
+          "推断；臆断",
+          "专属；特权"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「inficiare」的释义是：损害；削弱。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_052"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_04",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「encomiabile」最合适的中文释义。",
+        "options": [
+          "过高的；过度的",
+          "误导性的",
+          "损害；危害",
+          "值得称赞的"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「encomiabile」的释义是：值得称赞的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_028"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_05",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「alterco」最合适的中文释义。",
+        "options": [
+          "争吵；口角",
+          "错综复杂的",
+          "淡化；粉饰",
+          "不公正的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「alterco」的释义是：争吵；口角。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_006"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_06",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「affievolirsi」最合适的中文释义。",
+        "options": [
+          "僵局；进退两难",
+          "艰难的；崎岖的",
+          "减弱；淡化",
+          "辜负；不履行"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「affievolirsi」的释义是：减弱；淡化。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_005"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_07",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「incalzare」最合适的中文释义。",
+        "options": [
+          "削弱；损伤",
+          "推论；必然结果",
+          "摧毁；使无力",
+          "紧逼；催促"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「incalzare」的释义是：紧逼；催促。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_048"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_08",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「reticente」最合适的中文释义。",
+        "options": [
+          "内在的；固有的",
+          "敬重；恭敬",
+          "含糊其辞的；不愿明说的",
+          "误导性的"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「reticente」的释义是：含糊其辞的；不愿明说的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_065"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_09",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「iniquo」最合适的中文释义。",
+        "options": [
+          "貌似真实的；可信的",
+          "推断出；看出",
+          "动摇；摇摆",
+          "不公正的"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "「iniquo」的释义是：不公正的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_053"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_10",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「vischioso」最合适的中文释义。",
+        "options": [
+          "棘手的；黏滞的",
+          "推断出；看出",
+          "公正的；沉着的",
+          "错综复杂的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「vischioso」的释义是：棘手的；黏滞的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_078"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_11",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「insidioso」最合适的中文释义。",
+        "options": [
+          "隐蔽危险的；棘手的",
+          "削弱；损伤",
+          "归因于；归入",
+          "错综复杂的"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「insidioso」的释义是：隐蔽危险的；棘手的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_054"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_12",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「dissennato」最合适的中文释义。",
+        "options": [
+          "鲁莽的；欠考虑的",
+          "损害；削弱",
+          "歪曲；曲解",
+          "僵局；进退两难"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「dissennato」的释义是：鲁莽的；欠考虑的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_025"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_13",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「cristallizzare」最合适的中文释义。",
+        "options": [
+          "固化；使定型",
+          "搁置；储备",
+          "解决；裁决",
+          "损害；削弱"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「cristallizzare」的释义是：固化；使定型。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_018"
+        ]
+      },
+      {
+        "id": "C2_VOCAB_14",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "选择「inderogabile」最合适的中文释义。",
+        "options": [
+          "削弱；损伤",
+          "推断；臆断",
+          "不可违背的；强制性的",
+          "含糊其辞的；不愿明说的"
+        ],
+        "answerIndex": 2,
+        "explanationZh": "「inderogabile」的释义是：不可违背的；强制性的。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_050"
+        ]
+      },
+      {
+        "id": "C2_GRAMMAR_01",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在复杂语境中维持语法准确与风格控制。",
+        "options": [
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）",
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Profili sintattici dell’italiano contemporaneo（当代句法控制）」。结构提示：多层主从复句 + 语序调度",
+        "knowledgeTags": [
+          "grammar",
+          "C2_GP_001"
+        ]
+      },
+      {
+        "id": "C2_GRAMMAR_02",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：理解并产出真实口语中的结构化表达。",
+        "options": [
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）",
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Meccanismi del parlato avanzato（高级口语机制）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Meccanismi del parlato avanzato（高级口语机制）」。结构提示：dislocazioni, frasi scisse, segnali discorsivi, gestione dei turni",
+        "knowledgeTags": [
+          "grammar",
+          "C2_GP_002"
+        ]
+      },
+      {
+        "id": "C2_GRAMMAR_03",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：在正式/半正式/口语场景下精准表达立场。",
+        "options": [
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）"
+        ],
+        "answerIndex": 1,
+        "explanationZh": "对应语法点是「Pragmatica dei registri（语域与语用细微差异）」。结构提示：scelte sintattiche e lessicali dipendenti da contesto e destinatario",
+        "knowledgeTags": [
+          "grammar",
+          "C2_GP_003"
+        ]
+      },
+      {
+        "id": "C2_GRAMMAR_04",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：把握字面义之外的社会文化色彩。",
+        "options": [
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）",
+          "Espressioni idiomatiche e connotazioni（习语与内涵义）"
+        ],
+        "answerIndex": 3,
+        "explanationZh": "对应语法点是「Espressioni idiomatiche e connotazioni（习语与内涵义）」。结构提示：locuzioni fisse; metafore; sfumature connotative",
+        "knowledgeTags": [
+          "grammar",
+          "C2_GP_004"
+        ]
+      },
+      {
+        "id": "C2_GRAMMAR_05",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "哪一个语法点最适合描述：构建长篇高密度信息文本并保持可读性。",
+        "options": [
+          "Coerenza macrotestuale ad alta densità（篇章级控制）",
+          "Meccanismi del parlato avanzato（高级口语机制）",
+          "Pragmatica dei registri（语域与语用细微差异）",
+          "Profili sintattici dell’italiano contemporaneo（当代句法控制）"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "对应语法点是「Coerenza macrotestuale ad alta densità（篇章级控制）」。结构提示：progressione tematica + coesione interfrastica + riformulazione",
+        "knowledgeTags": [
+          "grammar",
+          "C2_GP_005"
+        ]
+      },
+      {
+        "id": "C2_EXTRA_20",
+        "level": "C2",
+        "type": "single_choice",
+        "stem": "补充题：destituire 的意思是？",
+        "options": [
+          "免职；剥夺",
+          "放弃；退位",
+          "搁置；储备",
+          "澄清；查明"
+        ],
+        "answerIndex": 0,
+        "explanationZh": "「destituire」的释义是：免职；剥夺。",
+        "knowledgeTags": [
+          "vocabulary",
+          "C2_020"
+        ]
+      }
+    ]
+  }
+}
