@@ -1,11 +1,14 @@
 const PAGE_SIZE = 15;
 const DB_NAME = "ItalianExamTrainerWeb";
-const DB_VERSION = 1;
+const DB_VERSION = 2;
+const STORAGE_KEY = "ItalianExamTrainerWeb.history.v2";
+const PERSISTENT_STORES = ["wordStats", "vocabularySessions", "questionStats", "uiState", "manualWords"];
 
 const app = {
   db: null,
   content: null,
   questions: null,
+  manualWords: [],
   wordsByID: new Map(),
   wordsByLevel: new Map(),
   grammarByID: new Map(),
@@ -19,6 +22,7 @@ const app = {
     examMode: "exam",
     examLevel: "A1",
     wrongSetLevel: null,
+    manualLevel: "A1",
   },
   trainingVisible: new Set(),
   unmasteredVisible: new Set(),
@@ -40,7 +44,9 @@ async function init() {
     app.content = content;
     app.questions = questions;
     app.db = db;
-    indexContent(content);
+    await reconcilePersistentStores();
+    app.manualWords = await loadManualWords();
+    indexContent(content, app.manualWords);
     app.ui = { ...app.ui, ...(await loadUIState()) };
     bindEvents();
     hydrateLevelSelects();
@@ -66,6 +72,7 @@ function openDB() {
       if (!db.objectStoreNames.contains("vocabularySessions")) db.createObjectStore("vocabularySessions", { keyPath: "level" });
       if (!db.objectStoreNames.contains("questionStats")) db.createObjectStore("questionStats", { keyPath: "questionID" });
       if (!db.objectStoreNames.contains("uiState")) db.createObjectStore("uiState", { keyPath: "key" });
+      if (!db.objectStoreNames.contains("manualWords")) db.createObjectStore("manualWords", { keyPath: "id" });
     };
     request.onsuccess = () => resolve(request.result);
     request.onerror = () => reject(request.error);
@@ -79,7 +86,7 @@ function txStore(name, mode = "readonly") {
 function idbGet(name, key) {
   return new Promise((resolve, reject) => {
     const request = txStore(name).get(key);
-    request.onsuccess = () => resolve(request.result || null);
+    request.onsuccess = () => resolve(request.result || localGet(name, key) || null);
     request.onerror = () => reject(request.error);
   });
 }
@@ -87,7 +94,10 @@ function idbGet(name, key) {
 function idbGetAll(name) {
   return new Promise((resolve, reject) => {
     const request = txStore(name).getAll();
-    request.onsuccess = () => resolve(request.result || []);
+    request.onsuccess = () => {
+      const records = request.result || [];
+      resolve(records.length ? records : localGetAll(name));
+    };
     request.onerror = () => reject(request.error);
   });
 }
@@ -95,7 +105,10 @@ function idbGetAll(name) {
 function idbPut(name, value) {
   return new Promise((resolve, reject) => {
     const request = txStore(name, "readwrite").put(value);
-    request.onsuccess = () => resolve(value);
+    request.onsuccess = () => {
+      localPut(name, value);
+      resolve(value);
+    };
     request.onerror = () => reject(request.error);
   });
 }
@@ -103,17 +116,115 @@ function idbPut(name, value) {
 function idbDelete(name, key) {
   return new Promise((resolve, reject) => {
     const request = txStore(name, "readwrite").delete(key);
-    request.onsuccess = () => resolve();
+    request.onsuccess = () => {
+      localDelete(name, key);
+      resolve();
+    };
     request.onerror = () => reject(request.error);
   });
 }
 
-function indexContent(content) {
+function idbGetAllDirect(name) {
+  return new Promise((resolve, reject) => {
+    const request = txStore(name).getAll();
+    request.onsuccess = () => resolve(request.result || []);
+    request.onerror = () => reject(request.error);
+  });
+}
+
+function idbPutDirect(name, value) {
+  return new Promise((resolve, reject) => {
+    const request = txStore(name, "readwrite").put(value);
+    request.onsuccess = () => resolve(value);
+    request.onerror = () => reject(request.error);
+  });
+}
+
+async function reconcilePersistentStores() {
+  for (const storeName of PERSISTENT_STORES) {
+    const merged = new Map();
+    for (const record of localGetAll(storeName)) merged.set(recordKey(storeName, record), record);
+    for (const record of await idbGetAllDirect(storeName)) {
+      const key = recordKey(storeName, record);
+      const current = merged.get(key);
+      if (!current || recordTimestamp(record) >= recordTimestamp(current)) merged.set(key, record);
+    }
+    const records = [...merged.values()];
+    localReplaceAll(storeName, records);
+    for (const record of records) await idbPutDirect(storeName, record);
+  }
+}
+
+function readBackup() {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function writeBackup(snapshot) {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({ version: 2, stores: {}, ...snapshot }));
+  } catch {
+    // IndexedDB remains the primary store if the browser blocks localStorage.
+  }
+}
+
+function localGet(name, key) {
+  return readBackup().stores?.[name]?.[key] || null;
+}
+
+function localGetAll(name) {
+  return Object.values(readBackup().stores?.[name] || {});
+}
+
+function localPut(name, value) {
+  const snapshot = readBackup();
+  snapshot.stores ||= {};
+  snapshot.stores[name] ||= {};
+  snapshot.stores[name][recordKey(name, value)] = value;
+  writeBackup(snapshot);
+}
+
+function localDelete(name, key) {
+  const snapshot = readBackup();
+  if (snapshot.stores?.[name]) delete snapshot.stores[name][key];
+  writeBackup(snapshot);
+}
+
+function localReplaceAll(name, records) {
+  const snapshot = readBackup();
+  snapshot.stores ||= {};
+  snapshot.stores[name] = {};
+  for (const record of records) snapshot.stores[name][recordKey(name, record)] = record;
+  writeBackup(snapshot);
+}
+
+function recordKey(name, record) {
+  if (name === "wordStats") return record.wordID;
+  if (name === "vocabularySessions") return record.level;
+  if (name === "questionStats") return record.questionID;
+  if (name === "uiState") return record.key;
+  if (name === "manualWords") return record.id;
+  return record.id;
+}
+
+function recordTimestamp(record) {
+  return record.updatedAt || record.lastRevealedAt || record.lastSeenAt || record.createdAt || 0;
+}
+
+function indexContent(content, manualWords = []) {
+  app.wordsByID = new Map();
+  app.wordsByLevel = new Map();
+  app.grammarByID = new Map();
+  app.grammarByLevel = new Map();
   for (const level of content.levels) {
     app.wordsByLevel.set(level, []);
     app.grammarByLevel.set(level, []);
   }
-  for (const word of content.words) {
+  for (const word of [...content.words, ...manualWords]) {
     app.wordsByID.set(word.id, word);
     app.wordsByLevel.get(word.level)?.push(word);
   }
@@ -126,12 +237,12 @@ function indexContent(content) {
 async function loadUIState() {
   const saved = await idbGet("uiState", "main");
   if (!saved) return {};
-  const { key, ...state } = saved;
+  const { key, updatedAt, ...state } = saved;
   return state;
 }
 
 async function saveUIState() {
-  await idbPut("uiState", { key: "main", ...app.ui });
+  await idbPut("uiState", { key: "main", ...app.ui, updatedAt: Date.now() });
 }
 
 function bindEvents() {
@@ -163,6 +274,15 @@ function bindEvents() {
       await saveUIState();
       await renderExam();
     }
+    if (event.target.id === "manual-level") {
+      app.ui.manualLevel = event.target.value;
+      await saveUIState();
+    }
+  });
+
+  document.querySelector("#manual-word-form").addEventListener("submit", async (event) => {
+    event.preventDefault();
+    await addManualWord(new FormData(event.currentTarget));
   });
 
   document.querySelector("#open-unmastered").addEventListener("click", async () => {
@@ -177,9 +297,11 @@ function bindEvents() {
 function hydrateLevelSelects() {
   const levelOptions = app.content.levels.map((level) => `<option value="${level}">${level}</option>`).join("");
   document.querySelector("#vocabulary-level").innerHTML = levelOptions;
+  document.querySelector("#manual-level").innerHTML = levelOptions;
 }
 
 async function render() {
+  if (!document.querySelector(`#view-${app.ui.activeTab}`)) app.ui.activeTab = "vocabulary";
   document.querySelectorAll(".tab").forEach((button) => {
     button.classList.toggle("active", button.dataset.tab === app.ui.activeTab);
   });
@@ -188,6 +310,7 @@ async function render() {
   if (app.ui.activeTab === "vocabulary") await renderVocabulary();
   if (app.ui.activeTab === "grammar") await renderGrammar();
   if (app.ui.activeTab === "exam") await renderExam();
+  if (app.ui.activeTab === "manual") await renderManual();
 }
 
 async function handleAction(action, data) {
@@ -244,6 +367,7 @@ async function handleAction(action, data) {
   }
   if (action === "answer-wrong-set") await answerWrongSet(Number(data.answer));
   if (action === "next-wrong-set") await nextWrongSetQuestion();
+  if (action === "delete-manual-word") await deleteManualWord(data.manualID);
 }
 
 async function getWordStat(wordID) {
@@ -260,6 +384,77 @@ async function putWordStat(stat) {
   await idbPut("wordStats", stat);
 }
 
+async function loadManualWords() {
+  return (await idbGetAll("manualWords"))
+    .map(normalizeManualWord)
+    .filter((word) => word.id && word.level && word.word && word.meaningZh);
+}
+
+function normalizeManualWord(word) {
+  return {
+    id: word.id,
+    level: app.content.levels.includes(word.level) ? word.level : "A1",
+    word: String(word.word || "").trim(),
+    ipa: String(word.ipa || "").trim(),
+    meaningZh: String(word.meaningZh || "").trim(),
+    examples: Array.isArray(word.examples) ? word.examples.filter((example) => example.it || example.zh) : [],
+    source: "manual",
+    createdAt: word.createdAt || Date.now(),
+    updatedAt: word.updatedAt || word.createdAt || Date.now(),
+  };
+}
+
+async function addManualWord(formData) {
+  const level = String(formData.get("level") || "A1");
+  const word = String(formData.get("word") || "").trim();
+  const ipa = String(formData.get("ipa") || "").trim();
+  const meaningZh = String(formData.get("meaningZh") || "").trim();
+  const exampleIt = String(formData.get("exampleIt") || "").trim();
+  const exampleZh = String(formData.get("exampleZh") || "").trim();
+  if (!word || !meaningZh) return;
+
+  const now = Date.now();
+  const manualWord = normalizeManualWord({
+    id: `manual_${now}_${slugify(word)}`,
+    level,
+    word,
+    ipa,
+    meaningZh,
+    examples: exampleIt || exampleZh ? [{ it: exampleIt, zh: exampleZh }] : [],
+    createdAt: now,
+    updatedAt: now,
+  });
+
+  await idbPut("manualWords", manualWord);
+  app.manualWords = [...app.manualWords.filter((item) => item.id !== manualWord.id), manualWord];
+  indexContent(app.content, app.manualWords);
+  await reopenVocabularySessionForLevel(manualWord.level);
+  app.ui.manualLevel = manualWord.level;
+  await saveUIState();
+
+  const form = document.querySelector("#manual-word-form");
+  form.reset();
+  document.querySelector("#manual-level").value = manualWord.level;
+  await renderManual();
+}
+
+async function deleteManualWord(wordID) {
+  await idbDelete("manualWords", wordID);
+  await idbDelete("wordStats", wordID);
+  app.manualWords = app.manualWords.filter((word) => word.id !== wordID);
+  indexContent(app.content, app.manualWords);
+  await renderManual();
+}
+
+async function reopenVocabularySessionForLevel(level) {
+  const session = await getVocabularySession(level);
+  if (session.isCycleCompleted && session.pageHistory.length < session.totalPages) {
+    session.isCycleCompleted = false;
+    session.currentPageIndex = Math.max(0, session.pageHistory.length - 1);
+    await saveVocabularySession(session);
+  }
+}
+
 async function markWordsSeen(wordIDs) {
   const now = Date.now();
   for (const wordID of wordIDs) {
@@ -274,6 +469,7 @@ async function getVocabularySession(level) {
   const totalPages = Math.ceil(totalWords / PAGE_SIZE);
   const saved = await idbGet("vocabularySessions", level);
   if (saved) {
+    saved.pageHistory = Array.isArray(saved.pageHistory) ? saved.pageHistory : [];
     saved.totalPages = totalPages;
     saved.currentPageIndex = clamp(saved.currentPageIndex || 0, 0, Math.max(0, saved.pageHistory.length - 1));
     return saved;
@@ -494,6 +690,7 @@ async function shiftUnmasteredPage(delta) {
 function wordListHTML(words, action) {
   return `<div class="word-list">${words.map((word) => {
     const visible = action === "show-training-word" ? app.trainingVisible.has(word.id) : app.unmasteredVisible.has(word.id);
+    const badge = word.source === "manual" ? `${word.level} · 自添` : word.level;
     return `
       <article class="word-card">
         <div class="word-main">
@@ -501,7 +698,7 @@ function wordListHTML(words, action) {
             <div class="word-title">${esc(word.word)}</div>
             <div class="ipa">${esc(word.ipa || "-")}</div>
           </div>
-          <span class="badge">${esc(word.level)}</span>
+          <span class="badge">${esc(badge)}</span>
         </div>
         <div class="meaning">
           ${visible ? `<strong>${esc(word.meaningZh)}</strong>${examplesHTML(word.examples)}` : `<span class="muted">中文释义已隐藏</span>`}
@@ -520,6 +717,44 @@ function examplesHTML(examples) {
   return `<div class="examples">${examples.map((example) => `
     <div><span>${esc(example.it)}</span>${example.zh ? `<br><span>${esc(example.zh)}</span>` : ""}</div>
   `).join("")}</div>`;
+}
+
+async function renderManual() {
+  document.querySelector("#manual-level").value = app.ui.manualLevel;
+  const byLevel = new Map(app.content.levels.map((level) => [level, 0]));
+  for (const word of app.manualWords) byLevel.set(word.level, (byLevel.get(word.level) || 0) + 1);
+  const latest = [...app.manualWords].sort((left, right) => (right.createdAt || 0) - (left.createdAt || 0));
+
+  document.querySelector("#manual-summary").innerHTML = summaryHTML([
+    ["手动词数", app.manualWords.length],
+    ["当前等级", app.ui.manualLevel],
+    ["本等级手动词", byLevel.get(app.ui.manualLevel) || 0],
+    ["混入单词本", "已启用"],
+  ]);
+
+  document.querySelector("#manual-list").innerHTML = latest.length ? `
+    <div class="word-list">
+      ${latest.map((word) => `
+        <article class="word-card">
+          <div class="word-main">
+            <div>
+              <div class="word-title">${esc(word.word)}</div>
+              <div class="ipa">${esc(word.ipa || "-")}</div>
+            </div>
+            <span class="badge">${esc(word.level)} · 自添</span>
+          </div>
+          <div class="meaning">
+            <strong>${esc(word.meaningZh)}</strong>
+            ${examplesHTML(word.examples)}
+          </div>
+          <div class="button-row">
+            <button type="button" data-action="speak" data-text="${escAttr(word.word)}">朗读</button>
+            <button class="danger" type="button" data-action="delete-manual-word" data-manual-i-d="${escAttr(word.id)}">删除</button>
+          </div>
+        </article>
+      `).join("")}
+    </div>
+  ` : emptyHTML("暂无手动添加的单词");
 }
 
 async function renderGrammar() {
@@ -831,6 +1066,17 @@ function shuffle(items) {
 
 function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
+}
+
+function slugify(value) {
+  const slug = String(value)
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "")
+    .slice(0, 36);
+  return slug || "word";
 }
 
 function esc(value) {
