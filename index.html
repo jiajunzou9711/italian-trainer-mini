@@ -17,6 +17,7 @@
       </div>
       <nav class="tabs" aria-label="主导航">
         <button class="tab active" type="button" data-tab="vocabulary">单词本</button>
+        <button class="tab" type="button" data-tab="manual">手动生词</button>
         <button class="tab" type="button" data-tab="grammar">语法精讲</button>
         <button class="tab" type="button" data-tab="exam">等级测试</button>
       </nav>
@@ -44,6 +45,48 @@
       <div id="vocabulary-summary" class="summary"></div>
       <div id="vocabulary-content"></div>
       <div id="vocabulary-controls" class="footer-controls"></div>
+    </section>
+
+    <section id="view-manual" class="view" aria-labelledby="manual-title">
+      <div class="view-head">
+        <div>
+          <h2 id="manual-title">手动生词</h2>
+          <p>自己记录的新词会保存到本机，并混入对应等级的单词本。</p>
+        </div>
+      </div>
+
+      <form id="manual-word-form" class="manual-form">
+        <label>
+          <span>等级</span>
+          <select id="manual-level" name="level"></select>
+        </label>
+        <label>
+          <span>意大利语单词</span>
+          <input name="word" type="text" autocomplete="off" required>
+        </label>
+        <label>
+          <span>音标/读音</span>
+          <input name="ipa" type="text" autocomplete="off">
+        </label>
+        <label class="wide">
+          <span>中文释义</span>
+          <textarea name="meaningZh" rows="3" required></textarea>
+        </label>
+        <label>
+          <span>例句</span>
+          <input name="exampleIt" type="text" autocomplete="off">
+        </label>
+        <label>
+          <span>例句中文</span>
+          <input name="exampleZh" type="text" autocomplete="off">
+        </label>
+        <div class="form-actions">
+          <button class="primary" type="submit">加入单词本</button>
+        </div>
+      </form>
+
+      <div id="manual-summary" class="summary"></div>
+      <div id="manual-list"></div>
     </section>
 
     <section id="view-grammar" class="view" aria-labelledby="grammar-title">
