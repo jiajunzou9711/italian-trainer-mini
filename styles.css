@@ -35,7 +35,9 @@ body {
 }
 
 button,
-select {
+select,
+input,
+textarea {
   min-height: 52px;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -43,6 +45,11 @@ select {
   color: var(--ink);
   font: inherit;
   padding: 10px 15px;
+}
+
+textarea {
+  min-height: 112px;
+  resize: vertical;
 }
 
 button {
@@ -212,6 +219,27 @@ label {
   margin-bottom: 16px;
 }
 
+.manual-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-soft);
+  padding: 16px;
+}
+
+.manual-form .wide,
+.manual-form .form-actions {
+  grid-column: 1 / -1;
+}
+
+.manual-form .form-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .stat {
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -239,8 +267,15 @@ label {
 }
 
 .word-card,
-.panel-card,
+panel-card,
 .question-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  padding: 16px;
+}
+
+.panel-card {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: #fff;
@@ -444,9 +479,16 @@ label {
   .control-row > *,
   .footer-controls > *,
   .button-row > *,
+  .manual-form .form-actions > *,
   select,
+  input,
+  textarea,
   button {
     width: 100%;
+  }
+
+  .manual-form {
+    grid-template-columns: 1fr;
   }
 
   .word-main {
