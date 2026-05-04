@@ -30,7 +30,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.45;
 }
 
@@ -48,8 +48,15 @@ textarea {
 }
 
 textarea {
-  min-height: 112px;
+  min-height: 96px;
   resize: vertical;
+}
+
+button,
+select,
+input {
+  min-height: 44px;
+  padding: 8px 12px;
 }
 
 button {
@@ -116,15 +123,15 @@ h3 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 26px;
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 p {
@@ -208,7 +215,7 @@ label {
   display: grid;
   gap: 4px;
   color: var(--muted);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
 }
 
@@ -250,13 +257,13 @@ label {
 .stat span {
   display: block;
   color: var(--muted);
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 750;
 }
 
 .stat strong {
   display: block;
-  font-size: 24px;
+  font-size: 20px;
   margin-top: 2px;
 }
 
@@ -288,14 +295,14 @@ label {
 }
 
 .word-title {
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 850;
   line-height: 1.12;
 }
 
 .ipa {
   color: var(--muted);
-  font-size: 18px;
+  font-size: 15px;
   margin-top: 2px;
 }
 
@@ -306,7 +313,7 @@ label {
   border-radius: 999px;
   background: #edf3f6;
   color: #3e4b54;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 850;
   padding: 4px 10px;
   white-space: nowrap;
@@ -322,7 +329,7 @@ label {
   display: grid;
   gap: 8px;
   color: var(--muted);
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .footer-controls {
@@ -367,7 +374,7 @@ label {
 
 .section-title {
   color: var(--muted);
-  font-size: 17px;
+  font-size: 14px;
   font-weight: 850;
 }
 
@@ -429,7 +436,7 @@ label {
 
 @media (max-width: 760px) {
   body {
-    font-size: 19px;
+    font-size: 16px;
   }
 
   .header-inner,
@@ -451,11 +458,11 @@ label {
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 24px;
   }
 
   h2 {
-    font-size: 27px;
+    font-size: 22px;
   }
 
   .summary {
