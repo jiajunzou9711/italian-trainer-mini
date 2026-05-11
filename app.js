@@ -591,6 +591,7 @@ async function previousTrainingPage() {
   app.trainingVisible = new Set();
   await saveVocabularySession(session);
   await renderTraining();
+  scrollToPageTop();
 }
 
 async function nextTrainingPage() {
@@ -600,12 +601,14 @@ async function nextTrainingPage() {
     app.trainingVisible = new Set();
     await saveVocabularySession(session);
     await renderTraining();
+    scrollToPageTop();
     return;
   }
   if (session.pageHistory.length < session.totalPages) {
     app.trainingVisible = new Set();
     await appendTrainingPage(session);
     await renderTraining();
+    scrollToPageTop();
   }
 }
 
@@ -615,6 +618,7 @@ async function completeTrainingCycle() {
   session.currentPageIndex = Math.max(0, session.totalPages - 1);
   await saveVocabularySession(session);
   await renderTraining();
+  scrollToPageTop();
 }
 
 async function resetTrainingCycle() {
@@ -631,6 +635,7 @@ async function resetTrainingCycle() {
   app.trainingVisible = new Set();
   await appendTrainingPage(session);
   await renderTraining();
+  scrollToPageTop();
 }
 
 async function renderUnmastered() {
@@ -673,7 +678,6 @@ async function revealUnmasteredWord(wordID) {
     const stat = await getWordStat(wordID);
     stat.meaningRevealCount += 1;
     stat.unmasteredRevealCount = (stat.unmasteredRevealCount || 0) + 1;
-    stat.lastRevealedAt = Date.now();
     await putWordStat(stat);
     app.unmasteredVisible.add(wordID);
   }
@@ -685,6 +689,7 @@ async function shiftUnmasteredPage(delta) {
   app.unmasteredVisible = new Set();
   await saveUIState();
   await renderUnmastered();
+  scrollToPageTop();
 }
 
 function wordListHTML(words, action) {
@@ -928,6 +933,7 @@ async function nextExamQuestion() {
     app.examSession.index += 1;
   }
   renderExamGenerator();
+  scrollToPageTop();
 }
 
 async function renderWrongSet() {
@@ -1023,6 +1029,7 @@ async function nextWrongSetQuestion() {
   session.removedCurrent = false;
   if (session.items.length === 0) {
     renderWrongSetQuestion();
+    scrollToPageTop();
     return;
   }
   if (session.index + 1 < session.items.length) {
@@ -1031,6 +1038,7 @@ async function nextWrongSetQuestion() {
     session.index = 0;
   }
   renderWrongSetQuestion();
+  scrollToPageTop();
 }
 
 function speak(text) {
@@ -1066,6 +1074,12 @@ function shuffle(items) {
 
 function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
+}
+
+function scrollToPageTop() {
+  requestAnimationFrame(() => {
+    window.scrollTo({ top: 0, behavior: "auto" });
+  });
 }
 
 function slugify(value) {
