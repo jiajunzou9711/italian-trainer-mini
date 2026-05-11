@@ -317,6 +317,7 @@ async function handleAction(action, data) {
   if (action === "speak") speak(data.text);
   if (action === "show-training-word") await revealTrainingWord(data.wordID);
   if (action === "show-unmastered-word") await revealUnmasteredWord(data.wordID);
+  if (action === "mark-unmastered-word-mastered") await markUnmasteredWordMastered(data.wordID);
   if (action === "previous-training") await previousTrainingPage();
   if (action === "next-training") await nextTrainingPage();
   if (action === "complete-cycle") await completeTrainingCycle();
@@ -578,6 +579,7 @@ async function revealTrainingWord(wordID) {
     const stat = await getWordStat(wordID);
     stat.meaningRevealCount += 1;
     stat.lastRevealedAt = Date.now();
+    stat.masteredAt = null;
     await putWordStat(stat);
     app.trainingVisible.add(wordID);
   }
@@ -641,7 +643,7 @@ async function resetTrainingCycle() {
 async function renderUnmastered() {
   const allStats = await idbGetAll("wordStats");
   const ids = allStats
-    .filter((stat) => stat.meaningRevealCount > 0 && (stat.unmasteredRevealCount || 0) < 3)
+    .filter((stat) => stat.meaningRevealCount > 0 && !stat.masteredAt)
     .sort((left, right) => (right.lastRevealedAt || 0) - (left.lastRevealedAt || 0))
     .map((stat) => stat.wordID)
     .filter((id) => app.wordsByID.has(id));
@@ -654,7 +656,7 @@ async function renderUnmastered() {
   document.querySelector("#vocabulary-summary").innerHTML = summaryHTML([
     ["未掌握总数", ids.length],
     ["当前页", ids.length ? `${app.ui.unmasteredPageIndex + 1}/${totalPages}` : "0/0"],
-    ["移除规则", "复习3次"],
+    ["移除规则", "点已掌握"],
     ["记忆位置", "本机浏览器"],
   ]);
 
@@ -681,6 +683,14 @@ async function revealUnmasteredWord(wordID) {
     await putWordStat(stat);
     app.unmasteredVisible.add(wordID);
   }
+  await renderUnmastered();
+}
+
+async function markUnmasteredWordMastered(wordID) {
+  const stat = await getWordStat(wordID);
+  stat.masteredAt = Date.now();
+  await putWordStat(stat);
+  app.unmasteredVisible.delete(wordID);
   await renderUnmastered();
 }
 
@@ -711,6 +721,7 @@ function wordListHTML(words, action) {
         <div class="button-row">
           <button type="button" data-action="${action}" data-word-i-d="${escAttr(word.id)}">${visible ? "隐藏释义" : "显示释义"}</button>
           <button type="button" data-action="speak" data-text="${escAttr(word.word)}">朗读</button>
+          ${action === "show-unmastered-word" ? `<button class="primary" type="button" data-action="mark-unmastered-word-mastered" data-word-i-d="${escAttr(word.id)}">已掌握</button>` : ""}
         </div>
       </article>
     `;
